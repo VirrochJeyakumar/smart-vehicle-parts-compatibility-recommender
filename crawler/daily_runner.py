@@ -4,17 +4,18 @@ once per day and automatically deletes old (over 7 days) data files
 """
 
 import os
-import sys
 import subprocess
 from datetime import datetime, timedelta
 import logging
 
 # paths
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+PROJECT_ROOT = os.path.abspath(os.path.join(BASE_DIR, ".."))
 DATA_DIR = os.path.join(BASE_DIR, "..", "data")
 LOG_FILE = os.path.join(BASE_DIR, "..", "logs", "daily_runner.log")
 
 # ensure logs directory exists
+os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs(os.path.dirname(LOG_FILE), exist_ok=True)
 
 # logging
@@ -33,10 +34,20 @@ def run_crawler():
     logging.info("Starting daily crawler run...")
     print("Running eBay crawler...")
     try:
-        subprocess.run(["python3", CRAWLER_SCRIPT], check=True)
+        res = subprocess.run(
+            ["python3", CRAWLER_SCRIPT],
+            cwd=PROJECT_ROOT,
+            check=True,
+            capture_output=True,
+            text=True
+        )
+        logging.info("Crawler stdout:\n" + (res.stdout or ""))
+        logging.info("Crawler stderr:\n" + (res.stderr or ""))
         logging.info("Crawler run completed successfully")
     except subprocess.CalledProcessError as e:
-        logging.error(f"Crawler failed with error: {e}")
+        logging.error(f"Crawler failed (exit {e.returncode})")
+        logging.error(f"stdout:\n" + (e.stdout or ""))
+        logging.error(f"stdout:\n" + (e.stderr or ""))
         print("Crawler failed - check logs for details")
 
 
@@ -47,7 +58,7 @@ def cleanup_old_files():
     deleted = 0
 
     for file in os.listdir(DATA_DIR):
-        if file.endswith(".json"):
+        if file.startswith("listings_") and file.endswith(".json"):
             path = os.path.join(DATA_DIR, file)
             modified_time = datetime.fromtimestamp(os.path.getmtime(path))
             if modified_time < cutoff:

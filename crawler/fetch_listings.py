@@ -2,14 +2,24 @@
 Weeks 3-4: Implement Crawler to fetch listings using eBay's Finder API.
 """
 
-import os
+import os, sys
 import json
 import time
 import logging
 import requests
 from datetime import datetime, timedelta
+from typing import List, Dict, Tuple, Set, Optional
 
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+PROJECT_ROOT = os.path.abspath(os.path.join(BASE_DIR, ".."))
+if PROJECT_ROOT not in sys.path:
+    sys.path.insert(0, PROJECT_ROOT)
 
+from nlp.pipeline import load_vehicle_registry, build_index_from_registry, extract_compatibility
+
+REGISTRY_FILE = os.path.join(PROJECT_ROOT, "dataset", "vehicle_registry.json")
+registry = load_vehicle_registry(REGISTRY_FILE)
+index = build_index_from_registry(registry)
 
 # 1) Configure the crawler with eBay Devloper Program details.
 
@@ -19,9 +29,9 @@ CLIENT_SECRET = "***REMOVED***"
 API_URL = "https://api.ebay.com/buy/browse/v1/item_summary/search"
 OAUTH_URL = "https://api.ebay.com/identity/v1/oauth2/token"
 
-TOKEN_FILE = "token.json"
-DATA_DIR = "data"
-LOG_FILE = "logs/crawler.log"
+TOKEN_FILE = os.path.join(PROJECT_ROOT, "token.json")
+DATA_DIR = os.path.join(PROJECT_ROOT, "data")
+LOG_FILE = os.path.join(PROJECT_ROOT, "logs/crawler.log")
 
 # example search terms
 SEARCH_TERMS = [
@@ -55,6 +65,8 @@ logging.info("=== eBay Finding API crawler started ===")
 
 # 3) Authentication of token function.
 
+from requests.auth import HTTPBasicAuth
+
 # get new token or refresh an OAuth token
 def get_access_token():
     # if still valid, refresh
@@ -64,15 +76,23 @@ def get_access_token():
             if token_data["expires_at"] > time.time():
                 return token_data["access_token"]
             
-    # otherwise, fetch new token
-    auth = requests.auth.HTTPBasicAuth(CLIENT_ID, CLIENT_SECRET)
     headers = {"Content-Type": "application/x-www-form-urlencoded"}
     data = {
         "grant_type": "client_credentials",
-        "scope": "https://api.ebay.com/oauth/api_scope/buy.browse"
+        "scope": "https://api.ebay.com/oauth/api_scope"
     }
 
-    res = requests.post(OAUTH_URL, headers=headers, data=data, auth=auth)
+    res = requests.post(
+        OAUTH_URL,
+        headers=headers,
+        data=data,
+        auth=HTTPBasicAuth(CLIENT_ID.strip(), CLIENT_SECRET.strip()),
+        timeout=30
+    )
+
+    if res.status_code != 200:
+        print("OAuth error:", res.status_code, res.text)
+
     res.raise_for_status()
     result = res.json()
 
@@ -133,7 +153,6 @@ def extract_fields(item: dict):
         return None
 
 
-
 # 5) Main Crawler function
 
 # uses helper functions to act as main overall crawler function
@@ -154,12 +173,20 @@ def run_crawler():
             if not results:
                 break
 
+            # stop paging when getting fewer than MAX_RESULTS_PER_PAGE
+            if len(results) < MAX_RESULTS_PER_PAGE:
+                break
+
             # if results exist, extract each field by parsing page
             for item in results:
                 parsed = extract_fields(item)
                 if parsed:
                     # add key of term to list of other fields to identify easily
                     parsed["search_term"] = term
+
+                    # NLP integration
+                    parsed["compatibility"] = extract_compatibility(parsed.get("title", ""), index)
+
                     all_items.append(parsed)
             
             logging.info(f"{term} | Page {page+1} | {len(results)} items fetched")
