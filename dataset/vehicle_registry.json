@@ -1,0 +1,10184 @@
+[
+  {
+    "make": "affordable aluminum",
+    "model": "affordable aluminum",
+    "year_start": 2008,
+    "year_end": 2024
+  },
+  {
+    "make": "affordable trailers",
+    "model": "affordable trailers",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "ashford mfg",
+    "model": "travel park",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "audi",
+    "model": "a3",
+    "year_start": 2006,
+    "year_end": 2024
+  },
+  {
+    "make": "audi",
+    "model": "a4",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "audi",
+    "model": "a4 allroad",
+    "year_start": 2013,
+    "year_end": 2024
+  },
+  {
+    "make": "audi",
+    "model": "a5",
+    "year_start": 2008,
+    "year_end": 2024
+  },
+  {
+    "make": "audi",
+    "model": "a6",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "audi",
+    "model": "a6 allroad",
+    "year_start": 2020,
+    "year_end": 2024
+  },
+  {
+    "make": "audi",
+    "model": "a7",
+    "year_start": 2012,
+    "year_end": 2024
+  },
+  {
+    "make": "audi",
+    "model": "a7 e",
+    "year_start": 2021,
+    "year_end": 2022
+  },
+  {
+    "make": "audi",
+    "model": "a8",
+    "year_start": 1997,
+    "year_end": 2020
+  },
+  {
+    "make": "audi",
+    "model": "a8 e",
+    "year_start": 2020,
+    "year_end": 2020
+  },
+  {
+    "make": "audi",
+    "model": "a8 l",
+    "year_start": 2021,
+    "year_end": 2024
+  },
+  {
+    "make": "audi",
+    "model": "a8 l e",
+    "year_start": 2021,
+    "year_end": 2021
+  },
+  {
+    "make": "audi",
+    "model": "allroad",
+    "year_start": 2001,
+    "year_end": 2005
+  },
+  {
+    "make": "audi",
+    "model": "cabriolet",
+    "year_start": 1996,
+    "year_end": 1998
+  },
+  {
+    "make": "audi",
+    "model": "e-tron",
+    "year_start": 2019,
+    "year_end": 2023
+  },
+  {
+    "make": "audi",
+    "model": "e-tron gt",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "audi",
+    "model": "e-tron sportback",
+    "year_start": 2020,
+    "year_end": 2022
+  },
+  {
+    "make": "audi",
+    "model": "q3",
+    "year_start": 2015,
+    "year_end": 2024
+  },
+  {
+    "make": "audi",
+    "model": "q4",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "audi",
+    "model": "q5",
+    "year_start": 2009,
+    "year_end": 2024
+  },
+  {
+    "make": "audi",
+    "model": "q5 e",
+    "year_start": 2020,
+    "year_end": 2024
+  },
+  {
+    "make": "audi",
+    "model": "q7",
+    "year_start": 2007,
+    "year_end": 2024
+  },
+  {
+    "make": "audi",
+    "model": "q8",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "audi",
+    "model": "r8",
+    "year_start": 2008,
+    "year_end": 2023
+  },
+  {
+    "make": "audi",
+    "model": "rs 3",
+    "year_start": 2017,
+    "year_end": 2024
+  },
+  {
+    "make": "audi",
+    "model": "rs 4",
+    "year_start": 2007,
+    "year_end": 2008
+  },
+  {
+    "make": "audi",
+    "model": "rs 5",
+    "year_start": 2013,
+    "year_end": 2024
+  },
+  {
+    "make": "audi",
+    "model": "rs 6",
+    "year_start": 2003,
+    "year_end": 2004
+  },
+  {
+    "make": "audi",
+    "model": "rs 6 avant",
+    "year_start": 2021,
+    "year_end": 2024
+  },
+  {
+    "make": "audi",
+    "model": "rs 7",
+    "year_start": 2014,
+    "year_end": 2024
+  },
+  {
+    "make": "audi",
+    "model": "rs e-tron gt",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "audi",
+    "model": "rs q8",
+    "year_start": 2020,
+    "year_end": 2024
+  },
+  {
+    "make": "audi",
+    "model": "s3",
+    "year_start": 2015,
+    "year_end": 2024
+  },
+  {
+    "make": "audi",
+    "model": "s4",
+    "year_start": 2000,
+    "year_end": 2024
+  },
+  {
+    "make": "audi",
+    "model": "s5",
+    "year_start": 2008,
+    "year_end": 2024
+  },
+  {
+    "make": "audi",
+    "model": "s6",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "audi",
+    "model": "s7",
+    "year_start": 2013,
+    "year_end": 2024
+  },
+  {
+    "make": "audi",
+    "model": "s8",
+    "year_start": 2001,
+    "year_end": 2024
+  },
+  {
+    "make": "audi",
+    "model": "sq5",
+    "year_start": 2014,
+    "year_end": 2024
+  },
+  {
+    "make": "audi",
+    "model": "sq7",
+    "year_start": 2020,
+    "year_end": 2024
+  },
+  {
+    "make": "audi",
+    "model": "sq8",
+    "year_start": 2020,
+    "year_end": 2024
+  },
+  {
+    "make": "audi",
+    "model": "tt",
+    "year_start": 2000,
+    "year_end": 2023
+  },
+  {
+    "make": "audi",
+    "model": "tt rs",
+    "year_start": 2013,
+    "year_end": 2022
+  },
+  {
+    "make": "audi",
+    "model": "tts",
+    "year_start": 2009,
+    "year_end": 2023
+  },
+  {
+    "make": "bmw",
+    "model": "128i",
+    "year_start": 2008,
+    "year_end": 2014
+  },
+  {
+    "make": "bmw",
+    "model": "135i",
+    "year_start": 2008,
+    "year_end": 2014
+  },
+  {
+    "make": "bmw",
+    "model": "1m",
+    "year_start": 2011,
+    "year_end": 2011
+  },
+  {
+    "make": "bmw",
+    "model": "228i",
+    "year_start": 2014,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "230i",
+    "year_start": 2017,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "318i",
+    "year_start": 1996,
+    "year_end": 1998
+  },
+  {
+    "make": "bmw",
+    "model": "318ic",
+    "year_start": 1996,
+    "year_end": 1996
+  },
+  {
+    "make": "bmw",
+    "model": "318is",
+    "year_start": 1996,
+    "year_end": 1996
+  },
+  {
+    "make": "bmw",
+    "model": "318ti",
+    "year_start": 1996,
+    "year_end": 2000
+  },
+  {
+    "make": "bmw",
+    "model": "320i",
+    "year_start": 2013,
+    "year_end": 2018
+  },
+  {
+    "make": "bmw",
+    "model": "323i",
+    "year_start": 1999,
+    "year_end": 2000
+  },
+  {
+    "make": "bmw",
+    "model": "323ic",
+    "year_start": 1998,
+    "year_end": 2000
+  },
+  {
+    "make": "bmw",
+    "model": "323is",
+    "year_start": 1998,
+    "year_end": 2000
+  },
+  {
+    "make": "bmw",
+    "model": "325ci",
+    "year_start": 2000,
+    "year_end": 2006
+  },
+  {
+    "make": "bmw",
+    "model": "325i",
+    "year_start": 2001,
+    "year_end": 2006
+  },
+  {
+    "make": "bmw",
+    "model": "325xi",
+    "year_start": 2002,
+    "year_end": 2006
+  },
+  {
+    "make": "bmw",
+    "model": "328ci",
+    "year_start": 1999,
+    "year_end": 2000
+  },
+  {
+    "make": "bmw",
+    "model": "328d",
+    "year_start": 2014,
+    "year_end": 2018
+  },
+  {
+    "make": "bmw",
+    "model": "328i",
+    "year_start": 1996,
+    "year_end": 2016
+  },
+  {
+    "make": "bmw",
+    "model": "328ic",
+    "year_start": 1996,
+    "year_end": 2000
+  },
+  {
+    "make": "bmw",
+    "model": "328is",
+    "year_start": 1996,
+    "year_end": 2000
+  },
+  {
+    "make": "bmw",
+    "model": "328xi",
+    "year_start": 2007,
+    "year_end": 2008
+  },
+  {
+    "make": "bmw",
+    "model": "330ci",
+    "year_start": 2001,
+    "year_end": 2006
+  },
+  {
+    "make": "bmw",
+    "model": "330e",
+    "year_start": 2016,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "330i",
+    "year_start": 2001,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "330xi",
+    "year_start": 2002,
+    "year_end": 2006
+  },
+  {
+    "make": "bmw",
+    "model": "335",
+    "year_start": 2014,
+    "year_end": 2014
+  },
+  {
+    "make": "bmw",
+    "model": "335d",
+    "year_start": 2009,
+    "year_end": 2011
+  },
+  {
+    "make": "bmw",
+    "model": "335i",
+    "year_start": 2007,
+    "year_end": 2017
+  },
+  {
+    "make": "bmw",
+    "model": "335is",
+    "year_start": 2011,
+    "year_end": 2015
+  },
+  {
+    "make": "bmw",
+    "model": "335xi",
+    "year_start": 2007,
+    "year_end": 2008
+  },
+  {
+    "make": "bmw",
+    "model": "340i",
+    "year_start": 2016,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "428i",
+    "year_start": 2014,
+    "year_end": 2016
+  },
+  {
+    "make": "bmw",
+    "model": "430i",
+    "year_start": 2017,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "435i",
+    "year_start": 2014,
+    "year_end": 2016
+  },
+  {
+    "make": "bmw",
+    "model": "440i",
+    "year_start": 2017,
+    "year_end": 2020
+  },
+  {
+    "make": "bmw",
+    "model": "525i",
+    "year_start": 2001,
+    "year_end": 2007
+  },
+  {
+    "make": "bmw",
+    "model": "525ia",
+    "year_start": 2003,
+    "year_end": 2003
+  },
+  {
+    "make": "bmw",
+    "model": "525xi",
+    "year_start": 2006,
+    "year_end": 2007
+  },
+  {
+    "make": "bmw",
+    "model": "528i",
+    "year_start": 1997,
+    "year_end": 2016
+  },
+  {
+    "make": "bmw",
+    "model": "528xi",
+    "year_start": 2008,
+    "year_end": 2013
+  },
+  {
+    "make": "bmw",
+    "model": "530e",
+    "year_start": 2018,
+    "year_end": 2023
+  },
+  {
+    "make": "bmw",
+    "model": "530i",
+    "year_start": 2001,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "530ia",
+    "year_start": 2003,
+    "year_end": 2003
+  },
+  {
+    "make": "bmw",
+    "model": "530xi",
+    "year_start": 2006,
+    "year_end": 2007
+  },
+  {
+    "make": "bmw",
+    "model": "535d",
+    "year_start": 2014,
+    "year_end": 2016
+  },
+  {
+    "make": "bmw",
+    "model": "535i",
+    "year_start": 2008,
+    "year_end": 2017
+  },
+  {
+    "make": "bmw",
+    "model": "535xi",
+    "year_start": 2008,
+    "year_end": 2008
+  },
+  {
+    "make": "bmw",
+    "model": "540d",
+    "year_start": 2018,
+    "year_end": 2019
+  },
+  {
+    "make": "bmw",
+    "model": "540i",
+    "year_start": 1997,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "540ia",
+    "year_start": 2003,
+    "year_end": 2003
+  },
+  {
+    "make": "bmw",
+    "model": "545i",
+    "year_start": 2004,
+    "year_end": 2005
+  },
+  {
+    "make": "bmw",
+    "model": "550i",
+    "year_start": 2006,
+    "year_end": 2017
+  },
+  {
+    "make": "bmw",
+    "model": "640i",
+    "year_start": 2012,
+    "year_end": 2019
+  },
+  {
+    "make": "bmw",
+    "model": "640xi",
+    "year_start": 2018,
+    "year_end": 2019
+  },
+  {
+    "make": "bmw",
+    "model": "645ci",
+    "year_start": 2004,
+    "year_end": 2005
+  },
+  {
+    "make": "bmw",
+    "model": "645i",
+    "year_start": 2004,
+    "year_end": 2004
+  },
+  {
+    "make": "bmw",
+    "model": "650i",
+    "year_start": 2006,
+    "year_end": 2019
+  },
+  {
+    "make": "bmw",
+    "model": "650i, alpina b6",
+    "year_start": 2015,
+    "year_end": 2016
+  },
+  {
+    "make": "bmw",
+    "model": "650i, b6",
+    "year_start": 2017,
+    "year_end": 2019
+  },
+  {
+    "make": "bmw",
+    "model": "650xi",
+    "year_start": 2012,
+    "year_end": 2015
+  },
+  {
+    "make": "bmw",
+    "model": "740e",
+    "year_start": 2017,
+    "year_end": 2019
+  },
+  {
+    "make": "bmw",
+    "model": "740i",
+    "year_start": 1997,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "740il",
+    "year_start": 1996,
+    "year_end": 2001
+  },
+  {
+    "make": "bmw",
+    "model": "740li",
+    "year_start": 2011,
+    "year_end": 2022
+  },
+  {
+    "make": "bmw",
+    "model": "745e",
+    "year_start": 2020,
+    "year_end": 2021
+  },
+  {
+    "make": "bmw",
+    "model": "745i",
+    "year_start": 2002,
+    "year_end": 2005
+  },
+  {
+    "make": "bmw",
+    "model": "745le",
+    "year_start": 2022,
+    "year_end": 2022
+  },
+  {
+    "make": "bmw",
+    "model": "745li",
+    "year_start": 2002,
+    "year_end": 2005
+  },
+  {
+    "make": "bmw",
+    "model": "750e",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "750i",
+    "year_start": 2001,
+    "year_end": 2022
+  },
+  {
+    "make": "bmw",
+    "model": "750i, alpina b7",
+    "year_start": 2012,
+    "year_end": 2015
+  },
+  {
+    "make": "bmw",
+    "model": "750i, b7",
+    "year_start": 2017,
+    "year_end": 2019
+  },
+  {
+    "make": "bmw",
+    "model": "750il",
+    "year_start": 1996,
+    "year_end": 1999
+  },
+  {
+    "make": "bmw",
+    "model": "750li",
+    "year_start": 2000,
+    "year_end": 2022
+  },
+  {
+    "make": "bmw",
+    "model": "750li, alpina b7",
+    "year_start": 2012,
+    "year_end": 2015
+  },
+  {
+    "make": "bmw",
+    "model": "750lxi",
+    "year_start": 2010,
+    "year_end": 2015
+  },
+  {
+    "make": "bmw",
+    "model": "750lxi, alpina b7",
+    "year_start": 2012,
+    "year_end": 2012
+  },
+  {
+    "make": "bmw",
+    "model": "750xi",
+    "year_start": 2010,
+    "year_end": 2015
+  },
+  {
+    "make": "bmw",
+    "model": "750xi, alpina b7",
+    "year_start": 2012,
+    "year_end": 2012
+  },
+  {
+    "make": "bmw",
+    "model": "760i",
+    "year_start": 2005,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "760li",
+    "year_start": 2003,
+    "year_end": 2015
+  },
+  {
+    "make": "bmw",
+    "model": "840ci",
+    "year_start": 1996,
+    "year_end": 1996
+  },
+  {
+    "make": "bmw",
+    "model": "840i",
+    "year_start": 2020,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "850ci",
+    "year_start": 1996,
+    "year_end": 1996
+  },
+  {
+    "make": "bmw",
+    "model": "850i",
+    "year_start": 2019,
+    "year_end": 2019
+  },
+  {
+    "make": "bmw",
+    "model": "activee",
+    "year_start": 2012,
+    "year_end": 2012
+  },
+  {
+    "make": "bmw",
+    "model": "activehybrid 3",
+    "year_start": 2014,
+    "year_end": 2015
+  },
+  {
+    "make": "bmw",
+    "model": "activehybrid 5",
+    "year_start": 2012,
+    "year_end": 2018
+  },
+  {
+    "make": "bmw",
+    "model": "activehybrid 7",
+    "year_start": 2014,
+    "year_end": 2015
+  },
+  {
+    "make": "bmw",
+    "model": "alpina",
+    "year_start": 2003,
+    "year_end": 2003
+  },
+  {
+    "make": "bmw",
+    "model": "alpina b8",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "b7",
+    "year_start": 2019,
+    "year_end": 2022
+  },
+  {
+    "make": "bmw",
+    "model": "c 400 gt",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "c 400 x",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "c 600",
+    "year_start": 1996,
+    "year_end": 2016
+  },
+  {
+    "make": "bmw",
+    "model": "c 650",
+    "year_start": 2017,
+    "year_end": 2021
+  },
+  {
+    "make": "bmw",
+    "model": "c 650 gt",
+    "year_start": 1996,
+    "year_end": 2021
+  },
+  {
+    "make": "bmw",
+    "model": "c evolution",
+    "year_start": 2017,
+    "year_end": 2021
+  },
+  {
+    "make": "bmw",
+    "model": "ce 02",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "ce 04",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "f 650",
+    "year_start": 1996,
+    "year_end": 2004
+  },
+  {
+    "make": "bmw",
+    "model": "f 650 cs",
+    "year_start": 2003,
+    "year_end": 2005
+  },
+  {
+    "make": "bmw",
+    "model": "f 650 gs",
+    "year_start": 1996,
+    "year_end": 2012
+  },
+  {
+    "make": "bmw",
+    "model": "f 650 s",
+    "year_start": 1998,
+    "year_end": 1999
+  },
+  {
+    "make": "bmw",
+    "model": "f 700 gs",
+    "year_start": 1996,
+    "year_end": 2021
+  },
+  {
+    "make": "bmw",
+    "model": "f 750 gs",
+    "year_start": 2019,
+    "year_end": 2023
+  },
+  {
+    "make": "bmw",
+    "model": "f 800 gs",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "f 800 gt",
+    "year_start": 1996,
+    "year_end": 2021
+  },
+  {
+    "make": "bmw",
+    "model": "f 800 r",
+    "year_start": 1996,
+    "year_end": 2021
+  },
+  {
+    "make": "bmw",
+    "model": "f 800 s",
+    "year_start": 1996,
+    "year_end": 2012
+  },
+  {
+    "make": "bmw",
+    "model": "f 800 st",
+    "year_start": 1996,
+    "year_end": 2012
+  },
+  {
+    "make": "bmw",
+    "model": "f 850 gs",
+    "year_start": 2019,
+    "year_end": 2023
+  },
+  {
+    "make": "bmw",
+    "model": "f 900",
+    "year_start": 2020,
+    "year_end": 2023
+  },
+  {
+    "make": "bmw",
+    "model": "f 900 gs",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "f 900 gs adventure",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "f 900 r",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "f 900 xr",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "g 310 gs",
+    "year_start": 2017,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "g 310 r",
+    "year_start": 2017,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "g 450 x",
+    "year_start": 1996,
+    "year_end": 2011
+  },
+  {
+    "make": "bmw",
+    "model": "g 650",
+    "year_start": 1996,
+    "year_end": 2009
+  },
+  {
+    "make": "bmw",
+    "model": "g 650 gs",
+    "year_start": 1996,
+    "year_end": 2021
+  },
+  {
+    "make": "bmw",
+    "model": "hp2",
+    "year_start": 1996,
+    "year_end": 2011
+  },
+  {
+    "make": "bmw",
+    "model": "hp4",
+    "year_start": 1996,
+    "year_end": 2014
+  },
+  {
+    "make": "bmw",
+    "model": "i3",
+    "year_start": 2014,
+    "year_end": 2021
+  },
+  {
+    "make": "bmw",
+    "model": "i4",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "i5",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "i7",
+    "year_start": 2023,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "i8",
+    "year_start": 2014,
+    "year_end": 2020
+  },
+  {
+    "make": "bmw",
+    "model": "ix",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "k 1100 lt",
+    "year_start": 1996,
+    "year_end": 1999
+  },
+  {
+    "make": "bmw",
+    "model": "k 1100 rs",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "bmw",
+    "model": "k 1200 gt",
+    "year_start": 1996,
+    "year_end": 2008
+  },
+  {
+    "make": "bmw",
+    "model": "k 1200 lt",
+    "year_start": 1996,
+    "year_end": 2009
+  },
+  {
+    "make": "bmw",
+    "model": "k 1200 r",
+    "year_start": 1996,
+    "year_end": 2008
+  },
+  {
+    "make": "bmw",
+    "model": "k 1200 rs",
+    "year_start": 1998,
+    "year_end": 2001
+  },
+  {
+    "make": "bmw",
+    "model": "k 1200 s",
+    "year_start": 1996,
+    "year_end": 2008
+  },
+  {
+    "make": "bmw",
+    "model": "k 1300 gt",
+    "year_start": 1996,
+    "year_end": 2012
+  },
+  {
+    "make": "bmw",
+    "model": "k 1300 r",
+    "year_start": 1996,
+    "year_end": 2012
+  },
+  {
+    "make": "bmw",
+    "model": "k 1300 s",
+    "year_start": 1996,
+    "year_end": 2021
+  },
+  {
+    "make": "bmw",
+    "model": "k 1600 b",
+    "year_start": 2018,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "k 1600 gt",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "k 1600 gtl",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "m 1000",
+    "year_start": 2021,
+    "year_end": 2023
+  },
+  {
+    "make": "bmw",
+    "model": "m 1000 r",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "m 1000 rr",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "m 1000 xr",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "m2",
+    "year_start": 2016,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "m235i",
+    "year_start": 2014,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "m240i",
+    "year_start": 2017,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "m3",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "m340i",
+    "year_start": 2020,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "m3ci",
+    "year_start": 2001,
+    "year_end": 2006
+  },
+  {
+    "make": "bmw",
+    "model": "m4",
+    "year_start": 2015,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "m440i",
+    "year_start": 2021,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "m5",
+    "year_start": 2000,
+    "year_end": 2023
+  },
+  {
+    "make": "bmw",
+    "model": "m550i",
+    "year_start": 2018,
+    "year_end": 2023
+  },
+  {
+    "make": "bmw",
+    "model": "m6",
+    "year_start": 2006,
+    "year_end": 2019
+  },
+  {
+    "make": "bmw",
+    "model": "m760i",
+    "year_start": 2017,
+    "year_end": 2021
+  },
+  {
+    "make": "bmw",
+    "model": "m760li",
+    "year_start": 2022,
+    "year_end": 2022
+  },
+  {
+    "make": "bmw",
+    "model": "m8",
+    "year_start": 2020,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "m850i",
+    "year_start": 2020,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "r 1100 gs",
+    "year_start": 1996,
+    "year_end": 2001
+  },
+  {
+    "make": "bmw",
+    "model": "r 1100 r",
+    "year_start": 1996,
+    "year_end": 2001
+  },
+  {
+    "make": "bmw",
+    "model": "r 1100 rs",
+    "year_start": 1996,
+    "year_end": 2001
+  },
+  {
+    "make": "bmw",
+    "model": "r 1100 rt",
+    "year_start": 1996,
+    "year_end": 2001
+  },
+  {
+    "make": "bmw",
+    "model": "r 1100 s",
+    "year_start": 1996,
+    "year_end": 2005
+  },
+  {
+    "make": "bmw",
+    "model": "r 1150 gs",
+    "year_start": 1996,
+    "year_end": 2006
+  },
+  {
+    "make": "bmw",
+    "model": "r 1150 r",
+    "year_start": 1996,
+    "year_end": 2007
+  },
+  {
+    "make": "bmw",
+    "model": "r 1150 rs",
+    "year_start": 1996,
+    "year_end": 2005
+  },
+  {
+    "make": "bmw",
+    "model": "r 1150 rt",
+    "year_start": 1996,
+    "year_end": 2005
+  },
+  {
+    "make": "bmw",
+    "model": "r 12",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "r 12 ninet",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "r 1200 c",
+    "year_start": 1996,
+    "year_end": 2005
+  },
+  {
+    "make": "bmw",
+    "model": "r 1200 cl",
+    "year_start": 1996,
+    "year_end": 2004
+  },
+  {
+    "make": "bmw",
+    "model": "r 1200 gs",
+    "year_start": 1996,
+    "year_end": 2021
+  },
+  {
+    "make": "bmw",
+    "model": "r 1200 r",
+    "year_start": 1996,
+    "year_end": 2021
+  },
+  {
+    "make": "bmw",
+    "model": "r 1200 rs",
+    "year_start": 2016,
+    "year_end": 2021
+  },
+  {
+    "make": "bmw",
+    "model": "r 1200 rt",
+    "year_start": 1996,
+    "year_end": 2021
+  },
+  {
+    "make": "bmw",
+    "model": "r 1200 s",
+    "year_start": 1996,
+    "year_end": 2008
+  },
+  {
+    "make": "bmw",
+    "model": "r 1200 st",
+    "year_start": 1996,
+    "year_end": 2007
+  },
+  {
+    "make": "bmw",
+    "model": "r 1250 gs",
+    "year_start": 2019,
+    "year_end": 2023
+  },
+  {
+    "make": "bmw",
+    "model": "r 1250 gs adventure",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "r 1250 r",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "r 1250 rs",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "r 1250 rt",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "r 1300 gs",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "r 18",
+    "year_start": 2021,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "r 18 b",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "r 18 classic",
+    "year_start": 2021,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "r 18 roctane",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "r 18 transcontinental",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "r 850 r",
+    "year_start": 1996,
+    "year_end": 2007
+  },
+  {
+    "make": "bmw",
+    "model": "r 900 rt",
+    "year_start": 1996,
+    "year_end": 2012
+  },
+  {
+    "make": "bmw",
+    "model": "r ninet",
+    "year_start": 1996,
+    "year_end": 2023
+  },
+  {
+    "make": "bmw",
+    "model": "s 1000 r",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "s 1000 rr",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "s 1000 xr",
+    "year_start": 2016,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "x1",
+    "year_start": 2012,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "x2",
+    "year_start": 2018,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "x3",
+    "year_start": 2004,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "x4",
+    "year_start": 2015,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "x5",
+    "year_start": 2000,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "x6",
+    "year_start": 2008,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "x7",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "xm",
+    "year_start": 2023,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "z3",
+    "year_start": 1996,
+    "year_end": 2002
+  },
+  {
+    "make": "bmw",
+    "model": "z4",
+    "year_start": 2003,
+    "year_end": 2024
+  },
+  {
+    "make": "bmw",
+    "model": "z8",
+    "year_start": 2001,
+    "year_end": 2003
+  },
+  {
+    "make": "bradford #1",
+    "model": "bradford #1",
+    "year_start": 2017,
+    "year_end": 2024
+  },
+  {
+    "make": "bradford built",
+    "model": "bradford built",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "cranford radiator inc.",
+    "model": "cranford radiator inc.",
+    "year_start": 2004,
+    "year_end": 2024
+  },
+  {
+    "make": "ducati",
+    "model": "1199 panigale (all)",
+    "year_start": 1996,
+    "year_end": 2010
+  },
+  {
+    "make": "ducati",
+    "model": "1299 superleggera",
+    "year_start": 2017,
+    "year_end": 2017
+  },
+  {
+    "make": "ducati",
+    "model": "1299 superleggera / panigale",
+    "year_start": 2018,
+    "year_end": 2018
+  },
+  {
+    "make": "ducati",
+    "model": "620 sport",
+    "year_start": 2003,
+    "year_end": 2003
+  },
+  {
+    "make": "ducati",
+    "model": "748",
+    "year_start": 1996,
+    "year_end": 2003
+  },
+  {
+    "make": "ducati",
+    "model": "749",
+    "year_start": 2003,
+    "year_end": 2003
+  },
+  {
+    "make": "ducati",
+    "model": "750sport/ss750",
+    "year_start": 1996,
+    "year_end": 2003
+  },
+  {
+    "make": "ducati",
+    "model": "750ss",
+    "year_start": 1996,
+    "year_end": 2003
+  },
+  {
+    "make": "ducati",
+    "model": "900fe/900cr",
+    "year_start": 1996,
+    "year_end": 1998
+  },
+  {
+    "make": "ducati",
+    "model": "900ss",
+    "year_start": 1999,
+    "year_end": 2001
+  },
+  {
+    "make": "ducati",
+    "model": "900sscr/900sssp",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "ducati",
+    "model": "916",
+    "year_start": 1996,
+    "year_end": 1998
+  },
+  {
+    "make": "ducati",
+    "model": "996",
+    "year_start": 1996,
+    "year_end": 2002
+  },
+  {
+    "make": "ducati",
+    "model": "998",
+    "year_start": 1996,
+    "year_end": 2003
+  },
+  {
+    "make": "ducati",
+    "model": "999",
+    "year_start": 2003,
+    "year_end": 2003
+  },
+  {
+    "make": "ducati",
+    "model": "classic",
+    "year_start": 1996,
+    "year_end": 2010
+  },
+  {
+    "make": "ducati",
+    "model": "d16rr",
+    "year_start": 1996,
+    "year_end": 2008
+  },
+  {
+    "make": "ducati",
+    "model": "desert x",
+    "year_start": 2023,
+    "year_end": 2024
+  },
+  {
+    "make": "ducati",
+    "model": "diavel",
+    "year_start": 1996,
+    "year_end": 2019
+  },
+  {
+    "make": "ducati",
+    "model": "diavel/xdiavel",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "ducati",
+    "model": "hypermotard",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "ducati",
+    "model": "hypermotard (hym)",
+    "year_start": 1996,
+    "year_end": 2019
+  },
+  {
+    "make": "ducati",
+    "model": "hypersport (faired sport bike)",
+    "year_start": 2004,
+    "year_end": 2004
+  },
+  {
+    "make": "ducati",
+    "model": "m600",
+    "year_start": 1999,
+    "year_end": 2002
+  },
+  {
+    "make": "ducati",
+    "model": "m620",
+    "year_start": 1996,
+    "year_end": 2003
+  },
+  {
+    "make": "ducati",
+    "model": "m750",
+    "year_start": 1996,
+    "year_end": 2003
+  },
+  {
+    "make": "ducati",
+    "model": "m900",
+    "year_start": 1996,
+    "year_end": 2003
+  },
+  {
+    "make": "ducati",
+    "model": "m900s4",
+    "year_start": 1996,
+    "year_end": 2003
+  },
+  {
+    "make": "ducati",
+    "model": "mh900e",
+    "year_start": 1996,
+    "year_end": 2003
+  },
+  {
+    "make": "ducati",
+    "model": "monster",
+    "year_start": 2002,
+    "year_end": 2024
+  },
+  {
+    "make": "ducati",
+    "model": "monster 1200",
+    "year_start": 2017,
+    "year_end": 2017
+  },
+  {
+    "make": "ducati",
+    "model": "monster 1200 / monster 1200s, monster 821",
+    "year_start": 2018,
+    "year_end": 2018
+  },
+  {
+    "make": "ducati",
+    "model": "monster 797",
+    "year_start": 2017,
+    "year_end": 2018
+  },
+  {
+    "make": "ducati",
+    "model": "monster(naked standard bike)",
+    "year_start": 2003,
+    "year_end": 2005
+  },
+  {
+    "make": "ducati",
+    "model": "multistrada",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "ducati",
+    "model": "multistrada (mts)",
+    "year_start": 1996,
+    "year_end": 2019
+  },
+  {
+    "make": "ducati",
+    "model": "multistrada 950",
+    "year_start": 2017,
+    "year_end": 2017
+  },
+  {
+    "make": "ducati",
+    "model": "multistrada 950, multistrada 1260",
+    "year_start": 2018,
+    "year_end": 2018
+  },
+  {
+    "make": "ducati",
+    "model": "new superbike (sbk)",
+    "year_start": 2011,
+    "year_end": 2019
+  },
+  {
+    "make": "ducati",
+    "model": "panigale",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "ducati",
+    "model": "panigale v4 / panigale v4s / panigale v4 speciale",
+    "year_start": 2018,
+    "year_end": 2018
+  },
+  {
+    "make": "ducati",
+    "model": "race only",
+    "year_start": 1996,
+    "year_end": 2004
+  },
+  {
+    "make": "ducati",
+    "model": "sbe",
+    "year_start": 2005,
+    "year_end": 2007
+  },
+  {
+    "make": "ducati",
+    "model": "scrambler",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "ducati",
+    "model": "scrambler 800",
+    "year_start": 2011,
+    "year_end": 2019
+  },
+  {
+    "make": "ducati",
+    "model": "scrambler desert sled",
+    "year_start": 2017,
+    "year_end": 2017
+  },
+  {
+    "make": "ducati",
+    "model": "scrambler desert sled, ducati scrambler 1100",
+    "year_start": 2018,
+    "year_end": 2018
+  },
+  {
+    "make": "ducati",
+    "model": "sport touring",
+    "year_start": 2004,
+    "year_end": 2007
+  },
+  {
+    "make": "ducati",
+    "model": "ss900/900 sport",
+    "year_start": 1998,
+    "year_end": 2003
+  },
+  {
+    "make": "ducati",
+    "model": "st2",
+    "year_start": 1996,
+    "year_end": 2003
+  },
+  {
+    "make": "ducati",
+    "model": "st4",
+    "year_start": 1996,
+    "year_end": 2002
+  },
+  {
+    "make": "ducati",
+    "model": "st4s",
+    "year_start": 1996,
+    "year_end": 2003
+  },
+  {
+    "make": "ducati",
+    "model": "streetfighter",
+    "year_start": 2020,
+    "year_end": 2024
+  },
+  {
+    "make": "ducati",
+    "model": "streetfighter (sft)",
+    "year_start": 1996,
+    "year_end": 2019
+  },
+  {
+    "make": "ducati",
+    "model": "super sport (faired sport bike)",
+    "year_start": 2003,
+    "year_end": 2007
+  },
+  {
+    "make": "ducati",
+    "model": "superbike",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "ducati",
+    "model": "supersport",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "ducati",
+    "model": "supersport / supersport s",
+    "year_start": 2017,
+    "year_end": 2018
+  },
+  {
+    "make": "eagle ford tanks & trailers llc",
+    "model": "eagle ford tanks & trailers llc",
+    "year_start": 2012,
+    "year_end": 2024
+  },
+  {
+    "make": "ford",
+    "model": "'34",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "ford",
+    "model": "a8513",
+    "year_start": 1996,
+    "year_end": 1998
+  },
+  {
+    "make": "ford",
+    "model": "a9513",
+    "year_start": 1996,
+    "year_end": 1998
+  },
+  {
+    "make": "ford",
+    "model": "a9522",
+    "year_start": 1996,
+    "year_end": 1998
+  },
+  {
+    "make": "ford",
+    "model": "aerostar",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "ford",
+    "model": "aspire",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "ford",
+    "model": "at8513",
+    "year_start": 1996,
+    "year_end": 1998
+  },
+  {
+    "make": "ford",
+    "model": "at9513",
+    "year_start": 1996,
+    "year_end": 1998
+  },
+  {
+    "make": "ford",
+    "model": "at9522",
+    "year_start": 1996,
+    "year_end": 1998
+  },
+  {
+    "make": "ford",
+    "model": "b-750",
+    "year_start": 2002,
+    "year_end": 2002
+  },
+  {
+    "make": "ford",
+    "model": "b800",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "ford",
+    "model": "bronco",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "ford",
+    "model": "bronco sport",
+    "year_start": 2021,
+    "year_end": 2024
+  },
+  {
+    "make": "ford",
+    "model": "c-max",
+    "year_start": 2013,
+    "year_end": 2018
+  },
+  {
+    "make": "ford",
+    "model": "cf7000",
+    "year_start": 1996,
+    "year_end": 1996
+  },
+  {
+    "make": "ford",
+    "model": "cf8000",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "ford",
+    "model": "cft8000",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "ford",
+    "model": "commercial chassis",
+    "year_start": 2011,
+    "year_end": 2024
+  },
+  {
+    "make": "ford",
+    "model": "contour",
+    "year_start": 1996,
+    "year_end": 2000
+  },
+  {
+    "make": "ford",
+    "model": "crown victoria",
+    "year_start": 1996,
+    "year_end": 2011
+  },
+  {
+    "make": "ford",
+    "model": "e-150",
+    "year_start": 1996,
+    "year_end": 2014
+  },
+  {
+    "make": "ford",
+    "model": "e-250",
+    "year_start": 1996,
+    "year_end": 2014
+  },
+  {
+    "make": "ford",
+    "model": "e-350",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "ford",
+    "model": "e-450",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "ford",
+    "model": "e-550",
+    "year_start": 2002,
+    "year_end": 2015
+  },
+  {
+    "make": "ford",
+    "model": "ecosport",
+    "year_start": 2018,
+    "year_end": 2024
+  },
+  {
+    "make": "ford",
+    "model": "edge",
+    "year_start": 2007,
+    "year_end": 2024
+  },
+  {
+    "make": "ford",
+    "model": "escape",
+    "year_start": 2001,
+    "year_end": 2024
+  },
+  {
+    "make": "ford",
+    "model": "escort",
+    "year_start": 1996,
+    "year_end": 2002
+  },
+  {
+    "make": "ford",
+    "model": "excursion",
+    "year_start": 2000,
+    "year_end": 2005
+  },
+  {
+    "make": "ford",
+    "model": "expedition",
+    "year_start": 1997,
+    "year_end": 2024
+  },
+  {
+    "make": "ford",
+    "model": "expedition el",
+    "year_start": 2017,
+    "year_end": 2017
+  },
+  {
+    "make": "ford",
+    "model": "expedition max",
+    "year_start": 2007,
+    "year_end": 2024
+  },
+  {
+    "make": "ford",
+    "model": "explorer",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "ford",
+    "model": "explorer sport",
+    "year_start": 2003,
+    "year_end": 2003
+  },
+  {
+    "make": "ford",
+    "model": "explorer sport trac",
+    "year_start": 2001,
+    "year_end": 2010
+  },
+  {
+    "make": "ford",
+    "model": "f-150",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "ford",
+    "model": "f-150 heritage",
+    "year_start": 2004,
+    "year_end": 2004
+  },
+  {
+    "make": "ford",
+    "model": "f-250",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "ford",
+    "model": "f-350",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "ford",
+    "model": "f-450",
+    "year_start": 1999,
+    "year_end": 2024
+  },
+  {
+    "make": "ford",
+    "model": "f-550",
+    "year_start": 1999,
+    "year_end": 2024
+  },
+  {
+    "make": "ford",
+    "model": "f-600",
+    "year_start": 2020,
+    "year_end": 2024
+  },
+  {
+    "make": "ford",
+    "model": "f-650",
+    "year_start": 2000,
+    "year_end": 2024
+  },
+  {
+    "make": "ford",
+    "model": "f-700",
+    "year_start": 1996,
+    "year_end": 1998
+  },
+  {
+    "make": "ford",
+    "model": "f-750",
+    "year_start": 2000,
+    "year_end": 2024
+  },
+  {
+    "make": "ford",
+    "model": "f-800",
+    "year_start": 1996,
+    "year_end": 2002
+  },
+  {
+    "make": "ford",
+    "model": "f-super duty",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "ford",
+    "model": "fiesta",
+    "year_start": 2011,
+    "year_end": 2024
+  },
+  {
+    "make": "ford",
+    "model": "five hundred",
+    "year_start": 2005,
+    "year_end": 2007
+  },
+  {
+    "make": "ford",
+    "model": "flex",
+    "year_start": 2009,
+    "year_end": 2024
+  },
+  {
+    "make": "ford",
+    "model": "focus",
+    "year_start": 2000,
+    "year_end": 2024
+  },
+  {
+    "make": "ford",
+    "model": "freestar",
+    "year_start": 2004,
+    "year_end": 2007
+  },
+  {
+    "make": "ford",
+    "model": "freestyle",
+    "year_start": 2005,
+    "year_end": 2007
+  },
+  {
+    "make": "ford",
+    "model": "ft900",
+    "year_start": 1996,
+    "year_end": 1998
+  },
+  {
+    "make": "ford",
+    "model": "fusion",
+    "year_start": 2006,
+    "year_end": 2020
+  },
+  {
+    "make": "ford",
+    "model": "gt",
+    "year_start": 2004,
+    "year_end": 2022
+  },
+  {
+    "make": "ford",
+    "model": "gt mkii",
+    "year_start": 2023,
+    "year_end": 2024
+  },
+  {
+    "make": "ford",
+    "model": "l8000",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "ford",
+    "model": "l8501",
+    "year_start": 1997,
+    "year_end": 1998
+  },
+  {
+    "make": "ford",
+    "model": "l8511",
+    "year_start": 1998,
+    "year_end": 1998
+  },
+  {
+    "make": "ford",
+    "model": "l8513",
+    "year_start": 1996,
+    "year_end": 1998
+  },
+  {
+    "make": "ford",
+    "model": "l9000",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "ford",
+    "model": "l9501",
+    "year_start": 1997,
+    "year_end": 1998
+  },
+  {
+    "make": "ford",
+    "model": "l9511",
+    "year_start": 1998,
+    "year_end": 1998
+  },
+  {
+    "make": "ford",
+    "model": "l9513",
+    "year_start": 1996,
+    "year_end": 1998
+  },
+  {
+    "make": "ford",
+    "model": "l9522",
+    "year_start": 1998,
+    "year_end": 1998
+  },
+  {
+    "make": "ford",
+    "model": "la8000",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "ford",
+    "model": "la9000",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "ford",
+    "model": "ll9000",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "ford",
+    "model": "lla9000",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "ford",
+    "model": "lls9000",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "ford",
+    "model": "ln7000",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "ford",
+    "model": "ln8000",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "ford",
+    "model": "ln9000",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "ford",
+    "model": "lnt8000",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "ford",
+    "model": "lnt9000",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "ford",
+    "model": "low cab forward",
+    "year_start": 2006,
+    "year_end": 2009
+  },
+  {
+    "make": "ford",
+    "model": "ls8000",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "ford",
+    "model": "ls9000",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "ford",
+    "model": "lt8000",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "ford",
+    "model": "lt8501",
+    "year_start": 1996,
+    "year_end": 1998
+  },
+  {
+    "make": "ford",
+    "model": "lt8511",
+    "year_start": 1998,
+    "year_end": 1998
+  },
+  {
+    "make": "ford",
+    "model": "lt8513",
+    "year_start": 1996,
+    "year_end": 1998
+  },
+  {
+    "make": "ford",
+    "model": "lt9000",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "ford",
+    "model": "lt9501",
+    "year_start": 1996,
+    "year_end": 1998
+  },
+  {
+    "make": "ford",
+    "model": "lt9511",
+    "year_start": 1998,
+    "year_end": 1998
+  },
+  {
+    "make": "ford",
+    "model": "lt9513",
+    "year_start": 1996,
+    "year_end": 1998
+  },
+  {
+    "make": "ford",
+    "model": "lt9522",
+    "year_start": 1996,
+    "year_end": 1998
+  },
+  {
+    "make": "ford",
+    "model": "lta9000",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "ford",
+    "model": "ltl9000",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "ford",
+    "model": "ltla9000",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "ford",
+    "model": "ltls9000",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "ford",
+    "model": "lts8000",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "ford",
+    "model": "lts9000",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "ford",
+    "model": "maverick",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "ford",
+    "model": "motorhome chassis",
+    "year_start": 1999,
+    "year_end": 2024
+  },
+  {
+    "make": "ford",
+    "model": "mustang",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "ford",
+    "model": "mustang mach-e",
+    "year_start": 2021,
+    "year_end": 2024
+  },
+  {
+    "make": "ford",
+    "model": "p700",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "ford",
+    "model": "p800",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "ford",
+    "model": "probe",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "ford",
+    "model": "ranger",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "ford",
+    "model": "taurus",
+    "year_start": 1996,
+    "year_end": 2019
+  },
+  {
+    "make": "ford",
+    "model": "taurus x",
+    "year_start": 2008,
+    "year_end": 2009
+  },
+  {
+    "make": "ford",
+    "model": "thunderbird",
+    "year_start": 1996,
+    "year_end": 2005
+  },
+  {
+    "make": "ford",
+    "model": "transit",
+    "year_start": 2015,
+    "year_end": 2024
+  },
+  {
+    "make": "ford",
+    "model": "transit connect",
+    "year_start": 2010,
+    "year_end": 2024
+  },
+  {
+    "make": "ford",
+    "model": "windstar",
+    "year_start": 1996,
+    "year_end": 2003
+  },
+  {
+    "make": "ford",
+    "model": "zx2",
+    "year_start": 1999,
+    "year_end": 2003
+  },
+  {
+    "make": "fords trailer sales",
+    "model": "fords trailer sales",
+    "year_start": 2013,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "599",
+    "year_start": 2004,
+    "year_end": 2006
+  },
+  {
+    "make": "honda",
+    "model": "919",
+    "year_start": 2002,
+    "year_end": 2008
+  },
+  {
+    "make": "honda",
+    "model": "accord",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "accord crosstour",
+    "year_start": 2010,
+    "year_end": 2011
+  },
+  {
+    "make": "honda",
+    "model": "adv150",
+    "year_start": 2021,
+    "year_end": 2023
+  },
+  {
+    "make": "honda",
+    "model": "adv160",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "africa twin",
+    "year_start": 2016,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "africa twin adventure sports",
+    "year_start": 2018,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "big red",
+    "year_start": 2004,
+    "year_end": 2013
+  },
+  {
+    "make": "honda",
+    "model": "big ruckus",
+    "year_start": 2004,
+    "year_end": 2008
+  },
+  {
+    "make": "honda",
+    "model": "cb-1",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "cb1000r",
+    "year_start": 2011,
+    "year_end": 2023
+  },
+  {
+    "make": "honda",
+    "model": "cb1100",
+    "year_start": 2013,
+    "year_end": 2018
+  },
+  {
+    "make": "honda",
+    "model": "cb125",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "cb300",
+    "year_start": 2023,
+    "year_end": 2023
+  },
+  {
+    "make": "honda",
+    "model": "cb300f",
+    "year_start": 2015,
+    "year_end": 2018
+  },
+  {
+    "make": "honda",
+    "model": "cb300r",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "cb500",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "cb500f",
+    "year_start": 2013,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "cb500x",
+    "year_start": 2013,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "cb50r",
+    "year_start": 2008,
+    "year_end": 2008
+  },
+  {
+    "make": "honda",
+    "model": "cb599",
+    "year_start": 2008,
+    "year_end": 2008
+  },
+  {
+    "make": "honda",
+    "model": "cb650f",
+    "year_start": 2018,
+    "year_end": 2018
+  },
+  {
+    "make": "honda",
+    "model": "cb650r",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "cbf1000",
+    "year_start": 2006,
+    "year_end": 2012
+  },
+  {
+    "make": "honda",
+    "model": "cbf300",
+    "year_start": 2023,
+    "year_end": 2023
+  },
+  {
+    "make": "honda",
+    "model": "cbf300n",
+    "year_start": 2019,
+    "year_end": 2019
+  },
+  {
+    "make": "honda",
+    "model": "cbf600",
+    "year_start": 2010,
+    "year_end": 2011
+  },
+  {
+    "make": "honda",
+    "model": "cbr1000f",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "cbr1000rr",
+    "year_start": 2004,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "cbr1000s",
+    "year_start": 2012,
+    "year_end": 2012
+  },
+  {
+    "make": "honda",
+    "model": "cbr1100x",
+    "year_start": 1997,
+    "year_end": 2003
+  },
+  {
+    "make": "honda",
+    "model": "cbr125r",
+    "year_start": 2007,
+    "year_end": 2014
+  },
+  {
+    "make": "honda",
+    "model": "cbr250r",
+    "year_start": 2011,
+    "year_end": 2013
+  },
+  {
+    "make": "honda",
+    "model": "cbr300",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "cbr300r",
+    "year_start": 2015,
+    "year_end": 2023
+  },
+  {
+    "make": "honda",
+    "model": "cbr500",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "cbr500r",
+    "year_start": 2007,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "cbr600",
+    "year_start": 1998,
+    "year_end": 1998
+  },
+  {
+    "make": "honda",
+    "model": "cbr600f",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "cbr600rr",
+    "year_start": 2003,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "cbr650",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "cbr650f",
+    "year_start": 2012,
+    "year_end": 2018
+  },
+  {
+    "make": "honda",
+    "model": "cbr650r",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "cbr900/cbr954",
+    "year_start": 2002,
+    "year_end": 2002
+  },
+  {
+    "make": "honda",
+    "model": "cbr900rr",
+    "year_start": 1996,
+    "year_end": 1999
+  },
+  {
+    "make": "honda",
+    "model": "cbr929rr",
+    "year_start": 2000,
+    "year_end": 2001
+  },
+  {
+    "make": "honda",
+    "model": "cbr954rr",
+    "year_start": 2003,
+    "year_end": 2003
+  },
+  {
+    "make": "honda",
+    "model": "cg150",
+    "year_start": 2008,
+    "year_end": 2008
+  },
+  {
+    "make": "honda",
+    "model": "cg150esd",
+    "year_start": 2004,
+    "year_end": 2004
+  },
+  {
+    "make": "honda",
+    "model": "civic",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "civic si",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "civic type r",
+    "year_start": 2017,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "clarity",
+    "year_start": 2017,
+    "year_end": 2021
+  },
+  {
+    "make": "honda",
+    "model": "cota",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "cr-v",
+    "year_start": 1997,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "cr-z",
+    "year_start": 2011,
+    "year_end": 2016
+  },
+  {
+    "make": "honda",
+    "model": "cr125r",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "cr250r",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "cr500r",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "cr80r",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "cr85r",
+    "year_start": 2003,
+    "year_end": 2008
+  },
+  {
+    "make": "honda",
+    "model": "crf100f",
+    "year_start": 1998,
+    "year_end": 2013
+  },
+  {
+    "make": "honda",
+    "model": "crf110f",
+    "year_start": 2013,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "crf125f",
+    "year_start": 2014,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "crf125fb",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "crf150f",
+    "year_start": 2003,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "crf150r",
+    "year_start": 2007,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "crf150rb",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "crf230f",
+    "year_start": 2003,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "crf230l",
+    "year_start": 2008,
+    "year_end": 2011
+  },
+  {
+    "make": "honda",
+    "model": "crf230m",
+    "year_start": 2009,
+    "year_end": 2011
+  },
+  {
+    "make": "honda",
+    "model": "crf250f",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "crf250l",
+    "year_start": 2013,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "crf250r",
+    "year_start": 2004,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "crf250rx",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "crf250x",
+    "year_start": 2004,
+    "year_end": 2021
+  },
+  {
+    "make": "honda",
+    "model": "crf300l",
+    "year_start": 2021,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "crf450l",
+    "year_start": 2019,
+    "year_end": 2020
+  },
+  {
+    "make": "honda",
+    "model": "crf450r",
+    "year_start": 2002,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "crf450rl",
+    "year_start": 2020,
+    "year_end": 2023
+  },
+  {
+    "make": "honda",
+    "model": "crf450rwe",
+    "year_start": 2020,
+    "year_end": 2023
+  },
+  {
+    "make": "honda",
+    "model": "crf450rx",
+    "year_start": 2017,
+    "year_end": 2023
+  },
+  {
+    "make": "honda",
+    "model": "crf450x",
+    "year_start": 2006,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "crf50f",
+    "year_start": 2004,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "crf70f",
+    "year_start": 1996,
+    "year_end": 2012
+  },
+  {
+    "make": "honda",
+    "model": "crf80f",
+    "year_start": 2004,
+    "year_end": 2013
+  },
+  {
+    "make": "honda",
+    "model": "crosstour",
+    "year_start": 2012,
+    "year_end": 2015
+  },
+  {
+    "make": "honda",
+    "model": "ctx1300",
+    "year_start": 2014,
+    "year_end": 2015
+  },
+  {
+    "make": "honda",
+    "model": "ctx700",
+    "year_start": 2014,
+    "year_end": 2018
+  },
+  {
+    "make": "honda",
+    "model": "del sol",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "honda",
+    "model": "dn-01",
+    "year_start": 2007,
+    "year_end": 2009
+  },
+  {
+    "make": "honda",
+    "model": "element",
+    "year_start": 2003,
+    "year_end": 2011
+  },
+  {
+    "make": "honda",
+    "model": "elite",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "elite 110",
+    "year_start": 2010,
+    "year_end": 2010
+  },
+  {
+    "make": "honda",
+    "model": "ev plus",
+    "year_start": 1997,
+    "year_end": 1999
+  },
+  {
+    "make": "honda",
+    "model": "ez90",
+    "year_start": 1996,
+    "year_end": 1996
+  },
+  {
+    "make": "honda",
+    "model": "fcx clarity",
+    "year_start": 2004,
+    "year_end": 2014
+  },
+  {
+    "make": "honda",
+    "model": "fireblade",
+    "year_start": 2006,
+    "year_end": 2023
+  },
+  {
+    "make": "honda",
+    "model": "fit",
+    "year_start": 2007,
+    "year_end": 2020
+  },
+  {
+    "make": "honda",
+    "model": "foreman",
+    "year_start": 2006,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "foreman rubicon",
+    "year_start": 2005,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "forza",
+    "year_start": 2014,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "fourtrax",
+    "year_start": 1996,
+    "year_end": 2023
+  },
+  {
+    "make": "honda",
+    "model": "fourtrax foreman",
+    "year_start": 1998,
+    "year_end": 2022
+  },
+  {
+    "make": "honda",
+    "model": "fourtrax foreman rubicon",
+    "year_start": 2001,
+    "year_end": 2023
+  },
+  {
+    "make": "honda",
+    "model": "fourtrax rancher",
+    "year_start": 2000,
+    "year_end": 2021
+  },
+  {
+    "make": "honda",
+    "model": "fourtrax recon",
+    "year_start": 1998,
+    "year_end": 2022
+  },
+  {
+    "make": "honda",
+    "model": "fourtrax rincon",
+    "year_start": 2003,
+    "year_end": 2021
+  },
+  {
+    "make": "honda",
+    "model": "fury",
+    "year_start": 2010,
+    "year_end": 2023
+  },
+  {
+    "make": "honda",
+    "model": "giorno",
+    "year_start": 2005,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "gold wing",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "gold wing interstate",
+    "year_start": 1996,
+    "year_end": 1996
+  },
+  {
+    "make": "honda",
+    "model": "gold wing tour",
+    "year_start": 2018,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "grom",
+    "year_start": 2014,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "hawk gt",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "helix",
+    "year_start": 1996,
+    "year_end": 2008
+  },
+  {
+    "make": "honda",
+    "model": "honda utility vehicle",
+    "year_start": 2014,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "hr-v",
+    "year_start": 2016,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "insight",
+    "year_start": 2000,
+    "year_end": 2022
+  },
+  {
+    "make": "honda",
+    "model": "interceptor",
+    "year_start": 1997,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "interstate",
+    "year_start": 2010,
+    "year_end": 2016
+  },
+  {
+    "make": "honda",
+    "model": "jazz",
+    "year_start": 2006,
+    "year_end": 2009
+  },
+  {
+    "make": "honda",
+    "model": "magna",
+    "year_start": 1996,
+    "year_end": 2003
+  },
+  {
+    "make": "honda",
+    "model": "metropolitan",
+    "year_start": 2002,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "metropolitan ii",
+    "year_start": 2002,
+    "year_end": 2005
+  },
+  {
+    "make": "honda",
+    "model": "monkey",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "montesa cota",
+    "year_start": 2014,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "mrt260/cota 4rt260",
+    "year_start": 2022,
+    "year_end": 2022
+  },
+  {
+    "make": "honda",
+    "model": "navi",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "nc700jd (nm4)",
+    "year_start": 2022,
+    "year_end": 2022
+  },
+  {
+    "make": "honda",
+    "model": "nc700s",
+    "year_start": 2012,
+    "year_end": 2012
+  },
+  {
+    "make": "honda",
+    "model": "nc700x",
+    "year_start": 2012,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "nc700xd (nc700x dct)",
+    "year_start": 2022,
+    "year_end": 2022
+  },
+  {
+    "make": "honda",
+    "model": "nc700xdl (nc700x dct)",
+    "year_start": 2022,
+    "year_end": 2022
+  },
+  {
+    "make": "honda",
+    "model": "nc700xl (nc700x)",
+    "year_start": 2022,
+    "year_end": 2022
+  },
+  {
+    "make": "honda",
+    "model": "nc750s",
+    "year_start": 2014,
+    "year_end": 2014
+  },
+  {
+    "make": "honda",
+    "model": "nc750x",
+    "year_start": 2014,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "nch50 (giorno)",
+    "year_start": 2022,
+    "year_end": 2022
+  },
+  {
+    "make": "honda",
+    "model": "nch50 (metropolitan)",
+    "year_start": 2022,
+    "year_end": 2022
+  },
+  {
+    "make": "honda",
+    "model": "nighthawk",
+    "year_start": 1996,
+    "year_end": 2008
+  },
+  {
+    "make": "honda",
+    "model": "nm4",
+    "year_start": 2015,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "nps50 (ruckus)",
+    "year_start": 2022,
+    "year_end": 2022
+  },
+  {
+    "make": "honda",
+    "model": "ns50f",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "nsr50min",
+    "year_start": 2004,
+    "year_end": 2008
+  },
+  {
+    "make": "honda",
+    "model": "nss300 (forza)",
+    "year_start": 2022,
+    "year_end": 2022
+  },
+  {
+    "make": "honda",
+    "model": "nss300a (forza)",
+    "year_start": 2022,
+    "year_end": 2022
+  },
+  {
+    "make": "honda",
+    "model": "nt650j",
+    "year_start": 2008,
+    "year_end": 2008
+  },
+  {
+    "make": "honda",
+    "model": "nt700v",
+    "year_start": 2007,
+    "year_end": 2011
+  },
+  {
+    "make": "honda",
+    "model": "nx125",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "nx250",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "nx500",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "odyssey",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "pacific coast",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "passport",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "pcx",
+    "year_start": 2013,
+    "year_end": 2023
+  },
+  {
+    "make": "honda",
+    "model": "pcx125",
+    "year_start": 2011,
+    "year_end": 2011
+  },
+  {
+    "make": "honda",
+    "model": "pcx150",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "pilot",
+    "year_start": 2003,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "pioneer",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "pioneer 1000",
+    "year_start": 2016,
+    "year_end": 2023
+  },
+  {
+    "make": "honda",
+    "model": "pioneer 500",
+    "year_start": 2015,
+    "year_end": 2023
+  },
+  {
+    "make": "honda",
+    "model": "pioneer 520",
+    "year_start": 2021,
+    "year_end": 2023
+  },
+  {
+    "make": "honda",
+    "model": "pioneer 700",
+    "year_start": 2014,
+    "year_end": 2023
+  },
+  {
+    "make": "honda",
+    "model": "prelude",
+    "year_start": 1996,
+    "year_end": 2001
+  },
+  {
+    "make": "honda",
+    "model": "prologue",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "rancher",
+    "year_start": 2004,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "rc213v",
+    "year_start": 2016,
+    "year_end": 2016
+  },
+  {
+    "make": "honda",
+    "model": "rc30",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "rc51",
+    "year_start": 2000,
+    "year_end": 2008
+  },
+  {
+    "make": "honda",
+    "model": "rebel",
+    "year_start": 1996,
+    "year_end": 2017
+  },
+  {
+    "make": "honda",
+    "model": "rebel 1100",
+    "year_start": 2021,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "rebel 300",
+    "year_start": 2017,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "rebel 500",
+    "year_start": 2017,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "recon",
+    "year_start": 2001,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "reflex",
+    "year_start": 2001,
+    "year_end": 2008
+  },
+  {
+    "make": "honda",
+    "model": "reflex sport",
+    "year_start": 2004,
+    "year_end": 2008
+  },
+  {
+    "make": "honda",
+    "model": "ridgeline",
+    "year_start": 2006,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "rincon",
+    "year_start": 2006,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "rubicon",
+    "year_start": 2006,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "ruckus",
+    "year_start": 2003,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "s2000",
+    "year_start": 2000,
+    "year_end": 2009
+  },
+  {
+    "make": "honda",
+    "model": "sabre",
+    "year_start": 2006,
+    "year_end": 2013
+  },
+  {
+    "make": "honda",
+    "model": "scl500",
+    "year_start": 2023,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "sh150i",
+    "year_start": 2010,
+    "year_end": 2010
+  },
+  {
+    "make": "honda",
+    "model": "shadow",
+    "year_start": 1996,
+    "year_end": 2013
+  },
+  {
+    "make": "honda",
+    "model": "shadow ace",
+    "year_start": 1996,
+    "year_end": 2008
+  },
+  {
+    "make": "honda",
+    "model": "shadow ace tourer",
+    "year_start": 1998,
+    "year_end": 2001
+  },
+  {
+    "make": "honda",
+    "model": "shadow aero",
+    "year_start": 1998,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "shadow phantom",
+    "year_start": 2010,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "shadow sabre",
+    "year_start": 2000,
+    "year_end": 2008
+  },
+  {
+    "make": "honda",
+    "model": "shadow spirit",
+    "year_start": 1997,
+    "year_end": 2014
+  },
+  {
+    "make": "honda",
+    "model": "shadow vlx",
+    "year_start": 1996,
+    "year_end": 2008
+  },
+  {
+    "make": "honda",
+    "model": "silver wing",
+    "year_start": 2002,
+    "year_end": 2013
+  },
+  {
+    "make": "honda",
+    "model": "sport tourer",
+    "year_start": 2006,
+    "year_end": 2006
+  },
+  {
+    "make": "honda",
+    "model": "sportrax",
+    "year_start": 1996,
+    "year_end": 2008
+  },
+  {
+    "make": "honda",
+    "model": "st1100",
+    "year_start": 1996,
+    "year_end": 2002
+  },
+  {
+    "make": "honda",
+    "model": "st1100p",
+    "year_start": 2003,
+    "year_end": 2003
+  },
+  {
+    "make": "honda",
+    "model": "st1300",
+    "year_start": 2003,
+    "year_end": 2023
+  },
+  {
+    "make": "honda",
+    "model": "st1300pa",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "stateline",
+    "year_start": 2010,
+    "year_end": 2016
+  },
+  {
+    "make": "honda",
+    "model": "super cub",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "superhawk",
+    "year_start": 1998,
+    "year_end": 2005
+  },
+  {
+    "make": "honda",
+    "model": "talon 1000",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "tourist trophy",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "trail125",
+    "year_start": 2021,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "transalp",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "trx200d",
+    "year_start": 1996,
+    "year_end": 1998
+  },
+  {
+    "make": "honda",
+    "model": "trx200dn",
+    "year_start": 1996,
+    "year_end": 1996
+  },
+  {
+    "make": "honda",
+    "model": "trx250",
+    "year_start": 1997,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "trx250x",
+    "year_start": 2007,
+    "year_end": 2023
+  },
+  {
+    "make": "honda",
+    "model": "trx300",
+    "year_start": 1996,
+    "year_end": 1999
+  },
+  {
+    "make": "honda",
+    "model": "trx300ex",
+    "year_start": 1996,
+    "year_end": 2006
+  },
+  {
+    "make": "honda",
+    "model": "trx300exn",
+    "year_start": 1996,
+    "year_end": 1998
+  },
+  {
+    "make": "honda",
+    "model": "trx300fw",
+    "year_start": 1996,
+    "year_end": 1999
+  },
+  {
+    "make": "honda",
+    "model": "trx300fwn",
+    "year_start": 1996,
+    "year_end": 1998
+  },
+  {
+    "make": "honda",
+    "model": "trx300n",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "honda",
+    "model": "trx300x",
+    "year_start": 1999,
+    "year_end": 2009
+  },
+  {
+    "make": "honda",
+    "model": "trx400ex",
+    "year_start": 1999,
+    "year_end": 2006
+  },
+  {
+    "make": "honda",
+    "model": "trx400fw",
+    "year_start": 1996,
+    "year_end": 1999
+  },
+  {
+    "make": "honda",
+    "model": "trx400fwn",
+    "year_start": 1996,
+    "year_end": 1996
+  },
+  {
+    "make": "honda",
+    "model": "trx400x",
+    "year_start": 2008,
+    "year_end": 2014
+  },
+  {
+    "make": "honda",
+    "model": "trx420",
+    "year_start": 2020,
+    "year_end": 2020
+  },
+  {
+    "make": "honda",
+    "model": "trx450er",
+    "year_start": 2006,
+    "year_end": 2007
+  },
+  {
+    "make": "honda",
+    "model": "trx450es",
+    "year_start": 1998,
+    "year_end": 1999
+  },
+  {
+    "make": "honda",
+    "model": "trx450r",
+    "year_start": 2004,
+    "year_end": 2014
+  },
+  {
+    "make": "honda",
+    "model": "trx450s",
+    "year_start": 1998,
+    "year_end": 1999
+  },
+  {
+    "make": "honda",
+    "model": "trx500",
+    "year_start": 2008,
+    "year_end": 2008
+  },
+  {
+    "make": "honda",
+    "model": "trx500 (foreman)",
+    "year_start": 2022,
+    "year_end": 2022
+  },
+  {
+    "make": "honda",
+    "model": "trx500 (rubicon)",
+    "year_start": 2022,
+    "year_end": 2023
+  },
+  {
+    "make": "honda",
+    "model": "trx680 (rincon)",
+    "year_start": 2008,
+    "year_end": 2008
+  },
+  {
+    "make": "honda",
+    "model": "trx700ex",
+    "year_start": 2007,
+    "year_end": 2008
+  },
+  {
+    "make": "honda",
+    "model": "trx700xx",
+    "year_start": 2007,
+    "year_end": 2009
+  },
+  {
+    "make": "honda",
+    "model": "trx90x",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "valkyrie",
+    "year_start": 1997,
+    "year_end": 2003
+  },
+  {
+    "make": "honda",
+    "model": "valkyrie interstate",
+    "year_start": 1999,
+    "year_end": 2001
+  },
+  {
+    "make": "honda",
+    "model": "valkyrie rune",
+    "year_start": 2004,
+    "year_end": 2008
+  },
+  {
+    "make": "honda",
+    "model": "valkyrie tourer",
+    "year_start": 1997,
+    "year_end": 2000
+  },
+  {
+    "make": "honda",
+    "model": "varadero",
+    "year_start": 2003,
+    "year_end": 2009
+  },
+  {
+    "make": "honda",
+    "model": "vfr1200f",
+    "year_start": 2006,
+    "year_end": 2014
+  },
+  {
+    "make": "honda",
+    "model": "vfr1200fd/vfr1200f",
+    "year_start": 2005,
+    "year_end": 2005
+  },
+  {
+    "make": "honda",
+    "model": "vfr1200x",
+    "year_start": 2016,
+    "year_end": 2017
+  },
+  {
+    "make": "honda",
+    "model": "vfr750f",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "vfr800 (interceptor)",
+    "year_start": 2022,
+    "year_end": 2022
+  },
+  {
+    "make": "honda",
+    "model": "vt1100c",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "vt1300 (fury)",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "vt750",
+    "year_start": 2009,
+    "year_end": 2009
+  },
+  {
+    "make": "honda",
+    "model": "vt800c",
+    "year_start": 2008,
+    "year_end": 2008
+  },
+  {
+    "make": "honda",
+    "model": "vtr",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "vtx",
+    "year_start": 2002,
+    "year_end": 2009
+  },
+  {
+    "make": "honda",
+    "model": "vtx1300c",
+    "year_start": 2006,
+    "year_end": 2008
+  },
+  {
+    "make": "honda",
+    "model": "vtx1300r",
+    "year_start": 2006,
+    "year_end": 2008
+  },
+  {
+    "make": "honda",
+    "model": "vtx1300s",
+    "year_start": 2006,
+    "year_end": 2007
+  },
+  {
+    "make": "honda",
+    "model": "vtx1300t",
+    "year_start": 2006,
+    "year_end": 2008
+  },
+  {
+    "make": "honda",
+    "model": "vtx1800c",
+    "year_start": 2006,
+    "year_end": 2007
+  },
+  {
+    "make": "honda",
+    "model": "vtx1800f",
+    "year_start": 2006,
+    "year_end": 2008
+  },
+  {
+    "make": "honda",
+    "model": "vtx1800n",
+    "year_start": 2006,
+    "year_end": 2008
+  },
+  {
+    "make": "honda",
+    "model": "vtx1800r",
+    "year_start": 2006,
+    "year_end": 2008
+  },
+  {
+    "make": "honda",
+    "model": "vtx1800s",
+    "year_start": 2006,
+    "year_end": 2008
+  },
+  {
+    "make": "honda",
+    "model": "vtx1800t",
+    "year_start": 2007,
+    "year_end": 2008
+  },
+  {
+    "make": "honda",
+    "model": "xl200r",
+    "year_start": 1997,
+    "year_end": 2008
+  },
+  {
+    "make": "honda",
+    "model": "xl600v",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "xr100r",
+    "year_start": 1996,
+    "year_end": 2003
+  },
+  {
+    "make": "honda",
+    "model": "xr150l",
+    "year_start": 2023,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "xr200",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "honda",
+    "model": "xr200r",
+    "year_start": 1998,
+    "year_end": 2008
+  },
+  {
+    "make": "honda",
+    "model": "xr250l",
+    "year_start": 1996,
+    "year_end": 1996
+  },
+  {
+    "make": "honda",
+    "model": "xr250r",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "xr400r",
+    "year_start": 1996,
+    "year_end": 2004
+  },
+  {
+    "make": "honda",
+    "model": "xr50r",
+    "year_start": 1999,
+    "year_end": 2003
+  },
+  {
+    "make": "honda",
+    "model": "xr600r",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "xr650l",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "xr650ll",
+    "year_start": 2005,
+    "year_end": 2005
+  },
+  {
+    "make": "honda",
+    "model": "xr650r",
+    "year_start": 2000,
+    "year_end": 2008
+  },
+  {
+    "make": "honda",
+    "model": "xr70r",
+    "year_start": 1996,
+    "year_end": 2003
+  },
+  {
+    "make": "honda",
+    "model": "xr80r",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "honda",
+    "model": "z50r",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "bayou 220",
+    "year_start": 1996,
+    "year_end": 2002
+  },
+  {
+    "make": "kawasaki",
+    "model": "bayou 250",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "bayou 300",
+    "year_start": 1996,
+    "year_end": 2004
+  },
+  {
+    "make": "kawasaki",
+    "model": "brute force 300",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "brute force 650",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "brute force 750",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "concours",
+    "year_start": 1996,
+    "year_end": 2022
+  },
+  {
+    "make": "kawasaki",
+    "model": "concours 14",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "eliminator",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "eliminator 125",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "eliminator 600",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "kawasaki",
+    "model": "er-6n",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "gpz1100",
+    "year_start": 1996,
+    "year_end": 1996
+  },
+  {
+    "make": "kawasaki",
+    "model": "kawasaki utility vehicle",
+    "year_start": 2014,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "kdx200",
+    "year_start": 1996,
+    "year_end": 2006
+  },
+  {
+    "make": "kawasaki",
+    "model": "kdx220r",
+    "year_start": 1996,
+    "year_end": 2005
+  },
+  {
+    "make": "kawasaki",
+    "model": "kdx50",
+    "year_start": 1996,
+    "year_end": 2006
+  },
+  {
+    "make": "kawasaki",
+    "model": "ke100",
+    "year_start": 1996,
+    "year_end": 2001
+  },
+  {
+    "make": "kawasaki",
+    "model": "kfx400",
+    "year_start": 1996,
+    "year_end": 2006
+  },
+  {
+    "make": "kawasaki",
+    "model": "kfx450r",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "kfx50",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "kfx700",
+    "year_start": 2004,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "kfx80",
+    "year_start": 1996,
+    "year_end": 2006
+  },
+  {
+    "make": "kawasaki",
+    "model": "kfx90",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "klr250",
+    "year_start": 1996,
+    "year_end": 2005
+  },
+  {
+    "make": "kawasaki",
+    "model": "klr650",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "klx",
+    "year_start": 2017,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "klx110",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "klx110l",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "klx110r",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "klx125",
+    "year_start": 1996,
+    "year_end": 2006
+  },
+  {
+    "make": "kawasaki",
+    "model": "klx125l",
+    "year_start": 1996,
+    "year_end": 2006
+  },
+  {
+    "make": "kawasaki",
+    "model": "klx140/klx140r",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "klx230",
+    "year_start": 2020,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "klx230r",
+    "year_start": 2020,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "klx250",
+    "year_start": 2018,
+    "year_end": 2020
+  },
+  {
+    "make": "kawasaki",
+    "model": "klx250r",
+    "year_start": 1996,
+    "year_end": 1996
+  },
+  {
+    "make": "kawasaki",
+    "model": "klx250s",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "klx250sf",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "klx300",
+    "year_start": 2023,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "klx300r",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "klx300sm",
+    "year_start": 2021,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "klx400r",
+    "year_start": 1996,
+    "year_end": 2003
+  },
+  {
+    "make": "kawasaki",
+    "model": "klx400sr",
+    "year_start": 1996,
+    "year_end": 2003
+  },
+  {
+    "make": "kawasaki",
+    "model": "klx450r",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "klx650",
+    "year_start": 1996,
+    "year_end": 1996
+  },
+  {
+    "make": "kawasaki",
+    "model": "klx650r",
+    "year_start": 1996,
+    "year_end": 1996
+  },
+  {
+    "make": "kawasaki",
+    "model": "kx100",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "kx112",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "kx125",
+    "year_start": 1996,
+    "year_end": 2006
+  },
+  {
+    "make": "kawasaki",
+    "model": "kx250",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "kx250f",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "kx450",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "kx500",
+    "year_start": 1996,
+    "year_end": 2004
+  },
+  {
+    "make": "kawasaki",
+    "model": "kx60",
+    "year_start": 1996,
+    "year_end": 2003
+  },
+  {
+    "make": "kawasaki",
+    "model": "kx65",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "kx80",
+    "year_start": 1996,
+    "year_end": 2000
+  },
+  {
+    "make": "kawasaki",
+    "model": "kx85",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "lakota",
+    "year_start": 1996,
+    "year_end": 2004
+  },
+  {
+    "make": "kawasaki",
+    "model": "le650",
+    "year_start": 2022,
+    "year_end": 2022
+  },
+  {
+    "make": "kawasaki",
+    "model": "lx300d",
+    "year_start": 2021,
+    "year_end": 2021
+  },
+  {
+    "make": "kawasaki",
+    "model": "lx300e",
+    "year_start": 2021,
+    "year_end": 2021
+  },
+  {
+    "make": "kawasaki",
+    "model": "mojave 250",
+    "year_start": 1996,
+    "year_end": 2004
+  },
+  {
+    "make": "kawasaki",
+    "model": "mule 1000",
+    "year_start": 1996,
+    "year_end": 1996
+  },
+  {
+    "make": "kawasaki",
+    "model": "mule 2500",
+    "year_start": 1996,
+    "year_end": 2000
+  },
+  {
+    "make": "kawasaki",
+    "model": "mule 2510",
+    "year_start": 1996,
+    "year_end": 2002
+  },
+  {
+    "make": "kawasaki",
+    "model": "mule 2520",
+    "year_start": 1996,
+    "year_end": 2000
+  },
+  {
+    "make": "kawasaki",
+    "model": "mule 3000",
+    "year_start": 2001,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "mule 3010",
+    "year_start": 2001,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "mule 3020",
+    "year_start": 2001,
+    "year_end": 2003
+  },
+  {
+    "make": "kawasaki",
+    "model": "mule 4000",
+    "year_start": 2009,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "mule 4010",
+    "year_start": 2009,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "mule 520",
+    "year_start": 2000,
+    "year_end": 2001
+  },
+  {
+    "make": "kawasaki",
+    "model": "mule 550",
+    "year_start": 1996,
+    "year_end": 2004
+  },
+  {
+    "make": "kawasaki",
+    "model": "mule 600",
+    "year_start": 2005,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "mule 610",
+    "year_start": 2005,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "mule mx",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "mule pro-dx",
+    "year_start": 2016,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "mule pro-dxt",
+    "year_start": 2016,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "mule pro-f",
+    "year_start": 2018,
+    "year_end": 2018
+  },
+  {
+    "make": "kawasaki",
+    "model": "mule pro-fx",
+    "year_start": 2016,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "mule pro-fxr",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "mule pro-fxt",
+    "year_start": 2015,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "mule sx",
+    "year_start": 2017,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "ninja 1000",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "ninja 250r",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "ninja 300",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "ninja 400",
+    "year_start": 2018,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "ninja 500",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "ninja 500r",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "ninja 600",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "kawasaki",
+    "model": "ninja 650",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "ninja 650r",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "ninja 7",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "ninja e-1",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "ninja h2",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "ninja h2 r",
+    "year_start": 2016,
+    "year_end": 2016
+  },
+  {
+    "make": "kawasaki",
+    "model": "ninja h2 sx",
+    "year_start": 2018,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "ninja zx-10r",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "ninja zx-10rr",
+    "year_start": 2017,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "ninja zx-11",
+    "year_start": 1996,
+    "year_end": 2001
+  },
+  {
+    "make": "kawasaki",
+    "model": "ninja zx-12r",
+    "year_start": 1996,
+    "year_end": 2001
+  },
+  {
+    "make": "kawasaki",
+    "model": "ninja zx-14",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "ninja zx-14r",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "ninja zx-4r",
+    "year_start": 2023,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "ninja zx-6",
+    "year_start": 2003,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "ninja zx-6r",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "ninja zx-9r",
+    "year_start": 1996,
+    "year_end": 2003
+  },
+  {
+    "make": "kawasaki",
+    "model": "police 1000",
+    "year_start": 1996,
+    "year_end": 2005
+  },
+  {
+    "make": "kawasaki",
+    "model": "prairie 300",
+    "year_start": 1996,
+    "year_end": 2002
+  },
+  {
+    "make": "kawasaki",
+    "model": "prairie 360",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "prairie 400",
+    "year_start": 1996,
+    "year_end": 2002
+  },
+  {
+    "make": "kawasaki",
+    "model": "prairie 650",
+    "year_start": 1996,
+    "year_end": 2003
+  },
+  {
+    "make": "kawasaki",
+    "model": "prairie 700",
+    "year_start": 2004,
+    "year_end": 2006
+  },
+  {
+    "make": "kawasaki",
+    "model": "ridge",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "super sherpa",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "teryx",
+    "year_start": 2007,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "teryx4",
+    "year_start": 2007,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "versys",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "versys-x 300",
+    "year_start": 2017,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "voyager xii",
+    "year_start": 1996,
+    "year_end": 2003
+  },
+  {
+    "make": "kawasaki",
+    "model": "vulcan 1500",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "vulcan 1600",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "vulcan 1700",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "vulcan 2000",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "vulcan 500",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "vulcan 750",
+    "year_start": 1996,
+    "year_end": 2006
+  },
+  {
+    "make": "kawasaki",
+    "model": "vulcan 800",
+    "year_start": 1996,
+    "year_end": 2006
+  },
+  {
+    "make": "kawasaki",
+    "model": "vulcan 88",
+    "year_start": 1996,
+    "year_end": 1999
+  },
+  {
+    "make": "kawasaki",
+    "model": "vulcan 900",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "vulcan s",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "w650",
+    "year_start": 1996,
+    "year_end": 2001
+  },
+  {
+    "make": "kawasaki",
+    "model": "w800",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "z e-1",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "z h2",
+    "year_start": 2021,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "z1000",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "z125 pro",
+    "year_start": 2017,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "z400",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "z500",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "z650",
+    "year_start": 2017,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "z650rs",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "z7",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "z750s",
+    "year_start": 1996,
+    "year_end": 2006
+  },
+  {
+    "make": "kawasaki",
+    "model": "z800",
+    "year_start": 2016,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "z900",
+    "year_start": 2017,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "z900rs",
+    "year_start": 2018,
+    "year_end": 2024
+  },
+  {
+    "make": "kawasaki",
+    "model": "z900rs cafe",
+    "year_start": 2018,
+    "year_end": 2020
+  },
+  {
+    "make": "kawasaki",
+    "model": "zr-7",
+    "year_start": 1996,
+    "year_end": 2000
+  },
+  {
+    "make": "kawasaki",
+    "model": "zr-7s",
+    "year_start": 1996,
+    "year_end": 2003
+  },
+  {
+    "make": "kawasaki",
+    "model": "zr1000kl",
+    "year_start": 2020,
+    "year_end": 2020
+  },
+  {
+    "make": "kawasaki",
+    "model": "zr1200-b1",
+    "year_start": 2001,
+    "year_end": 2001
+  },
+  {
+    "make": "kawasaki",
+    "model": "zrx 1100",
+    "year_start": 1996,
+    "year_end": 2000
+  },
+  {
+    "make": "kawasaki",
+    "model": "zrx 1200r",
+    "year_start": 1996,
+    "year_end": 2005
+  },
+  {
+    "make": "kawasaki",
+    "model": "zx-12r",
+    "year_start": 1996,
+    "year_end": 2005
+  },
+  {
+    "make": "kawasaki",
+    "model": "zx-6r",
+    "year_start": 1996,
+    "year_end": 2023
+  },
+  {
+    "make": "kawasaki",
+    "model": "zx-6rr",
+    "year_start": 1996,
+    "year_end": 2004
+  },
+  {
+    "make": "kawasaki",
+    "model": "zx-7r",
+    "year_start": 1996,
+    "year_end": 2003
+  },
+  {
+    "make": "kawasaki",
+    "model": "zx-7rr",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "kawasaki",
+    "model": "zx1000",
+    "year_start": 2017,
+    "year_end": 2021
+  },
+  {
+    "make": "kawasaki",
+    "model": "zx1002",
+    "year_start": 2021,
+    "year_end": 2022
+  },
+  {
+    "make": "kawasaki",
+    "model": "zx1002n",
+    "year_start": 2022,
+    "year_end": 2022
+  },
+  {
+    "make": "kawasaki",
+    "model": "zzr1200",
+    "year_start": 1996,
+    "year_end": 2005
+  },
+  {
+    "make": "ktm",
+    "model": "1090 adventure",
+    "year_start": 2018,
+    "year_end": 2024
+  },
+  {
+    "make": "ktm",
+    "model": "1090 adventure r",
+    "year_start": 2017,
+    "year_end": 2019
+  },
+  {
+    "make": "ktm",
+    "model": "1190 adv",
+    "year_start": 2018,
+    "year_end": 2024
+  },
+  {
+    "make": "ktm",
+    "model": "1190 adventure",
+    "year_start": 2015,
+    "year_end": 2015
+  },
+  {
+    "make": "ktm",
+    "model": "1190 adventure r",
+    "year_start": 2015,
+    "year_end": 2022
+  },
+  {
+    "make": "ktm",
+    "model": "390 duke",
+    "year_start": 2014,
+    "year_end": 2022
+  },
+  {
+    "make": "ktm",
+    "model": "690 duke",
+    "year_start": 2018,
+    "year_end": 2024
+  },
+  {
+    "make": "ktm",
+    "model": "690 enduro",
+    "year_start": 1999,
+    "year_end": 2024
+  },
+  {
+    "make": "ktm",
+    "model": "690 smc",
+    "year_start": 2018,
+    "year_end": 2024
+  },
+  {
+    "make": "ktm",
+    "model": "790 adventure",
+    "year_start": 2018,
+    "year_end": 2024
+  },
+  {
+    "make": "ktm",
+    "model": "790 adventure r",
+    "year_start": 2018,
+    "year_end": 2019
+  },
+  {
+    "make": "ktm",
+    "model": "790 duke",
+    "year_start": 2018,
+    "year_end": 2024
+  },
+  {
+    "make": "ktm",
+    "model": "790/890 adv",
+    "year_start": 2021,
+    "year_end": 2023
+  },
+  {
+    "make": "ktm",
+    "model": "790/890 adv r, rally",
+    "year_start": 2021,
+    "year_end": 2024
+  },
+  {
+    "make": "ktm",
+    "model": "790/890 adv, smt",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "ktm",
+    "model": "790/890 duke, r",
+    "year_start": 2021,
+    "year_end": 2024
+  },
+  {
+    "make": "ktm",
+    "model": "950/990 adv",
+    "year_start": 2018,
+    "year_end": 2024
+  },
+  {
+    "make": "ktm",
+    "model": "950/990 supermoto",
+    "year_start": 2018,
+    "year_end": 2024
+  },
+  {
+    "make": "ktm",
+    "model": "990 duke",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "ktm",
+    "model": "adventure",
+    "year_start": 2020,
+    "year_end": 2024
+  },
+  {
+    "make": "ktm",
+    "model": "adventure + adventure r",
+    "year_start": 2016,
+    "year_end": 2016
+  },
+  {
+    "make": "ktm",
+    "model": "closed course competition",
+    "year_start": 1999,
+    "year_end": 2024
+  },
+  {
+    "make": "ktm",
+    "model": "competition",
+    "year_start": 1999,
+    "year_end": 2013
+  },
+  {
+    "make": "ktm",
+    "model": "duke",
+    "year_start": 1999,
+    "year_end": 2024
+  },
+  {
+    "make": "ktm",
+    "model": "enduro four-stroke",
+    "year_start": 1999,
+    "year_end": 2024
+  },
+  {
+    "make": "ktm",
+    "model": "enduro four-stroke/exc-r",
+    "year_start": 1999,
+    "year_end": 2019
+  },
+  {
+    "make": "ktm",
+    "model": "enduro two-stroke",
+    "year_start": 1999,
+    "year_end": 2024
+  },
+  {
+    "make": "ktm",
+    "model": "freeride",
+    "year_start": 2014,
+    "year_end": 2020
+  },
+  {
+    "make": "ktm",
+    "model": "freeride e-xc",
+    "year_start": 2017,
+    "year_end": 2017
+  },
+  {
+    "make": "ktm",
+    "model": "gelande sport",
+    "year_start": 1999,
+    "year_end": 2013
+  },
+  {
+    "make": "ktm",
+    "model": "lc4 duke",
+    "year_start": 2015,
+    "year_end": 2017
+  },
+  {
+    "make": "ktm",
+    "model": "lc4 enduro",
+    "year_start": 2017,
+    "year_end": 2017
+  },
+  {
+    "make": "ktm",
+    "model": "lc4 engine 1-1st version",
+    "year_start": 1999,
+    "year_end": 2013
+  },
+  {
+    "make": "ktm",
+    "model": "lc4 engine smc",
+    "year_start": 1999,
+    "year_end": 2013
+  },
+  {
+    "make": "ktm",
+    "model": "lc8 adventure",
+    "year_start": 2015,
+    "year_end": 2017
+  },
+  {
+    "make": "ktm",
+    "model": "lc8 supermoto",
+    "year_start": 2015,
+    "year_end": 2017
+  },
+  {
+    "make": "ktm",
+    "model": "minis",
+    "year_start": 1999,
+    "year_end": 2024
+  },
+  {
+    "make": "ktm",
+    "model": "r-racing f-ecf-f",
+    "year_start": 1999,
+    "year_end": 2013
+  },
+  {
+    "make": "ktm",
+    "model": "r2r",
+    "year_start": 2020,
+    "year_end": 2024
+  },
+  {
+    "make": "ktm",
+    "model": "racing",
+    "year_start": 1999,
+    "year_end": 2013
+  },
+  {
+    "make": "ktm",
+    "model": "rally",
+    "year_start": 2017,
+    "year_end": 2024
+  },
+  {
+    "make": "ktm",
+    "model": "rc",
+    "year_start": 2014,
+    "year_end": 2024
+  },
+  {
+    "make": "ktm",
+    "model": "rc8, rc8 r",
+    "year_start": 2015,
+    "year_end": 2024
+  },
+  {
+    "make": "ktm",
+    "model": "single cylinder lc4 duke",
+    "year_start": 1999,
+    "year_end": 2016
+  },
+  {
+    "make": "ktm",
+    "model": "street legal enduro",
+    "year_start": 2021,
+    "year_end": 2024
+  },
+  {
+    "make": "ktm",
+    "model": "super adventure",
+    "year_start": 2014,
+    "year_end": 2024
+  },
+  {
+    "make": "ktm",
+    "model": "super adventure r/s",
+    "year_start": 2017,
+    "year_end": 2017
+  },
+  {
+    "make": "ktm",
+    "model": "super adventure s",
+    "year_start": 2018,
+    "year_end": 2019
+  },
+  {
+    "make": "ktm",
+    "model": "super adventure t",
+    "year_start": 2017,
+    "year_end": 2019
+  },
+  {
+    "make": "ktm",
+    "model": "super duke gt",
+    "year_start": 2016,
+    "year_end": 2024
+  },
+  {
+    "make": "ktm",
+    "model": "super duke r",
+    "year_start": 2015,
+    "year_end": 2024
+  },
+  {
+    "make": "ktm",
+    "model": "super enduro",
+    "year_start": 1999,
+    "year_end": 2013
+  },
+  {
+    "make": "ktm",
+    "model": "v-engine duke",
+    "year_start": 1999,
+    "year_end": 2013
+  },
+  {
+    "make": "ktm",
+    "model": "v-twin lc8 adventure",
+    "year_start": 1999,
+    "year_end": 2016
+  },
+  {
+    "make": "ktm",
+    "model": "v-twin lc8 supermoto",
+    "year_start": 1999,
+    "year_end": 2016
+  },
+  {
+    "make": "ktm",
+    "model": "v-twin rc8 + rc8 r",
+    "year_start": 1999,
+    "year_end": 2017
+  },
+  {
+    "make": "ktm",
+    "model": "v-twin rc8 adventure",
+    "year_start": 1999,
+    "year_end": 2017
+  },
+  {
+    "make": "ktm",
+    "model": "v-twin rc8 adventure r",
+    "year_start": 2014,
+    "year_end": 2017
+  },
+  {
+    "make": "ktm",
+    "model": "v-twin rc8 super duke r",
+    "year_start": 1999,
+    "year_end": 2017
+  },
+  {
+    "make": "ktm aluminum frame",
+    "model": "ktm aluminum frame",
+    "year_start": 2017,
+    "year_end": 2024
+  },
+  {
+    "make": "ktm steel frame",
+    "model": "ktm steel frame",
+    "year_start": 2017,
+    "year_end": 2024
+  },
+  {
+    "make": "ktmmex",
+    "model": "chopper",
+    "year_start": 2002,
+    "year_end": 2008
+  },
+  {
+    "make": "ktmmex",
+    "model": "classic",
+    "year_start": 2002,
+    "year_end": 2024
+  },
+  {
+    "make": "ktmmex",
+    "model": "courier",
+    "year_start": 2002,
+    "year_end": 2008
+  },
+  {
+    "make": "ktmmex",
+    "model": "customs",
+    "year_start": 2002,
+    "year_end": 2008
+  },
+  {
+    "make": "ktmmex",
+    "model": "dazon gc",
+    "year_start": 2009,
+    "year_end": 2024
+  },
+  {
+    "make": "ktmmex",
+    "model": "dune rat",
+    "year_start": 2002,
+    "year_end": 2008
+  },
+  {
+    "make": "ktmmex",
+    "model": "e",
+    "year_start": 2009,
+    "year_end": 2024
+  },
+  {
+    "make": "ktmmex",
+    "model": "e85",
+    "year_start": 2009,
+    "year_end": 2024
+  },
+  {
+    "make": "ktmmex",
+    "model": "econo",
+    "year_start": 2002,
+    "year_end": 2024
+  },
+  {
+    "make": "ktmmex",
+    "model": "khaos",
+    "year_start": 2009,
+    "year_end": 2024
+  },
+  {
+    "make": "ktmmex",
+    "model": "lightning",
+    "year_start": 2009,
+    "year_end": 2024
+  },
+  {
+    "make": "ktmmex",
+    "model": "mudder",
+    "year_start": 2002,
+    "year_end": 2008
+  },
+  {
+    "make": "ktmmex",
+    "model": "pg",
+    "year_start": 2009,
+    "year_end": 2024
+  },
+  {
+    "make": "ktmmex",
+    "model": "r2",
+    "year_start": 2009,
+    "year_end": 2024
+  },
+  {
+    "make": "ktmmex",
+    "model": "r3",
+    "year_start": 2009,
+    "year_end": 2024
+  },
+  {
+    "make": "ktmmex",
+    "model": "racer",
+    "year_start": 2002,
+    "year_end": 2024
+  },
+  {
+    "make": "ktmmex",
+    "model": "redcat mpx",
+    "year_start": 2009,
+    "year_end": 2024
+  },
+  {
+    "make": "ktmmex",
+    "model": "rover",
+    "year_start": 2002,
+    "year_end": 2008
+  },
+  {
+    "make": "ktmmex",
+    "model": "scout",
+    "year_start": 2002,
+    "year_end": 2008
+  },
+  {
+    "make": "ktmmex",
+    "model": "sporty",
+    "year_start": 2002,
+    "year_end": 2024
+  },
+  {
+    "make": "ktmmex",
+    "model": "storm",
+    "year_start": 2009,
+    "year_end": 2024
+  },
+  {
+    "make": "ktmmex",
+    "model": "sunny",
+    "year_start": 2002,
+    "year_end": 2008
+  },
+  {
+    "make": "ktmmex",
+    "model": "tank",
+    "year_start": 2002,
+    "year_end": 2008
+  },
+  {
+    "make": "ktmmex",
+    "model": "touring",
+    "year_start": 2002,
+    "year_end": 2024
+  },
+  {
+    "make": "ktmmex",
+    "model": "trail",
+    "year_start": 2002,
+    "year_end": 2024
+  },
+  {
+    "make": "ktmmex",
+    "model": "ttr",
+    "year_start": 2002,
+    "year_end": 2024
+  },
+  {
+    "make": "ktmmex",
+    "model": "ttx",
+    "year_start": 2002,
+    "year_end": 2024
+  },
+  {
+    "make": "ktmmex",
+    "model": "u",
+    "year_start": 2009,
+    "year_end": 2024
+  },
+  {
+    "make": "ktmmex",
+    "model": "urban",
+    "year_start": 2002,
+    "year_end": 2024
+  },
+  {
+    "make": "ktmmex",
+    "model": "utilitrax",
+    "year_start": 2009,
+    "year_end": 2024
+  },
+  {
+    "make": "ktmmex",
+    "model": "viaggio",
+    "year_start": 2002,
+    "year_end": 2024
+  },
+  {
+    "make": "ktmmex",
+    "model": "vision",
+    "year_start": 2002,
+    "year_end": 2008
+  },
+  {
+    "make": "medford steel",
+    "model": "medford steel",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "a-class",
+    "year_start": 2019,
+    "year_end": 2022
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "amg gt",
+    "year_start": 2016,
+    "year_end": 2024
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "b-class",
+    "year_start": 2011,
+    "year_end": 2022
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "c-class",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "cl-class",
+    "year_start": 1998,
+    "year_end": 2014
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "cla-class",
+    "year_start": 2014,
+    "year_end": 2024
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "cle",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "clk-class",
+    "year_start": 1998,
+    "year_end": 2009
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "cls-class",
+    "year_start": 2005,
+    "year_end": 2023
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "e-class",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "eqb-class",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "eqe-class sedan",
+    "year_start": 2023,
+    "year_end": 2024
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "eqe-class suv",
+    "year_start": 2023,
+    "year_end": 2024
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "eqs-class sedan",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "eqs-class suv",
+    "year_start": 2023,
+    "year_end": 2024
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "esprinter",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "g-class",
+    "year_start": 1999,
+    "year_end": 2024
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "gl-class",
+    "year_start": 2006,
+    "year_end": 2016
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "gla-class",
+    "year_start": 2015,
+    "year_end": 2024
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "glb-class",
+    "year_start": 2020,
+    "year_end": 2024
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "glc-class",
+    "year_start": 2016,
+    "year_end": 2024
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "gle-class",
+    "year_start": 2016,
+    "year_end": 2024
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "glk-class",
+    "year_start": 2010,
+    "year_end": 2020
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "gls-class",
+    "year_start": 2016,
+    "year_end": 2024
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "l1013",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "l1113",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "l1116",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "l1117",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "l1316",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "l1317",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "l1319",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "l1418",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "l1419",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "lp1219",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "lp1419",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "lps1525",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "m-class",
+    "year_start": 1996,
+    "year_end": 2019
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "metris",
+    "year_start": 2016,
+    "year_end": 2024
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "ml-class",
+    "year_start": 2012,
+    "year_end": 2015
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "r-class",
+    "year_start": 2006,
+    "year_end": 2013
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "s-class",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "sl-class",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "slc-class",
+    "year_start": 2017,
+    "year_end": 2020
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "slk-class",
+    "year_start": 1998,
+    "year_end": 2016
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "slr mclaren",
+    "year_start": 2004,
+    "year_end": 2009
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "sls-class",
+    "year_start": 2011,
+    "year_end": 2022
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "sprinter",
+    "year_start": 2010,
+    "year_end": 2024
+  },
+  {
+    "make": "milford pipe & supply",
+    "model": "milford pipe & supply",
+    "year_start": 2010,
+    "year_end": 2024
+  },
+  {
+    "make": "milford welding & manufacturing",
+    "model": "milford welding & manufacturing inc.",
+    "year_start": 2006,
+    "year_end": 2010
+  },
+  {
+    "make": "stafford's trailers",
+    "model": "stafford's trailers",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "stanford customs",
+    "model": "classic sedan",
+    "year_start": 2017,
+    "year_end": 2024
+  },
+  {
+    "make": "stanford customs",
+    "model": "cordova sedan",
+    "year_start": 2017,
+    "year_end": 2024
+  },
+  {
+    "make": "stanford customs",
+    "model": "malibu sedan",
+    "year_start": 2017,
+    "year_end": 2024
+  },
+  {
+    "make": "sundiro  honda motorcycle co. ltd",
+    "model": "a1",
+    "year_start": 1996,
+    "year_end": 1996
+  },
+  {
+    "make": "suzuki",
+    "model": "aerio",
+    "year_start": 2002,
+    "year_end": 2007
+  },
+  {
+    "make": "suzuki",
+    "model": "an400",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "an400 / an400s",
+    "year_start": 2004,
+    "year_end": 2006
+  },
+  {
+    "make": "suzuki",
+    "model": "an400a",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "an400al",
+    "year_start": 2011,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "an400k",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "an400l",
+    "year_start": 2011,
+    "year_end": 2011
+  },
+  {
+    "make": "suzuki",
+    "model": "an650",
+    "year_start": 2004,
+    "year_end": 2010
+  },
+  {
+    "make": "suzuki",
+    "model": "an650a",
+    "year_start": 2011,
+    "year_end": 2011
+  },
+  {
+    "make": "suzuki",
+    "model": "an650al",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "an650k",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "an650l",
+    "year_start": 2011,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "boulevard",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "boulevard c50 (vl800l9) / boulevard c50t (vl800tl9)",
+    "year_start": 2005,
+    "year_end": 2019
+  },
+  {
+    "make": "suzuki",
+    "model": "boulevard c50(vl800l8) / boulevard c50t(vl800tl8)",
+    "year_start": 2018,
+    "year_end": 2018
+  },
+  {
+    "make": "suzuki",
+    "model": "boulevard c50t",
+    "year_start": 2020,
+    "year_end": 2021
+  },
+  {
+    "make": "suzuki",
+    "model": "boulevard c90 b.o.s.s. (vl1500bl8)  / boulevard c90t(vl1500tl8)",
+    "year_start": 2018,
+    "year_end": 2018
+  },
+  {
+    "make": "suzuki",
+    "model": "boulevard c90 b.o.s.s. (vl1500bl9) / boulevard c90t (vl1500tl9)",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "boulevard m109r b.o.s.s. (vzr1800bzl9)",
+    "year_start": 2019,
+    "year_end": 2019
+  },
+  {
+    "make": "suzuki",
+    "model": "boulevard m109r b.o.s.s.(vzr1800bzl8)",
+    "year_start": 2018,
+    "year_end": 2018
+  },
+  {
+    "make": "suzuki",
+    "model": "boulevard m50 (vz800l9)",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "boulevard m50(vz800l8)",
+    "year_start": 2018,
+    "year_end": 2018
+  },
+  {
+    "make": "suzuki",
+    "model": "boulevard m90 (vz1500l9)",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "boulevard m90(vz1500l8)",
+    "year_start": 2018,
+    "year_end": 2018
+  },
+  {
+    "make": "suzuki",
+    "model": "boulevard s40 (ls650bl9)",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "boulevard s40(ls650bl8 )",
+    "year_start": 2018,
+    "year_end": 2018
+  },
+  {
+    "make": "suzuki",
+    "model": "burgman 200",
+    "year_start": 2018,
+    "year_end": 2021
+  },
+  {
+    "make": "suzuki",
+    "model": "burgman 400",
+    "year_start": 2018,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "burgman 650",
+    "year_start": 2018,
+    "year_end": 2018
+  },
+  {
+    "make": "suzuki",
+    "model": "dl1000",
+    "year_start": 2004,
+    "year_end": 2010
+  },
+  {
+    "make": "suzuki",
+    "model": "dl1000a/dl1000aa",
+    "year_start": 2016,
+    "year_end": 2017
+  },
+  {
+    "make": "suzuki",
+    "model": "dl1000al/dl1000aal",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "dl1000k",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "dl1000l",
+    "year_start": 2011,
+    "year_end": 2012
+  },
+  {
+    "make": "suzuki",
+    "model": "dl1000xaal9 (v-strom 1000xt adventure)",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "dl1050",
+    "year_start": 2023,
+    "year_end": 2023
+  },
+  {
+    "make": "suzuki",
+    "model": "dl650",
+    "year_start": 2004,
+    "year_end": 2023
+  },
+  {
+    "make": "suzuki",
+    "model": "dl650a",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "dl650aal/dl650al",
+    "year_start": 2014,
+    "year_end": 2014
+  },
+  {
+    "make": "suzuki",
+    "model": "dl650al",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "dl650k",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "dl650l",
+    "year_start": 2011,
+    "year_end": 2011
+  },
+  {
+    "make": "suzuki",
+    "model": "dl650xa/dl650a",
+    "year_start": 2016,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "dl650xaal9 (v-strom 650xt touring)",
+    "year_start": 2019,
+    "year_end": 2019
+  },
+  {
+    "make": "suzuki",
+    "model": "dl650xal/dl650aal/dl650al",
+    "year_start": 2015,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "dl650xal7",
+    "year_start": 2017,
+    "year_end": 2017
+  },
+  {
+    "make": "suzuki",
+    "model": "dr-z110",
+    "year_start": 2003,
+    "year_end": 2006
+  },
+  {
+    "make": "suzuki",
+    "model": "dr-z110k",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "dr-z125",
+    "year_start": 2004,
+    "year_end": 2021
+  },
+  {
+    "make": "suzuki",
+    "model": "dr-z125k",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "dr-z125l",
+    "year_start": 2004,
+    "year_end": 2014
+  },
+  {
+    "make": "suzuki",
+    "model": "dr-z125lk",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "dr-z125ll",
+    "year_start": 2011,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "dr-z125ll/dr-z125l",
+    "year_start": 2017,
+    "year_end": 2017
+  },
+  {
+    "make": "suzuki",
+    "model": "dr-z12lm",
+    "year_start": 2023,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "dr-z250",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "dr-z250k",
+    "year_start": 2002,
+    "year_end": 2004
+  },
+  {
+    "make": "suzuki",
+    "model": "dr-z400",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "dr-z400e",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "dr-z400ek",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "dr-z400k",
+    "year_start": 2002,
+    "year_end": 2003
+  },
+  {
+    "make": "suzuki",
+    "model": "dr-z400s",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "dr-z400sk",
+    "year_start": 2002,
+    "year_end": 2004
+  },
+  {
+    "make": "suzuki",
+    "model": "dr-z400sl",
+    "year_start": 2011,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "dr-z400sl8",
+    "year_start": 2018,
+    "year_end": 2018
+  },
+  {
+    "make": "suzuki",
+    "model": "dr-z400sl9",
+    "year_start": 2019,
+    "year_end": 2019
+  },
+  {
+    "make": "suzuki",
+    "model": "dr-z400sm",
+    "year_start": 2020,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "dr-z400sml",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "dr-z400sml8",
+    "year_start": 2018,
+    "year_end": 2018
+  },
+  {
+    "make": "suzuki",
+    "model": "dr-z400sml9",
+    "year_start": 2019,
+    "year_end": 2019
+  },
+  {
+    "make": "suzuki",
+    "model": "dr-z50",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "dr-z70",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "dr125se",
+    "year_start": 1996,
+    "year_end": 1996
+  },
+  {
+    "make": "suzuki",
+    "model": "dr200s",
+    "year_start": 2020,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "dr200se",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "dr200sek",
+    "year_start": 2002,
+    "year_end": 2004
+  },
+  {
+    "make": "suzuki",
+    "model": "dr200sel",
+    "year_start": 2011,
+    "year_end": 2013
+  },
+  {
+    "make": "suzuki",
+    "model": "dr200sl",
+    "year_start": 2014,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "dr200sl8",
+    "year_start": 2018,
+    "year_end": 2018
+  },
+  {
+    "make": "suzuki",
+    "model": "dr200sl9",
+    "year_start": 2019,
+    "year_end": 2019
+  },
+  {
+    "make": "suzuki",
+    "model": "dr350",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "dr350se",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "dr650s",
+    "year_start": 2020,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "dr650se",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "dr650sek",
+    "year_start": 2002,
+    "year_end": 2004
+  },
+  {
+    "make": "suzuki",
+    "model": "dr650sel",
+    "year_start": 2011,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "dr650sel8",
+    "year_start": 2018,
+    "year_end": 2018
+  },
+  {
+    "make": "suzuki",
+    "model": "dr650sel9",
+    "year_start": 2019,
+    "year_end": 2019
+  },
+  {
+    "make": "suzuki",
+    "model": "ds80",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "equator",
+    "year_start": 2009,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "esteem",
+    "year_start": 1996,
+    "year_end": 2002
+  },
+  {
+    "make": "suzuki",
+    "model": "forenza",
+    "year_start": 2004,
+    "year_end": 2008
+  },
+  {
+    "make": "suzuki",
+    "model": "gn125e",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "grand vitara",
+    "year_start": 1999,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "grand vitara xl-7",
+    "year_start": 2002,
+    "year_end": 2008
+  },
+  {
+    "make": "suzuki",
+    "model": "gs500",
+    "year_start": 2001,
+    "year_end": 2001
+  },
+  {
+    "make": "suzuki",
+    "model": "gs500(gs500h)/gs500f(gs500fh)",
+    "year_start": 2003,
+    "year_end": 2010
+  },
+  {
+    "make": "suzuki",
+    "model": "gs500e",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gs500fk",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gs500k",
+    "year_start": 2002,
+    "year_end": 2002
+  },
+  {
+    "make": "suzuki",
+    "model": "gsf1200",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsf1200s",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsf1200s/gsf1200sz",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsf1200sk",
+    "year_start": 2004,
+    "year_end": 2004
+  },
+  {
+    "make": "suzuki",
+    "model": "gsf1200sk/gsf1200k",
+    "year_start": 2002,
+    "year_end": 2003
+  },
+  {
+    "make": "suzuki",
+    "model": "gsf1250s",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsf1250sa",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsf1250sa/gsx1250sa",
+    "year_start": 2016,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsf600s",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsf600sk",
+    "year_start": 2002,
+    "year_end": 2003
+  },
+  {
+    "make": "suzuki",
+    "model": "gsf650s",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsf650sa",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx-8r",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx-8s",
+    "year_start": 2023,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx-r1000",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx-r1000al",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx-r1000k",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx-r1000l",
+    "year_start": 2011,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx-r1000r",
+    "year_start": 2020,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx-r1100w",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx-r600",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx-r600k",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx-r600l",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx-r750",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx-r750k",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx-r750l",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx-s1000",
+    "year_start": 2016,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx-s1000a",
+    "year_start": 2016,
+    "year_end": 2016
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx-s1000al7",
+    "year_start": 2016,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx-s1000al8 / gsx-s1000zal8",
+    "year_start": 2018,
+    "year_end": 2018
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx-s1000al9/gsxs1000zal9/gsxs1000yal9",
+    "year_start": 2019,
+    "year_end": 2019
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx-s1000f",
+    "year_start": 2016,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx-s1000fa",
+    "year_start": 2016,
+    "year_end": 2017
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx-s1000fal7",
+    "year_start": 2017,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx-s1000fal8",
+    "year_start": 2018,
+    "year_end": 2018
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx-s1000gt/gsx-s1000gt+",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx-s750",
+    "year_start": 2020,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx-s750l8",
+    "year_start": 2018,
+    "year_end": 2018
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx-s750zal8 / gsx-s750l8",
+    "year_start": 2018,
+    "year_end": 2018
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx-s750zl/gsx-s750l",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx-s750zl9 (49st)",
+    "year_start": 2019,
+    "year_end": 2019
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx-z750zal9 (50st) / gsx-s750yal9 (50st) / gsx-s750zl9 (50st)",
+    "year_start": 2019,
+    "year_end": 2019
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx1250fa",
+    "year_start": 2010,
+    "year_end": 2010
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx1250fal",
+    "year_start": 2011,
+    "year_end": 2012
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx1300 rk5",
+    "year_start": 2005,
+    "year_end": 2005
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx1300bk",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx1300bka",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx1300r",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx1300ral",
+    "year_start": 2013,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx1300ral/gsx1300razl",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx1300ral9 (hayabusa)",
+    "year_start": 2019,
+    "year_end": 2019
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx1300ram0 (hayabusa)",
+    "year_start": 2020,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx1300rk",
+    "year_start": 2002,
+    "year_end": 2004
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx1300rl",
+    "year_start": 2011,
+    "year_end": 2011
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx1300rl/gsx1300rzl",
+    "year_start": 2012,
+    "year_end": 2012
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx1300rrm2 / gsx1300rrzm2",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx250r",
+    "year_start": 2018,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx600f",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx600fk",
+    "year_start": 2002,
+    "year_end": 2004
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx650f",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx650fa",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx750f",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gsx750fk",
+    "year_start": 2002,
+    "year_end": 2004
+  },
+  {
+    "make": "suzuki",
+    "model": "gsxs1000fzl9",
+    "year_start": 2019,
+    "year_end": 2019
+  },
+  {
+    "make": "suzuki",
+    "model": "gw250/gw250f/gw250z",
+    "year_start": 2016,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gw250fl/gw250zl",
+    "year_start": 2015,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gw250l",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gz250",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "gz250k",
+    "year_start": 2002,
+    "year_end": 2004
+  },
+  {
+    "make": "suzuki",
+    "model": "hayabusa",
+    "year_start": 2023,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "hayabusa(gsx1300ral8)",
+    "year_start": 2018,
+    "year_end": 2018
+  },
+  {
+    "make": "suzuki",
+    "model": "jr50",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "jr50k",
+    "year_start": 2002,
+    "year_end": 2004
+  },
+  {
+    "make": "suzuki",
+    "model": "jr80",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "jr80k",
+    "year_start": 2002,
+    "year_end": 2004
+  },
+  {
+    "make": "suzuki",
+    "model": "katana",
+    "year_start": 2020,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "kingquad",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "kizashi",
+    "year_start": 2010,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "low speed vehicle",
+    "year_start": 2011,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "ls650",
+    "year_start": 2004,
+    "year_end": 2010
+  },
+  {
+    "make": "suzuki",
+    "model": "ls650bl7",
+    "year_start": 2017,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "ls650l",
+    "year_start": 2011,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "ls650p",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "ls650pk",
+    "year_start": 2002,
+    "year_end": 2004
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-a400",
+    "year_start": 2004,
+    "year_end": 2007
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-a400f/lt-a400fc/lt-a400fh",
+    "year_start": 2007,
+    "year_end": 2007
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-a400f/lt-a400fz",
+    "year_start": 2004,
+    "year_end": 2006
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-a400fk",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-a400k",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-a450x",
+    "year_start": 2001,
+    "year_end": 2001
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-a50",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-a500f",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-a500f/lt-a500fc",
+    "year_start": 2007,
+    "year_end": 2007
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-a500fk",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-f160",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-f250",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-f250f",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-f250fk",
+    "year_start": 2002,
+    "year_end": 2002
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-f250k",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-f250l",
+    "year_start": 2011,
+    "year_end": 2014
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-f400",
+    "year_start": 2004,
+    "year_end": 2007
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-f400f",
+    "year_start": 2004,
+    "year_end": 2006
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-f400f/lt-f400fc",
+    "year_start": 2007,
+    "year_end": 2007
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-f400fk",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-f400k",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-f4wd",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-f500f",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-f500f/quadrunner",
+    "year_start": 2000,
+    "year_end": 2000
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-f500fk",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-r450",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-r450/lt-r450z",
+    "year_start": 2010,
+    "year_end": 2010
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-r450z",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-v700f",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-z250",
+    "year_start": 2008,
+    "year_end": 2009
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-z250/ lt-z250z",
+    "year_start": 2010,
+    "year_end": 2010
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-z250k",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-z400/lt-z400z",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-z400k",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-z400l",
+    "year_start": 2014,
+    "year_end": 2014
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-z400l/lt-z400zl",
+    "year_start": 2011,
+    "year_end": 2013
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-z400z",
+    "year_start": 2004,
+    "year_end": 2006
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-z50",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-z50/lt-z50z",
+    "year_start": 2010,
+    "year_end": 2010
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-z50l",
+    "year_start": 2017,
+    "year_end": 2017
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-z90",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-z90l",
+    "year_start": 2011,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "lt-z90l/quadsport z90",
+    "year_start": 2017,
+    "year_end": 2017
+  },
+  {
+    "make": "suzuki",
+    "model": "lt160k",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "lt80",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "lt80k",
+    "year_start": 2002,
+    "year_end": 2004
+  },
+  {
+    "make": "suzuki",
+    "model": "quv620f",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "reno",
+    "year_start": 2005,
+    "year_end": 2008
+  },
+  {
+    "make": "suzuki",
+    "model": "rf600r",
+    "year_start": 1996,
+    "year_end": 1996
+  },
+  {
+    "make": "suzuki",
+    "model": "rf900r",
+    "year_start": 1996,
+    "year_end": 1997
+  },
+  {
+    "make": "suzuki",
+    "model": "rm-z250",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "rm-z250k",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "rm-z250l",
+    "year_start": 2011,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "rm-z450",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "rm-z450l",
+    "year_start": 2011,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "rm100",
+    "year_start": 2003,
+    "year_end": 2005
+  },
+  {
+    "make": "suzuki",
+    "model": "rm100k",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "rm125",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "rm125k",
+    "year_start": 2002,
+    "year_end": 2004
+  },
+  {
+    "make": "suzuki",
+    "model": "rm125t",
+    "year_start": 1996,
+    "year_end": 1996
+  },
+  {
+    "make": "suzuki",
+    "model": "rm250",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "rm250/ rm250t",
+    "year_start": 1996,
+    "year_end": 1996
+  },
+  {
+    "make": "suzuki",
+    "model": "rm250k",
+    "year_start": 2002,
+    "year_end": 2004
+  },
+  {
+    "make": "suzuki",
+    "model": "rm60",
+    "year_start": 2003,
+    "year_end": 2005
+  },
+  {
+    "make": "suzuki",
+    "model": "rm60k",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "rm65",
+    "year_start": 2003,
+    "year_end": 2006
+  },
+  {
+    "make": "suzuki",
+    "model": "rm65k",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "rm80",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "rm80t",
+    "year_start": 1996,
+    "year_end": 1996
+  },
+  {
+    "make": "suzuki",
+    "model": "rm85",
+    "year_start": 2004,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "rm85k",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "rm85l",
+    "year_start": 2004,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "rm85lk",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "rm85ll",
+    "year_start": 2011,
+    "year_end": 2013
+  },
+  {
+    "make": "suzuki",
+    "model": "rmx250",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "rmx450",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "rmx450zl",
+    "year_start": 2017,
+    "year_end": 2017
+  },
+  {
+    "make": "suzuki",
+    "model": "rv200l7",
+    "year_start": 2017,
+    "year_end": 2017
+  },
+  {
+    "make": "suzuki",
+    "model": "rv200l8",
+    "year_start": 2018,
+    "year_end": 2018
+  },
+  {
+    "make": "suzuki",
+    "model": "rv200l9",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "samurai",
+    "year_start": 1996,
+    "year_end": 1996
+  },
+  {
+    "make": "suzuki",
+    "model": "sfv650",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "sfv650a",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "sfv650l",
+    "year_start": 2011,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "sidekick",
+    "year_start": 1996,
+    "year_end": 1998
+  },
+  {
+    "make": "suzuki",
+    "model": "sidekick sport",
+    "year_start": 1996,
+    "year_end": 1998
+  },
+  {
+    "make": "suzuki",
+    "model": "suzuki boulevard m109r b.o.s.s.",
+    "year_start": 2020,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "sv1000 / sv1000s",
+    "year_start": 2004,
+    "year_end": 2006
+  },
+  {
+    "make": "suzuki",
+    "model": "sv1000k / sv1000sk",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "sv1000s",
+    "year_start": 2007,
+    "year_end": 2007
+  },
+  {
+    "make": "suzuki",
+    "model": "sv650",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "sv650/sv650s",
+    "year_start": 2004,
+    "year_end": 2007
+  },
+  {
+    "make": "suzuki",
+    "model": "sv650/sv650s/sv650sf",
+    "year_start": 2008,
+    "year_end": 2010
+  },
+  {
+    "make": "suzuki",
+    "model": "sv650a/sv650sa",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "sv650a/sv650sa/sv650saf",
+    "year_start": 2008,
+    "year_end": 2010
+  },
+  {
+    "make": "suzuki",
+    "model": "sv650al7",
+    "year_start": 2017,
+    "year_end": 2017
+  },
+  {
+    "make": "suzuki",
+    "model": "sv650al8",
+    "year_start": 2018,
+    "year_end": 2018
+  },
+  {
+    "make": "suzuki",
+    "model": "sv650al9 / sv650xal9",
+    "year_start": 2019,
+    "year_end": 2019
+  },
+  {
+    "make": "suzuki",
+    "model": "sv650k/sv650sk",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "sv650l7",
+    "year_start": 2017,
+    "year_end": 2017
+  },
+  {
+    "make": "suzuki",
+    "model": "sv650l8",
+    "year_start": 2018,
+    "year_end": 2018
+  },
+  {
+    "make": "suzuki",
+    "model": "sv650l9",
+    "year_start": 2019,
+    "year_end": 2019
+  },
+  {
+    "make": "suzuki",
+    "model": "swift",
+    "year_start": 1996,
+    "year_end": 2008
+  },
+  {
+    "make": "suzuki",
+    "model": "sx4",
+    "year_start": 2007,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "tl1000r",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "tl1000rk",
+    "year_start": 2002,
+    "year_end": 2003
+  },
+  {
+    "make": "suzuki",
+    "model": "tl1000s",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "tu250x",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "tu250xl",
+    "year_start": 2011,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "tu250xl8",
+    "year_start": 2018,
+    "year_end": 2018
+  },
+  {
+    "make": "suzuki",
+    "model": "tu250xl9",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "uh200al",
+    "year_start": 2015,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "uh200am2",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "uh200l",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "uz125c",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "v-strom 1000 abs(dl1000al8) / v-strom 1000 xt abs(dl100xal8)",
+    "year_start": 2018,
+    "year_end": 2018
+  },
+  {
+    "make": "suzuki",
+    "model": "v-strom 1050",
+    "year_start": 2020,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "v-strom 1050xt",
+    "year_start": 2020,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "v-strom 650",
+    "year_start": 2020,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "v-strom 650xt",
+    "year_start": 2018,
+    "year_end": 2018
+  },
+  {
+    "make": "suzuki",
+    "model": "v-strom 650xt adventure",
+    "year_start": 2018,
+    "year_end": 2018
+  },
+  {
+    "make": "suzuki",
+    "model": "v-strom 800",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "v-strom 800de / v-strom 800de adventure",
+    "year_start": 2023,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "verona",
+    "year_start": 2004,
+    "year_end": 2008
+  },
+  {
+    "make": "suzuki",
+    "model": "vitara",
+    "year_start": 1999,
+    "year_end": 2004
+  },
+  {
+    "make": "suzuki",
+    "model": "vl1500",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "vl1500 / vl1500t",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "vl1500bl/vl1500tl",
+    "year_start": 2015,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "vl1500k",
+    "year_start": 2002,
+    "year_end": 2004
+  },
+  {
+    "make": "suzuki",
+    "model": "vl1500l/vl1500bl/vl1500tl/vl1500btl",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "vl800",
+    "year_start": 2001,
+    "year_end": 2007
+  },
+  {
+    "make": "suzuki",
+    "model": "vl800 / vl800t / vl800c/vl800b",
+    "year_start": 2008,
+    "year_end": 2008
+  },
+  {
+    "make": "suzuki",
+    "model": "vl800/vl800c/vl800t",
+    "year_start": 2004,
+    "year_end": 2010
+  },
+  {
+    "make": "suzuki",
+    "model": "vl800/vl800t/vl800z",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "vl800bl/vl800cl/vl800l/vl800tl",
+    "year_start": 2014,
+    "year_end": 2014
+  },
+  {
+    "make": "suzuki",
+    "model": "vl800cl/vl800l/vl800tl",
+    "year_start": 2011,
+    "year_end": 2013
+  },
+  {
+    "make": "suzuki",
+    "model": "vl800k",
+    "year_start": 2002,
+    "year_end": 2004
+  },
+  {
+    "make": "suzuki",
+    "model": "vl800l/vl800tl",
+    "year_start": 2015,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "vl800tl",
+    "year_start": 2012,
+    "year_end": 2012
+  },
+  {
+    "make": "suzuki",
+    "model": "vlr1800/vlr1800t",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "vs1400",
+    "year_start": 2004,
+    "year_end": 2009
+  },
+  {
+    "make": "suzuki",
+    "model": "vs1400glp",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "vs1400glpk",
+    "year_start": 2002,
+    "year_end": 2004
+  },
+  {
+    "make": "suzuki",
+    "model": "vs800",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "vs800glk",
+    "year_start": 2002,
+    "year_end": 2004
+  },
+  {
+    "make": "suzuki",
+    "model": "vz1500",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "vz1500l",
+    "year_start": 2011,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "vz1600",
+    "year_start": 2004,
+    "year_end": 2006
+  },
+  {
+    "make": "suzuki",
+    "model": "vz1600k",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "vz800",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "vz800/vz800b/vz800z",
+    "year_start": 2008,
+    "year_end": 2008
+  },
+  {
+    "make": "suzuki",
+    "model": "vz800/vz800z",
+    "year_start": 2009,
+    "year_end": 2010
+  },
+  {
+    "make": "suzuki",
+    "model": "vz800k",
+    "year_start": 2002,
+    "year_end": 2004
+  },
+  {
+    "make": "suzuki",
+    "model": "vz800l",
+    "year_start": 2011,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "vzr1800",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "vzr1800/vzr1800z",
+    "year_start": 2010,
+    "year_end": 2010
+  },
+  {
+    "make": "suzuki",
+    "model": "vzr1800/vzr1800z/vzr1800n",
+    "year_start": 2008,
+    "year_end": 2009
+  },
+  {
+    "make": "suzuki",
+    "model": "vzr1800bzl",
+    "year_start": 2015,
+    "year_end": 2024
+  },
+  {
+    "make": "suzuki",
+    "model": "vzr1800bzl/vzr1800l/vzr1800zl",
+    "year_start": 2014,
+    "year_end": 2014
+  },
+  {
+    "make": "suzuki",
+    "model": "vzr1800l/vzr1800zl",
+    "year_start": 2011,
+    "year_end": 2013
+  },
+  {
+    "make": "suzuki",
+    "model": "x-90",
+    "year_start": 1996,
+    "year_end": 1998
+  },
+  {
+    "make": "suzuki",
+    "model": "xl7",
+    "year_start": 2003,
+    "year_end": 2024
+  },
+  {
+    "make": "swinford mfg",
+    "model": "swinford mfg",
+    "year_start": 1997,
+    "year_end": 2024
+  },
+  {
+    "make": "toyota",
+    "model": "4runner",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "toyota",
+    "model": "86",
+    "year_start": 2017,
+    "year_end": 2020
+  },
+  {
+    "make": "toyota",
+    "model": "avalon",
+    "year_start": 1996,
+    "year_end": 2022
+  },
+  {
+    "make": "toyota",
+    "model": "bz4x",
+    "year_start": 2023,
+    "year_end": 2024
+  },
+  {
+    "make": "toyota",
+    "model": "c-hr",
+    "year_start": 2018,
+    "year_end": 2024
+  },
+  {
+    "make": "toyota",
+    "model": "camry",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "toyota",
+    "model": "camry solara",
+    "year_start": 1999,
+    "year_end": 2009
+  },
+  {
+    "make": "toyota",
+    "model": "celica",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "toyota",
+    "model": "corolla",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "toyota",
+    "model": "corolla cross",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "toyota",
+    "model": "corolla im",
+    "year_start": 2017,
+    "year_end": 2018
+  },
+  {
+    "make": "toyota",
+    "model": "corolla matrix",
+    "year_start": 2003,
+    "year_end": 2013
+  },
+  {
+    "make": "toyota",
+    "model": "crown",
+    "year_start": 2023,
+    "year_end": 2024
+  },
+  {
+    "make": "toyota",
+    "model": "echo",
+    "year_start": 2000,
+    "year_end": 2005
+  },
+  {
+    "make": "toyota",
+    "model": "fchv-adv",
+    "year_start": 2009,
+    "year_end": 2024
+  },
+  {
+    "make": "toyota",
+    "model": "fj cruiser",
+    "year_start": 2007,
+    "year_end": 2014
+  },
+  {
+    "make": "toyota",
+    "model": "gr corolla",
+    "year_start": 2023,
+    "year_end": 2024
+  },
+  {
+    "make": "toyota",
+    "model": "gr86",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "toyota",
+    "model": "grand highlander",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "toyota",
+    "model": "highlander",
+    "year_start": 2001,
+    "year_end": 2024
+  },
+  {
+    "make": "toyota",
+    "model": "land cruiser",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "toyota",
+    "model": "mirai",
+    "year_start": 2016,
+    "year_end": 2024
+  },
+  {
+    "make": "toyota",
+    "model": "mr2",
+    "year_start": 2000,
+    "year_end": 2007
+  },
+  {
+    "make": "toyota",
+    "model": "paseo",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "toyota",
+    "model": "previa",
+    "year_start": 1996,
+    "year_end": 1998
+  },
+  {
+    "make": "toyota",
+    "model": "prius",
+    "year_start": 2001,
+    "year_end": 2024
+  },
+  {
+    "make": "toyota",
+    "model": "prius c",
+    "year_start": 2012,
+    "year_end": 2020
+  },
+  {
+    "make": "toyota",
+    "model": "prius prime (phev)",
+    "year_start": 2017,
+    "year_end": 2024
+  },
+  {
+    "make": "toyota",
+    "model": "prius v",
+    "year_start": 2012,
+    "year_end": 2017
+  },
+  {
+    "make": "toyota",
+    "model": "rav4",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "toyota",
+    "model": "rav4 prime (phev)",
+    "year_start": 2021,
+    "year_end": 2024
+  },
+  {
+    "make": "toyota",
+    "model": "scion fr-s",
+    "year_start": 2013,
+    "year_end": 2016
+  },
+  {
+    "make": "toyota",
+    "model": "scion ia",
+    "year_start": 2016,
+    "year_end": 2016
+  },
+  {
+    "make": "toyota",
+    "model": "scion im",
+    "year_start": 2016,
+    "year_end": 2016
+  },
+  {
+    "make": "toyota",
+    "model": "scion iq",
+    "year_start": 2011,
+    "year_end": 2015
+  },
+  {
+    "make": "toyota",
+    "model": "scion tc",
+    "year_start": 2005,
+    "year_end": 2016
+  },
+  {
+    "make": "toyota",
+    "model": "scion xa",
+    "year_start": 2004,
+    "year_end": 2006
+  },
+  {
+    "make": "toyota",
+    "model": "scion xb",
+    "year_start": 2004,
+    "year_end": 2015
+  },
+  {
+    "make": "toyota",
+    "model": "scion xd",
+    "year_start": 2008,
+    "year_end": 2014
+  },
+  {
+    "make": "toyota",
+    "model": "sequoia",
+    "year_start": 2000,
+    "year_end": 2024
+  },
+  {
+    "make": "toyota",
+    "model": "sienna",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "toyota",
+    "model": "supra",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "toyota",
+    "model": "t100",
+    "year_start": 1996,
+    "year_end": 1998
+  },
+  {
+    "make": "toyota",
+    "model": "tacoma",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "toyota",
+    "model": "tercel",
+    "year_start": 1996,
+    "year_end": 1999
+  },
+  {
+    "make": "toyota",
+    "model": "tundra",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "toyota",
+    "model": "venza",
+    "year_start": 2009,
+    "year_end": 2024
+  },
+  {
+    "make": "toyota",
+    "model": "yaris",
+    "year_start": 2007,
+    "year_end": 2024
+  },
+  {
+    "make": "toyota",
+    "model": "yaris ia",
+    "year_start": 2017,
+    "year_end": 2019
+  },
+  {
+    "make": "triumph",
+    "model": "adventurer",
+    "year_start": 1996,
+    "year_end": 2016
+  },
+  {
+    "make": "triumph",
+    "model": "america",
+    "year_start": 1996,
+    "year_end": 2017
+  },
+  {
+    "make": "triumph",
+    "model": "bonneville",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "triumph",
+    "model": "daytona",
+    "year_start": 1996,
+    "year_end": 2020
+  },
+  {
+    "make": "triumph",
+    "model": "daytona 675 r",
+    "year_start": 1996,
+    "year_end": 2023
+  },
+  {
+    "make": "triumph",
+    "model": "explorer",
+    "year_start": 1996,
+    "year_end": 2018
+  },
+  {
+    "make": "triumph",
+    "model": "legend",
+    "year_start": 1996,
+    "year_end": 2016
+  },
+  {
+    "make": "triumph",
+    "model": "rocket 3",
+    "year_start": 2020,
+    "year_end": 2024
+  },
+  {
+    "make": "triumph",
+    "model": "rocket iii",
+    "year_start": 1996,
+    "year_end": 2023
+  },
+  {
+    "make": "triumph",
+    "model": "scrambler",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "triumph",
+    "model": "speed",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "triumph",
+    "model": "speed four",
+    "year_start": 1996,
+    "year_end": 2016
+  },
+  {
+    "make": "triumph",
+    "model": "speed triple",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "triumph",
+    "model": "speed twin",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "triumph",
+    "model": "speedmaster",
+    "year_start": 1996,
+    "year_end": 2017
+  },
+  {
+    "make": "triumph",
+    "model": "sprint",
+    "year_start": 1996,
+    "year_end": 2016
+  },
+  {
+    "make": "triumph",
+    "model": "street cup",
+    "year_start": 1996,
+    "year_end": 2023
+  },
+  {
+    "make": "triumph",
+    "model": "street scrambler",
+    "year_start": 2017,
+    "year_end": 2023
+  },
+  {
+    "make": "triumph",
+    "model": "street triple",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "triumph",
+    "model": "street twin",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "triumph",
+    "model": "thruxton",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "triumph",
+    "model": "thunderbird",
+    "year_start": 1996,
+    "year_end": 2023
+  },
+  {
+    "make": "triumph",
+    "model": "tiger",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "triumph",
+    "model": "trident",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "triumph",
+    "model": "trophy",
+    "year_start": 1996,
+    "year_end": 2023
+  },
+  {
+    "make": "triumph",
+    "model": "tt600",
+    "year_start": 1996,
+    "year_end": 2016
+  },
+  {
+    "make": "triumph trailers",
+    "model": "triumph trailers",
+    "year_start": 2020,
+    "year_end": 2024
+  },
+  {
+    "make": "volkswagen",
+    "model": "arteon",
+    "year_start": 2019,
+    "year_end": 2023
+  },
+  {
+    "make": "volkswagen",
+    "model": "atlas",
+    "year_start": 2018,
+    "year_end": 2024
+  },
+  {
+    "make": "volkswagen",
+    "model": "atlas cross sport",
+    "year_start": 2020,
+    "year_end": 2024
+  },
+  {
+    "make": "volkswagen",
+    "model": "beetle",
+    "year_start": 1998,
+    "year_end": 2019
+  },
+  {
+    "make": "volkswagen",
+    "model": "cabrio",
+    "year_start": 1996,
+    "year_end": 2002
+  },
+  {
+    "make": "volkswagen",
+    "model": "cc",
+    "year_start": 2012,
+    "year_end": 2018
+  },
+  {
+    "make": "volkswagen",
+    "model": "e-golf",
+    "year_start": 2015,
+    "year_end": 2020
+  },
+  {
+    "make": "volkswagen",
+    "model": "eos",
+    "year_start": 2007,
+    "year_end": 2016
+  },
+  {
+    "make": "volkswagen",
+    "model": "eurovan",
+    "year_start": 1996,
+    "year_end": 2004
+  },
+  {
+    "make": "volkswagen",
+    "model": "gli",
+    "year_start": 2008,
+    "year_end": 2009
+  },
+  {
+    "make": "volkswagen",
+    "model": "golf",
+    "year_start": 1996,
+    "year_end": 2021
+  },
+  {
+    "make": "volkswagen",
+    "model": "golf alltrack",
+    "year_start": 2017,
+    "year_end": 2020
+  },
+  {
+    "make": "volkswagen",
+    "model": "golf gti",
+    "year_start": 2016,
+    "year_end": 2024
+  },
+  {
+    "make": "volkswagen",
+    "model": "golf r",
+    "year_start": 2013,
+    "year_end": 2024
+  },
+  {
+    "make": "volkswagen",
+    "model": "golf sportwagen",
+    "year_start": 2015,
+    "year_end": 2020
+  },
+  {
+    "make": "volkswagen",
+    "model": "gti",
+    "year_start": 1996,
+    "year_end": 2015
+  },
+  {
+    "make": "volkswagen",
+    "model": "id.4",
+    "year_start": 2021,
+    "year_end": 2024
+  },
+  {
+    "make": "volkswagen",
+    "model": "jetta",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "volkswagen",
+    "model": "jetta gli",
+    "year_start": 2021,
+    "year_end": 2024
+  },
+  {
+    "make": "volkswagen",
+    "model": "jetta sportwagen",
+    "year_start": 2009,
+    "year_end": 2014
+  },
+  {
+    "make": "volkswagen",
+    "model": "jetta wagon",
+    "year_start": 2001,
+    "year_end": 2006
+  },
+  {
+    "make": "volkswagen",
+    "model": "passat",
+    "year_start": 1996,
+    "year_end": 2022
+  },
+  {
+    "make": "volkswagen",
+    "model": "phaeton",
+    "year_start": 2004,
+    "year_end": 2006
+  },
+  {
+    "make": "volkswagen",
+    "model": "r32",
+    "year_start": 2004,
+    "year_end": 2008
+  },
+  {
+    "make": "volkswagen",
+    "model": "rabbit",
+    "year_start": 2006,
+    "year_end": 2009
+  },
+  {
+    "make": "volkswagen",
+    "model": "routan",
+    "year_start": 2009,
+    "year_end": 2014
+  },
+  {
+    "make": "volkswagen",
+    "model": "taos",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "volkswagen",
+    "model": "tiguan",
+    "year_start": 2009,
+    "year_end": 2024
+  },
+  {
+    "make": "volkswagen",
+    "model": "tiguan limited",
+    "year_start": 2018,
+    "year_end": 2018
+  },
+  {
+    "make": "volkswagen",
+    "model": "touareg",
+    "year_start": 2004,
+    "year_end": 2018
+  },
+  {
+    "make": "waterford tank and fabrication",
+    "model": "waterford tank and fabrication, ltd",
+    "year_start": 2008,
+    "year_end": 2011
+  },
+  {
+    "make": "yamaha",
+    "model": "apex",
+    "year_start": 2006,
+    "year_end": 2018
+  },
+  {
+    "make": "yamaha",
+    "model": "attak",
+    "year_start": 2006,
+    "year_end": 2007
+  },
+  {
+    "make": "yamaha",
+    "model": "bravo",
+    "year_start": 2006,
+    "year_end": 2011
+  },
+  {
+    "make": "yamaha",
+    "model": "cp250 morphous",
+    "year_start": 2006,
+    "year_end": 2008
+  },
+  {
+    "make": "yamaha",
+    "model": "cw50 / bw",
+    "year_start": 1996,
+    "year_end": 2002
+  },
+  {
+    "make": "yamaha",
+    "model": "cw50 / zuma ii",
+    "year_start": 1997,
+    "year_end": 2002
+  },
+  {
+    "make": "yamaha",
+    "model": "cy50 riva jog",
+    "year_start": 1996,
+    "year_end": 2002
+  },
+  {
+    "make": "yamaha",
+    "model": "czd300-a (xmax 300)",
+    "year_start": 2018,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "eight passenger",
+    "year_start": 2004,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "ex-1",
+    "year_start": 2005,
+    "year_end": 2005
+  },
+  {
+    "make": "yamaha",
+    "model": "fj09",
+    "year_start": 2015,
+    "year_end": 2017
+  },
+  {
+    "make": "yamaha",
+    "model": "fjr1300",
+    "year_start": 2000,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "four passenger",
+    "year_start": 2004,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "fx nytro",
+    "year_start": 2008,
+    "year_end": 2014
+  },
+  {
+    "make": "yamaha",
+    "model": "fz-10",
+    "year_start": 2017,
+    "year_end": 2018
+  },
+  {
+    "make": "yamaha",
+    "model": "fz-10c",
+    "year_start": 2018,
+    "year_end": 2018
+  },
+  {
+    "make": "yamaha",
+    "model": "fz07",
+    "year_start": 2015,
+    "year_end": 2017
+  },
+  {
+    "make": "yamaha",
+    "model": "fz09",
+    "year_start": 2014,
+    "year_end": 2018
+  },
+  {
+    "make": "yamaha",
+    "model": "fz1",
+    "year_start": 2006,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "fz6",
+    "year_start": 2004,
+    "year_end": 2009
+  },
+  {
+    "make": "yamaha",
+    "model": "fz6r",
+    "year_start": 2009,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "fz8-n",
+    "year_start": 2011,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "fz8-nc",
+    "year_start": 2012,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "fz8-s",
+    "year_start": 2011,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "fzr600",
+    "year_start": 1996,
+    "year_end": 2000
+  },
+  {
+    "make": "yamaha",
+    "model": "fzs1000",
+    "year_start": 2001,
+    "year_end": 2005
+  },
+  {
+    "make": "yamaha",
+    "model": "gqx125 / zuma 125",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "mm600",
+    "year_start": 2002,
+    "year_end": 2002
+  },
+  {
+    "make": "yamaha",
+    "model": "mm700",
+    "year_start": 2002,
+    "year_end": 2003
+  },
+  {
+    "make": "yamaha",
+    "model": "mountain max/sxvenom/transporter",
+    "year_start": 2021,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "mtm690 (xsr700)",
+    "year_start": 2018,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "mtm850 (xsr900)",
+    "year_start": 2016,
+    "year_end": 2021
+  },
+  {
+    "make": "yamaha",
+    "model": "mtm890 (xsr900)",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "mtn1000 (mt-10)",
+    "year_start": 2018,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "mtn320 (mt-03)",
+    "year_start": 2020,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "mtn690 (mt-07)",
+    "year_start": 2018,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "mtn850 (mt-09)",
+    "year_start": 2019,
+    "year_end": 2020
+  },
+  {
+    "make": "yamaha",
+    "model": "mtn890 (mt-09)",
+    "year_start": 2021,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "mtt890 (tracer 9)",
+    "year_start": 2021,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "mtt9 (tracer 900)",
+    "year_start": 2019,
+    "year_end": 2020
+  },
+  {
+    "make": "yamaha",
+    "model": "mxt850 niken",
+    "year_start": 2021,
+    "year_end": 2021
+  },
+  {
+    "make": "yamaha",
+    "model": "mxt9 (niken)",
+    "year_start": 2019,
+    "year_end": 2020
+  },
+  {
+    "make": "yamaha",
+    "model": "nytro",
+    "year_start": 2006,
+    "year_end": 2007
+  },
+  {
+    "make": "yamaha",
+    "model": "passenger",
+    "year_start": 2017,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "phazer",
+    "year_start": 2007,
+    "year_end": 2018
+  },
+  {
+    "make": "yamaha",
+    "model": "pw50",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "pw80",
+    "year_start": 1996,
+    "year_end": 2008
+  },
+  {
+    "make": "yamaha",
+    "model": "rs rage",
+    "year_start": 2005,
+    "year_end": 2007
+  },
+  {
+    "make": "yamaha",
+    "model": "rs vector",
+    "year_start": 2005,
+    "year_end": 2018
+  },
+  {
+    "make": "yamaha",
+    "model": "rs venture",
+    "year_start": 2006,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "rs viking",
+    "year_start": 2008,
+    "year_end": 2015
+  },
+  {
+    "make": "yamaha",
+    "model": "rt100",
+    "year_start": 1996,
+    "year_end": 2000
+  },
+  {
+    "make": "yamaha",
+    "model": "rt180",
+    "year_start": 1996,
+    "year_end": 1999
+  },
+  {
+    "make": "yamaha",
+    "model": "rx-1",
+    "year_start": 2004,
+    "year_end": 2005
+  },
+  {
+    "make": "yamaha",
+    "model": "rx10",
+    "year_start": 2003,
+    "year_end": 2003
+  },
+  {
+    "make": "yamaha",
+    "model": "rxwarrior",
+    "year_start": 2004,
+    "year_end": 2005
+  },
+  {
+    "make": "yamaha",
+    "model": "scr950",
+    "year_start": 2017,
+    "year_end": 2018
+  },
+  {
+    "make": "yamaha",
+    "model": "sh50 riva razz",
+    "year_start": 1996,
+    "year_end": 2002
+  },
+  {
+    "make": "yamaha",
+    "model": "sh50m riva razz",
+    "year_start": 1996,
+    "year_end": 2002
+  },
+  {
+    "make": "yamaha",
+    "model": "sidewinder",
+    "year_start": 2017,
+    "year_end": 2020
+  },
+  {
+    "make": "yamaha",
+    "model": "sidewinder/snoscoot/srviper/srx",
+    "year_start": 2021,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "six passenger",
+    "year_start": 2004,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "snoscoot",
+    "year_start": 2018,
+    "year_end": 2020
+  },
+  {
+    "make": "yamaha",
+    "model": "sr400",
+    "year_start": 2015,
+    "year_end": 2020
+  },
+  {
+    "make": "yamaha",
+    "model": "srventure",
+    "year_start": 2018,
+    "year_end": 2018
+  },
+  {
+    "make": "yamaha",
+    "model": "srviper",
+    "year_start": 2014,
+    "year_end": 2020
+  },
+  {
+    "make": "yamaha",
+    "model": "srx120",
+    "year_start": 2013,
+    "year_end": 2020
+  },
+  {
+    "make": "yamaha",
+    "model": "srx700",
+    "year_start": 2002,
+    "year_end": 2002
+  },
+  {
+    "make": "yamaha",
+    "model": "sx600",
+    "year_start": 2002,
+    "year_end": 2003
+  },
+  {
+    "make": "yamaha",
+    "model": "sxv70",
+    "year_start": 2002,
+    "year_end": 2003
+  },
+  {
+    "make": "yamaha",
+    "model": "transporter",
+    "year_start": 2020,
+    "year_end": 2020
+  },
+  {
+    "make": "yamaha",
+    "model": "tt-r110",
+    "year_start": 2008,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "tt-r125",
+    "year_start": 2000,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "tt-r225",
+    "year_start": 1999,
+    "year_end": 2004
+  },
+  {
+    "make": "yamaha",
+    "model": "tt-r230",
+    "year_start": 2005,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "tt-r250",
+    "year_start": 2000,
+    "year_end": 2006
+  },
+  {
+    "make": "yamaha",
+    "model": "tt-r50",
+    "year_start": 2006,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "tt-r90",
+    "year_start": 2000,
+    "year_end": 2007
+  },
+  {
+    "make": "yamaha",
+    "model": "tw200",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "two passenger",
+    "year_start": 2004,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "tz125",
+    "year_start": 1996,
+    "year_end": 2001
+  },
+  {
+    "make": "yamaha",
+    "model": "tz250",
+    "year_start": 1996,
+    "year_end": 2002
+  },
+  {
+    "make": "yamaha",
+    "model": "utility",
+    "year_start": 2017,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "vector",
+    "year_start": 2006,
+    "year_end": 2006
+  },
+  {
+    "make": "yamaha",
+    "model": "venom",
+    "year_start": 2004,
+    "year_end": 2006
+  },
+  {
+    "make": "yamaha",
+    "model": "venture",
+    "year_start": 2004,
+    "year_end": 2018
+  },
+  {
+    "make": "yamaha",
+    "model": "venture lite",
+    "year_start": 2007,
+    "year_end": 2010
+  },
+  {
+    "make": "yamaha",
+    "model": "viking",
+    "year_start": 2004,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "viper",
+    "year_start": 2004,
+    "year_end": 2007
+  },
+  {
+    "make": "yamaha",
+    "model": "vk professional",
+    "year_start": 2006,
+    "year_end": 2020
+  },
+  {
+    "make": "yamaha",
+    "model": "vk540",
+    "year_start": 2002,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "vmx12 (v-max)",
+    "year_start": 1996,
+    "year_end": 2007
+  },
+  {
+    "make": "yamaha",
+    "model": "vmx17 (v-max)",
+    "year_start": 2009,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "vt600",
+    "year_start": 2002,
+    "year_end": 2003
+  },
+  {
+    "make": "yamaha",
+    "model": "vt700",
+    "year_start": 2002,
+    "year_end": 2003
+  },
+  {
+    "make": "yamaha",
+    "model": "vx600",
+    "year_start": 2002,
+    "year_end": 2003
+  },
+  {
+    "make": "yamaha",
+    "model": "vx700",
+    "year_start": 2002,
+    "year_end": 2002
+  },
+  {
+    "make": "yamaha",
+    "model": "wf450f",
+    "year_start": 2012,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "wr250f",
+    "year_start": 2001,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "wr250r",
+    "year_start": 2008,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "wr250x",
+    "year_start": 2008,
+    "year_end": 2011
+  },
+  {
+    "make": "yamaha",
+    "model": "wr250z",
+    "year_start": 1996,
+    "year_end": 1998
+  },
+  {
+    "make": "yamaha",
+    "model": "wr400f",
+    "year_start": 1998,
+    "year_end": 2000
+  },
+  {
+    "make": "yamaha",
+    "model": "wr426f",
+    "year_start": 2001,
+    "year_end": 2002
+  },
+  {
+    "make": "yamaha",
+    "model": "wr450f",
+    "year_start": 2003,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "xc125 riva 125",
+    "year_start": 1996,
+    "year_end": 2002
+  },
+  {
+    "make": "yamaha",
+    "model": "xc125 vino 125 / yj125 (canada)",
+    "year_start": 2004,
+    "year_end": 2010
+  },
+  {
+    "make": "yamaha",
+    "model": "xc155 (smax)",
+    "year_start": 2015,
+    "year_end": 2023
+  },
+  {
+    "make": "yamaha",
+    "model": "xc50 / vino classic",
+    "year_start": 1996,
+    "year_end": 2018
+  },
+  {
+    "make": "yamaha",
+    "model": "xf50 / c3",
+    "year_start": 1996,
+    "year_end": 2011
+  },
+  {
+    "make": "yamaha",
+    "model": "xj600 seca ii",
+    "year_start": 1996,
+    "year_end": 1998
+  },
+  {
+    "make": "yamaha",
+    "model": "xp500 / tmax",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "xt1200z super tenere",
+    "year_start": 2012,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "xt225/xt225c",
+    "year_start": 1996,
+    "year_end": 2007
+  },
+  {
+    "make": "yamaha",
+    "model": "xt250",
+    "year_start": 2008,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "xt350",
+    "year_start": 1996,
+    "year_end": 2000
+  },
+  {
+    "make": "yamaha",
+    "model": "xtz690 (tenere 700)",
+    "year_start": 2021,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "xv1000",
+    "year_start": 1998,
+    "year_end": 1998
+  },
+  {
+    "make": "yamaha",
+    "model": "xv1100 (virago 1100)",
+    "year_start": 1996,
+    "year_end": 1999
+  },
+  {
+    "make": "yamaha",
+    "model": "xv1600 road star",
+    "year_start": 1999,
+    "year_end": 2003
+  },
+  {
+    "make": "yamaha",
+    "model": "xv1600 road star classic",
+    "year_start": 1999,
+    "year_end": 2003
+  },
+  {
+    "make": "yamaha",
+    "model": "xv1700 road star",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "xv1700 road warrior",
+    "year_start": 2002,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "xv1900 raider",
+    "year_start": 2004,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "xv1900 roadliner",
+    "year_start": 2006,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "xv1900 star venture",
+    "year_start": 2018,
+    "year_end": 2021
+  },
+  {
+    "make": "yamaha",
+    "model": "xv1900 stratoliner",
+    "year_start": 2006,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "xv250",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "xv250 (virago 250)",
+    "year_start": 1996,
+    "year_end": 2007
+  },
+  {
+    "make": "yamaha",
+    "model": "xv250 v star 250",
+    "year_start": 2008,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "xv535 (virago 535)",
+    "year_start": 1996,
+    "year_end": 2001
+  },
+  {
+    "make": "yamaha",
+    "model": "xv750 (virago 750)",
+    "year_start": 1996,
+    "year_end": 1998
+  },
+  {
+    "make": "yamaha",
+    "model": "xvs1100 / v star 1100",
+    "year_start": 1998,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "xvs1300 (star stryker)",
+    "year_start": 2012,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "xvs1300 (v star 1300)",
+    "year_start": 2007,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "xvs650 (v star 650)",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "xvs950",
+    "year_start": 2022,
+    "year_end": 2023
+  },
+  {
+    "make": "yamaha",
+    "model": "xvs950 bolt",
+    "year_start": 2014,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "xvs950 v star 950",
+    "year_start": 2009,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "xvz13a royal star",
+    "year_start": 1996,
+    "year_end": 2001
+  },
+  {
+    "make": "yamaha",
+    "model": "xvz13at royal star tour classic",
+    "year_start": 1996,
+    "year_end": 2000
+  },
+  {
+    "make": "yamaha",
+    "model": "xvz13ct royal star tour deluxe",
+    "year_start": 2005,
+    "year_end": 2009
+  },
+  {
+    "make": "yamaha",
+    "model": "xvz13lt royal star tour deluxe",
+    "year_start": 1997,
+    "year_end": 2001
+  },
+  {
+    "make": "yamaha",
+    "model": "xvz13tf royal star venture",
+    "year_start": 1999,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yamaha",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yamaha passenger vehicle",
+    "year_start": 2014,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yamaha utility vehicle",
+    "year_start": 2014,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yfa breeze 125",
+    "year_start": 1996,
+    "year_end": 2004
+  },
+  {
+    "make": "yamaha",
+    "model": "yfb250fw timberwolf 4x4",
+    "year_start": 1996,
+    "year_end": 2001
+  },
+  {
+    "make": "yamaha",
+    "model": "yfh250u timberwolf",
+    "year_start": 1996,
+    "year_end": 1998
+  },
+  {
+    "make": "yamaha",
+    "model": "yfm110 (raptor 110)",
+    "year_start": 2024,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yfm125 (grizzly 125)",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yfm125 (raptor 125)",
+    "year_start": 2011,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yfm250 (big bear 250)",
+    "year_start": 1999,
+    "year_end": 2011
+  },
+  {
+    "make": "yamaha",
+    "model": "yfm250 (raptor 250)",
+    "year_start": 2008,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yfm300 (grizzly 300)",
+    "year_start": 2012,
+    "year_end": 2012
+  },
+  {
+    "make": "yamaha",
+    "model": "yfm350 (big bear 350)",
+    "year_start": 1996,
+    "year_end": 1999
+  },
+  {
+    "make": "yamaha",
+    "model": "yfm350 (bruin 350)",
+    "year_start": 2004,
+    "year_end": 2007
+  },
+  {
+    "make": "yamaha",
+    "model": "yfm350 (grizzly 350)",
+    "year_start": 2005,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yfm350 (warrior 350)",
+    "year_start": 1996,
+    "year_end": 2004
+  },
+  {
+    "make": "yamaha",
+    "model": "yfm350 (wolverine 350)",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yfm400 (big bear 400)",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yfm400 (kodiak 400)",
+    "year_start": 1996,
+    "year_end": 2004
+  },
+  {
+    "make": "yamaha",
+    "model": "yfm450 (grizzly 450)",
+    "year_start": 2005,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yfm450 (kodiak 450)",
+    "year_start": 2003,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yfm450 (wolverine 450)",
+    "year_start": 2006,
+    "year_end": 2010
+  },
+  {
+    "make": "yamaha",
+    "model": "yfm50 (raptor 50)",
+    "year_start": 2004,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yfm550 (grizzly 550)",
+    "year_start": 2009,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yfm600 (grizzly 600)",
+    "year_start": 1998,
+    "year_end": 2001
+  },
+  {
+    "make": "yamaha",
+    "model": "yfm660 (grizzly 660)",
+    "year_start": 2002,
+    "year_end": 2008
+  },
+  {
+    "make": "yamaha",
+    "model": "yfm660 (raptor 660)",
+    "year_start": 2001,
+    "year_end": 2005
+  },
+  {
+    "make": "yamaha",
+    "model": "yfm700 (grizzly 700)",
+    "year_start": 2007,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yfm700 (kodiak 700)",
+    "year_start": 2016,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yfm700 (raptor 700)",
+    "year_start": 2006,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yfm80 (badger 80)",
+    "year_start": 1996,
+    "year_end": 2002
+  },
+  {
+    "make": "yamaha",
+    "model": "yfm80 (grizzly 80)",
+    "year_start": 2005,
+    "year_end": 2008
+  },
+  {
+    "make": "yamaha",
+    "model": "yfm80 (raptor 80)",
+    "year_start": 2002,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yfm90 (grizzly 90)",
+    "year_start": 2020,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yfm90 (raptor 90)",
+    "year_start": 2009,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yfs200 blaster",
+    "year_start": 1996,
+    "year_end": 2006
+  },
+  {
+    "make": "yamaha",
+    "model": "yfx700f",
+    "year_start": 2010,
+    "year_end": 2010
+  },
+  {
+    "make": "yamaha",
+    "model": "yfz350 banshee",
+    "year_start": 1996,
+    "year_end": 2008
+  },
+  {
+    "make": "yamaha",
+    "model": "yfz450",
+    "year_start": 2004,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yfz450r",
+    "year_start": 2011,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yfz450x",
+    "year_start": 2010,
+    "year_end": 2011
+  },
+  {
+    "make": "yamaha",
+    "model": "yfz50",
+    "year_start": 2017,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yj125 / vino 125",
+    "year_start": 1996,
+    "year_end": 2012
+  },
+  {
+    "make": "yamaha",
+    "model": "yj50r vino",
+    "year_start": 2001,
+    "year_end": 2005
+  },
+  {
+    "make": "yamaha",
+    "model": "ym350ub big bear",
+    "year_start": 1996,
+    "year_end": 1999
+  },
+  {
+    "make": "yamaha",
+    "model": "yp400 / majesty",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yw125 / zuma 125",
+    "year_start": 1996,
+    "year_end": 2023
+  },
+  {
+    "make": "yamaha",
+    "model": "yw50 / zuma 50",
+    "year_start": 1996,
+    "year_end": 2011
+  },
+  {
+    "make": "yamaha",
+    "model": "yw50f / zuma 50f",
+    "year_start": 2011,
+    "year_end": 2019
+  },
+  {
+    "make": "yamaha",
+    "model": "yw50fx / zuma 50fx",
+    "year_start": 2014,
+    "year_end": 2023
+  },
+  {
+    "make": "yamaha",
+    "model": "yxc700 (viking vi)",
+    "year_start": 2015,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yxe1000",
+    "year_start": 2021,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yxe700 (wolverine)",
+    "year_start": 2016,
+    "year_end": 2021
+  },
+  {
+    "make": "yamaha",
+    "model": "yxe850",
+    "year_start": 2019,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yxf1000",
+    "year_start": 2021,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yxf850",
+    "year_start": 2018,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yxm700 (viking)",
+    "year_start": 2014,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yxr450f (rhino 450)",
+    "year_start": 2006,
+    "year_end": 2010
+  },
+  {
+    "make": "yamaha",
+    "model": "yxr660f (rhino 660)",
+    "year_start": 2004,
+    "year_end": 2007
+  },
+  {
+    "make": "yamaha",
+    "model": "yxr700f (rhino 700)",
+    "year_start": 2008,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yxz1000",
+    "year_start": 2016,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yz125",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yz250",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yz250f",
+    "year_start": 2007,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yz250fx",
+    "year_start": 2015,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yz250x",
+    "year_start": 2016,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yz400f",
+    "year_start": 1998,
+    "year_end": 2000
+  },
+  {
+    "make": "yamaha",
+    "model": "yz426f",
+    "year_start": 2001,
+    "year_end": 2002
+  },
+  {
+    "make": "yamaha",
+    "model": "yz450",
+    "year_start": 2003,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yz450f",
+    "year_start": 2007,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yz450fx",
+    "year_start": 2016,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yz65",
+    "year_start": 2018,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yz80",
+    "year_start": 1996,
+    "year_end": 2001
+  },
+  {
+    "make": "yamaha",
+    "model": "yz85",
+    "year_start": 2002,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yzf-r1",
+    "year_start": 1998,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yzf-r3",
+    "year_start": 2015,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yzf-r6",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yzf1000r thunderace",
+    "year_start": 1996,
+    "year_end": 2001
+  },
+  {
+    "make": "yamaha",
+    "model": "yzf600",
+    "year_start": 1996,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yzf690",
+    "year_start": 2022,
+    "year_end": 2024
+  },
+  {
+    "make": "yamaha",
+    "model": "yzf750",
+    "year_start": 1996,
+    "year_end": 1998
+  }
+]
