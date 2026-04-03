@@ -16,6 +16,7 @@ if PROJECT_ROOT not in sys.path:
     sys.path.insert(0, PROJECT_ROOT)
 
 from nlp.pipeline import load_vehicle_registry, build_index_from_registry, extract_compatibility
+from nlp.categories import classify_category
 
 REGISTRY_FILE = os.path.join(PROJECT_ROOT, "dataset", "vehicle_registry.json")
 registry = load_vehicle_registry(REGISTRY_FILE)
@@ -35,9 +36,42 @@ LOG_FILE = os.path.join(PROJECT_ROOT, "logs/crawler.log")
 
 # example search terms
 SEARCH_TERMS = [
-    "Kawasaki Ninja 650 fairing kit",
+    # ── Kawasaki ZX-6R (popular sport bike) ──
+    "Kawasaki ZX6R brake pads",
+    "Kawasaki ZX6R chain sprocket kit",
+    "Kawasaki ZX6R oil filter",
+    "Kawasaki ZX6R air filter",
+    "Kawasaki ZX6R fairing",
+    "Kawasaki ZX6R exhaust",
+    "Kawasaki ZX6R clutch",
+ 
+    # ── Yamaha YZF-R6 ──
     "Yamaha R6 brake pads",
-    "BMW 3 Series G20 oil filter"
+    "Yamaha R6 chain sprocket kit",
+    "Yamaha R6 oil filter",
+    "Yamaha R6 air filter",
+    "Yamaha R6 fairing",
+    "Yamaha R6 exhaust",
+    "Yamaha R6 spark plugs",
+ 
+    # ── Honda CBR600RR ──
+    "Honda CBR600RR brake pads",
+    "Honda CBR600RR chain sprocket",
+    "Honda CBR600RR oil filter",
+    "Honda CBR600RR fairing",
+    "Honda CBR600RR exhaust",
+ 
+    # ── Yamaha R1 ──
+    "Yamaha R1 brake pads",
+    "Yamaha R1 chain sprocket kit",
+    "Yamaha R1 oil filter",
+    "Yamaha R1 exhaust",
+ 
+    # ── Ford Mustang (car example) ──
+    "Ford Mustang brake pads",
+    "Ford Mustang air filter",
+    "Ford Mustang exhaust",
+    "Ford Mustang spark plugs",
 ]
 
 # Set behaviour of API and Crawler
@@ -186,6 +220,7 @@ def run_crawler():
 
                     # NLP integration
                     parsed["compatibility"] = extract_compatibility(parsed.get("title", ""), index)
+                    parsed["category"] = classify_category(parsed.get("title", ""))
 
                     all_items.append(parsed)
             
