@@ -223,7 +223,7 @@ function HomePage({ onSearch }) {
             <label>Max Vendors</label>
             <input
               type="number"
-              placeholder="Maximum 20"
+              placeholder="No Limit"
               min="0"
               max="20"
               value={vendors}
@@ -377,7 +377,7 @@ function ResultsPage({ data, params, onBack }) {
         </div>
       ) : (
         <div className="empty card">
-          <div className="empty-icon">BOX?</div>
+          <div className="empty-icon">☐</div>
           <div className="empty-msg">No bundles match your constraints</div>
           <p
             style={{

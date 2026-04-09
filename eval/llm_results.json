@@ -1,0 +1,3802 @@
+{
+  "metrics": {
+    "total_titles": 300,
+    "precision": 87.8,
+    "coverage": 99.2,
+    "correct": 224,
+    "incorrect": 31,
+    "missed": 2,
+    "justified": 43
+  },
+  "mean_latency_ms": 1083.9,
+  "consistency": {
+    "sample_size": 50,
+    "runs": 3,
+    "inconsistent_titles": 3,
+    "inconsistency_rate": 6.0
+  },
+  "false_positives": [
+    {
+      "title": "1998-04 ZX6R 636 NINJA Supersprox DID Quick Accel 520 Chain and Sprockets Kit",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "zx6r",
+        "year_start": 1998,
+        "year_end": 2004
+      }
+    },
+    {
+      "title": "VESRAH 248 XX BRAKE PADS SINTERED YAMAHA R1 98-06,15-25, R6 99-25,MT07,09,10 1Pr",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "r1",
+        "year_start": 1998,
+        "year_end": 2006
+      }
+    },
+    {
+      "title": "Brembo SP Sintered Rear Brake Pads fits Yamaha MT-07 2014>",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "mt-07",
+        "year_start": 2014,
+        "year_end": null
+      }
+    },
+    {
+      "title": "EBC Sintered Brake Pads To Fit Yamaha MT07 (inc. SP, Tracer) 2014-2026 Full Set",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "mt07",
+        "year_start": 2014,
+        "year_end": 2026
+      }
+    },
+    {
+      "title": "Brake Discs Brake Pads Front Rear for Audi A3 8P Seat Altea Leon VW Golf 5 6",
+      "llm_output": {
+        "make": "audi",
+        "model": "a3",
+        "year_start": 2003,
+        "year_end": 2013
+      }
+    },
+    {
+      "title": "EBC HH Rear Brake Pads Yamaha YZF1000 R1 2015 2016 2017 2018 2019 2020 2021 2022",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf1000 r1",
+        "year_start": 2015,
+        "year_end": 2022
+      }
+    },
+    {
+      "title": "Kawasaki ZX-6R ZX600 G1-G2,J1-J3 Ninja JT X-RING CHAIN AND  SPROCKET KIT",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "zx-6r",
+        "year_start": 2001,
+        "year_end": 2003
+      }
+    },
+    {
+      "title": "Caltric Front & Rear Brake Pads for Yamaha R6S YZF-R6S 600 2006-2009",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "r6s",
+        "year_start": 2006,
+        "year_end": 2009
+      }
+    },
+    {
+      "title": "Oil and Filter For Yamaha MT-09 850 Street Rally 2014-2016 Motul 10W40 Hiflo",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "mt-09",
+        "year_start": 2014,
+        "year_end": 2016
+      }
+    },
+    {
+      "title": "NICHE Brake Pad Set for Yamaha YZF R1S R6 R1M 2CR-25806-00 Front Rear Organic",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf r1s",
+        "year_start": null,
+        "year_end": null
+      }
+    },
+    {
+      "title": "CB500F CBR500R 2016-2019 Exhaust Silencer Kit 400mm Round Stainless 400SR",
+      "llm_output": {
+        "make": "honda",
+        "model": "cb500f",
+        "year_start": 2016,
+        "year_end": 2019
+      }
+    },
+    {
+      "title": "Oil Filter Air Filter & Spark Plugs Service Kit for Suzuki GSXR600 K6 K7",
+      "llm_output": {
+        "make": "suzuki",
+        "model": "gsxr600",
+        "year_start": 2006,
+        "year_end": 2007
+      }
+    },
+    {
+      "title": "Front Brake Pads for Yamaha R6S YZF-R6S 2001 2002 2003 2004 2005 2006 2007-2009",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "r6s",
+        "year_start": 2001,
+        "year_end": 2009
+      }
+    },
+    {
+      "title": "Brembo LA Full Front Set Road Brake Pads fits Yamaha MT-09 2014>",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "mt-09",
+        "year_start": 2014,
+        "year_end": null
+      }
+    },
+    {
+      "title": "EBC FA496HH Sintered Brake Pads for Suzuki SV 650 N 16-",
+      "llm_output": {
+        "make": "suzuki",
+        "model": "sv 650 n",
+        "year_start": 2016,
+        "year_end": null
+      }
+    },
+    {
+      "title": "MT09 MT-09 900 Tracer 9 GT Motul 5000 10w40 5L Oil Filter Kit Yamaha MT09 2023",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "mt09",
+        "year_start": 2023,
+        "year_end": 2023
+      }
+    },
+    {
+      "title": "FK Injection Red Blue Plastic Fairing Fit lor Honda 2013-2025 CBR 600RR m023",
+      "llm_output": {
+        "make": "honda",
+        "model": "cbr 600rr",
+        "year_start": 2013,
+        "year_end": 2025
+      }
+    },
+    {
+      "title": "Ninja 650 2023 - 2024 Exhaust System Oval Silencer End Can Muffler 300BT",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "ninja 650",
+        "year_start": 2023,
+        "year_end": 2024
+      }
+    },
+    {
+      "title": "K&N Performance Oil Filter For Yamaha MT-09 2022",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "mt-09",
+        "year_start": 2022,
+        "year_end": 2022
+      }
+    },
+    {
+      "title": "6x Spark Plugs Fits BMW F23 F30 F80 F31 3.0 340i M240i B58B30A 5555412420",
+      "llm_output": {
+        "make": "bmw",
+        "model": "3 series",
+        "year_start": 2012,
+        "year_end": 2019
+      }
+    }
+  ],
+  "all_results": [
+    {
+      "title": "Ford Focus Mk3 1.6 TDCi Service Kit Oil Air Cabin Filter & Genuine Castrol 0w30",
+      "label": "justified",
+      "llm_output": {
+        "make": "ford",
+        "model": "focus",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 968.6
+    },
+    {
+      "title": "Brembo SA Sintered Front Road Brake Pads to fit KAWASAKI ZX6R 636 / RR 600 03-04",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "zx6r",
+        "year_start": 2003,
+        "year_end": 2004
+      },
+      "llm_extracted": true,
+      "latency_ms": 1719.2
+    },
+    {
+      "title": "GSXR 600  Oil and K&N Filter Kit Motul 7100 10w40 5L For Suzuki GSXR 600  2009",
+      "label": "missed",
+      "llm_output": {
+        "make": "suzuki",
+        "model": "gsxr 600",
+        "year_start": 2009,
+        "year_end": 2009
+      },
+      "llm_extracted": true,
+      "latency_ms": 2371.7
+    },
+    {
+      "title": "YAMAHA YZF R6 600 1999-2025 SBS Sintered Front Brake Pads Pad Set 634HS",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf r6",
+        "year_start": 1999,
+        "year_end": 2025
+      },
+      "llm_extracted": true,
+      "latency_ms": 2010.2
+    },
+    {
+      "title": "Front Rear Brake Pads for Yamaha R6 YZF-R6 1999 2000 2001 2002",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf-r6",
+        "year_start": 1999,
+        "year_end": 2002
+      },
+      "llm_extracted": true,
+      "latency_ms": 1949.9
+    },
+    {
+      "title": "FMS Front+Rear Brake Pads for Yamaha YZF-R1 (6 piston caliper) [2007-2014]",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf-r1",
+        "year_start": 2007,
+        "year_end": 2014
+      },
+      "llm_extracted": true,
+      "latency_ms": 852.2
+    },
+    {
+      "title": "1998-04 ZX6R 636 NINJA Supersprox DID Quick Accel 520 Chain and Sprockets Kit",
+      "label": "justified",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "zx6r",
+        "year_start": 1998,
+        "year_end": 2004
+      },
+      "llm_extracted": true,
+      "latency_ms": 1766.0
+    },
+    {
+      "title": "4 NEW GENUINE BOSCH SPARK PLUGS FGR6HQEO 0242240590 VW GOLF AUDI A3 1.6 FSI",
+      "label": "justified",
+      "llm_output": {
+        "make": "vw",
+        "model": "golf",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 1558.1
+    },
+    {
+      "title": "Caltric O-Ring Drive Chain and Sprockets Kit for Yamaha R1 YZF-R1 2004-2008",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "r1",
+        "year_start": 2004,
+        "year_end": 2008
+      },
+      "llm_extracted": true,
+      "latency_ms": 969.0
+    },
+    {
+      "title": "Glossy Black Injection ABS Fairing Kit Fit for 2008-2016 Yamaha YZF R6 s059",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf r6",
+        "year_start": 2008,
+        "year_end": 2016
+      },
+      "llm_extracted": true,
+      "latency_ms": 1223.3
+    },
+    {
+      "title": "08-16 YAMAHA YZF R6 ENGINE INNER OIL FILTER PICKUP SCREEN",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf r6",
+        "year_start": 2008,
+        "year_end": 2016
+      },
+      "llm_extracted": true,
+      "latency_ms": 1480.5
+    },
+    {
+      "title": "Oil Filter for Audi Seat Skoda & VW Bogra Motor 06J115403Q 06H115561 06J115403J",
+      "label": "justified",
+      "llm_output": {
+        "make": "audi",
+        "model": null,
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 724.4
+    },
+    {
+      "title": "\u267b\ufe0f Yamaha Yzf R6 5SL 2003 - 2004 Lower Right Side Belly Pan Cover Fairing \u267b\ufe0f",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf r6",
+        "year_start": 2003,
+        "year_end": 2004
+      },
+      "llm_extracted": true,
+      "latency_ms": 730.0
+    },
+    {
+      "title": "KTM DUKE 390 RC 390 2021 2022 2023 Exhaust Silencer End Can BC30T",
+      "label": "correct",
+      "llm_output": {
+        "make": "ktm",
+        "model": "duke 390",
+        "year_start": 2021,
+        "year_end": 2023
+      },
+      "llm_extracted": true,
+      "latency_ms": 1367.4
+    },
+    {
+      "title": "REAR BRAKE PADS fit YAMAHA YZF-R1 1998-2001 YZF-R1 1000 ",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf-r1",
+        "year_start": 1998,
+        "year_end": 2001
+      },
+      "llm_extracted": true,
+      "latency_ms": 1421.8
+    },
+    {
+      "title": "Brake Disc Pads Rear For Harley Davidson XL 1200 L Sportster Low",
+      "label": "justified",
+      "llm_output": {
+        "make": "harley davidson",
+        "model": "xl 1200 l sportster",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 1324.3
+    },
+    {
+      "title": "Brembo SA Full Front Set Road Brake Pads fits Suzuki GSXR 600 SRAD / K1-K3 97-03",
+      "label": "missed",
+      "llm_output": {
+        "make": "suzuki",
+        "model": "gsxr 600 srad",
+        "year_start": 1997,
+        "year_end": 2003
+      },
+      "llm_extracted": true,
+      "latency_ms": 887.3
+    },
+    {
+      "title": "Ducati Monster 696 Exhaust Pipe Horizontal Front Cylinder 57012793A",
+      "label": "justified",
+      "llm_output": {
+        "make": "ducati",
+        "model": "monster",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 777.8
+    },
+    {
+      "title": "Fits: Kawasaki Z900RS CJF-CLF 2018-2020 SBS Street Sinter Rear Brake Pads 657LS",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "z900rs",
+        "year_start": 2018,
+        "year_end": 2020
+      },
+      "llm_extracted": true,
+      "latency_ms": 1190.1
+    },
+    {
+      "title": "KTM 390 Duke 2024 - 2025 Exhaust System Silencer End Can BC30T",
+      "label": "correct",
+      "llm_output": {
+        "make": "ktm",
+        "model": "390 duke",
+        "year_start": 2024,
+        "year_end": 2025
+      },
+      "llm_extracted": true,
+      "latency_ms": 1413.5
+    },
+    {
+      "title": "Oil Filter for Yamaha YXR660 Rhino YZF R6 599 XJ6 Diversion 600 2006-2018",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "rhino",
+        "year_start": 2006,
+        "year_end": 2018
+      },
+      "llm_extracted": true,
+      "latency_ms": 1015.4
+    },
+    {
+      "title": "K&N Cotton Gauze Replacement Air Filter Fits 09-25 Kawasaki Ninja ZX-6R KA-6009",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "ninja zx-6r",
+        "year_start": 2009,
+        "year_end": 2025
+      },
+      "llm_extracted": true,
+      "latency_ms": 885.9
+    },
+    {
+      "title": "10x Honda Quality Oil Filter & Seal Cartridge 10 Pack 15410-MFJ-D02 Factory #R66",
+      "label": "justified",
+      "llm_output": {
+        "make": "honda",
+        "model": null,
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 970.2
+    },
+    {
+      "title": "Scorpion Serket Taper Exhaust For Honda CBR 1000 RR 2017 2018",
+      "label": "missed",
+      "llm_output": {
+        "make": "honda",
+        "model": "cbr 1000 rr",
+        "year_start": 2017,
+        "year_end": 2018
+      },
+      "llm_extracted": true,
+      "latency_ms": 986.5
+    },
+    {
+      "title": "390 Duke Chain and Sprocket Kit DID ZVMX Gold KTM 390 Duke 2022",
+      "label": "correct",
+      "llm_output": {
+        "make": "ktm",
+        "model": "390 duke",
+        "year_start": 2022,
+        "year_end": 2022
+      },
+      "llm_extracted": true,
+      "latency_ms": 1073.9
+    },
+    {
+      "title": "F+R Sintered Brake Pads For Yamaha R6 YZF-R6 2003 2004 2005 06 07 2008 2009-2018",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "r6",
+        "year_start": 2003,
+        "year_end": 2018
+      },
+      "llm_extracted": true,
+      "latency_ms": 1553.9
+    },
+    {
+      "title": "FITS KAWASAKI ZX600G1/G2 '98, ZX600JIP '00, ZX-6R Ninja '98-1 Air Filter HFA2602",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "zx-6r",
+        "year_start": 1998,
+        "year_end": 2000
+      },
+      "llm_extracted": true,
+      "latency_ms": 765.5
+    },
+    {
+      "title": "KAWASAKI ZX6R ZX6RR 2005-06 DID Gold QUICK ACCELERATION CHAIN AND SPROCKETS KIT",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "zx6r",
+        "year_start": 2005,
+        "year_end": 2006
+      },
+      "llm_extracted": true,
+      "latency_ms": 1432.5
+    },
+    {
+      "title": "Front & Rear Ceramic Brake Pads w/ Hardware for 2015 2016 2017 2018 Ford Mustang",
+      "label": "correct",
+      "llm_output": {
+        "make": "ford",
+        "model": "mustang",
+        "year_start": 2015,
+        "year_end": 2018
+      },
+      "llm_extracted": true,
+      "latency_ms": 1328.2
+    },
+    {
+      "title": "YZF-R6 Racebase Chain and Sprocket Kit DID ZVMX Yamaha YZF-R6 Racebase 2023",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf-r6",
+        "year_start": 2023,
+        "year_end": 2023
+      },
+      "llm_extracted": true,
+      "latency_ms": 1071.4
+    },
+    {
+      "title": "Premium Quality OIl filter fiT AUDI A6 C7 3.0D 10-18 Ref Bosch 059198405 EOF263",
+      "label": "correct",
+      "llm_output": {
+        "make": "audi",
+        "model": "a6",
+        "year_start": 2010,
+        "year_end": 2018
+      },
+      "llm_extracted": true,
+      "latency_ms": 1107.6
+    },
+    {
+      "title": "UNIVERSAL PERFORMANCE CAR AIR FILTER HIGH FLOW OPEN CONE INDUCTION INTAKE FRD2",
+      "label": "justified",
+      "llm_output": {
+        "make": "ford",
+        "model": "frd2",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 773.3
+    },
+    {
+      "title": "Fairing Kit for Ninja 650 ER-6F 2017-2019 EX650 Kawasaki Cement Grey Bodywork",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "ninja 650",
+        "year_start": 2017,
+        "year_end": 2019
+      },
+      "llm_extracted": true,
+      "latency_ms": 890.0
+    },
+    {
+      "title": "VESRAH 248 XX BRAKE PADS SINTERED YAMAHA R1 98-06,15-25, R6 99-25,MT07,09,10 1Pr",
+      "label": "incorrect",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "r1",
+        "year_start": 1998,
+        "year_end": 2006
+      },
+      "llm_extracted": true,
+      "latency_ms": 994.2
+    },
+    {
+      "title": "Suzuki GSXR750 K8 2008-2010 Exhaust Silencer Muffler - Twin Port - Stainless ...",
+      "label": "correct",
+      "llm_output": {
+        "make": "suzuki",
+        "model": "gsxr750",
+        "year_start": 2008,
+        "year_end": 2010
+      },
+      "llm_extracted": true,
+      "latency_ms": 1048.9
+    },
+    {
+      "title": "Kawasaki ZX6R RAF 2009 2010 2011 2012 Motul 300V 10W40 and Race Oil Filter Motul",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "zx6r",
+        "year_start": 2009,
+        "year_end": 2012
+      },
+      "llm_extracted": true,
+      "latency_ms": 781.8
+    },
+    {
+      "title": "Yamaha YZF-R1 5VY 04 05 06 Motul 300V 10W40 and Oil Filter",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf-r1",
+        "year_start": 2004,
+        "year_end": 2006
+      },
+      "llm_extracted": true,
+      "latency_ms": 1624.3
+    },
+    {
+      "title": "YZF R1 Chain and Sprocket Kit DID ZVMX Gold Yamaha YZF R1 2015",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf r1",
+        "year_start": 2015,
+        "year_end": 2015
+      },
+      "llm_extracted": true,
+      "latency_ms": 988.5
+    },
+    {
+      "title": "2019 HONDA CBR600RR EXHAUST 18305-MJC-N30",
+      "label": "correct",
+      "llm_output": {
+        "make": "honda",
+        "model": "cbr600rr",
+        "year_start": 2019,
+        "year_end": 2019
+      },
+      "llm_extracted": true,
+      "latency_ms": 942.4
+    },
+    {
+      "title": "Yamaha YZF R6 2CO 2006 Akrapovic Titanium Megaphone Exhaust End Can",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf r6",
+        "year_start": 2006,
+        "year_end": 2006
+      },
+      "llm_extracted": true,
+      "latency_ms": 903.5
+    },
+    {
+      "title": "For Yamaha YZF R1 R1M 2015-2025 Mid Link Pipe Slip On Exhaust Muffler System Tip",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf r1",
+        "year_start": 2015,
+        "year_end": 2025
+      },
+      "llm_extracted": true,
+      "latency_ms": 1271.8
+    },
+    {
+      "title": "Sprockets Chain Drive Kit 15t +55t +DID Kawasaki ZX6-R 636 (2007-2024) Stunt CNC",
+      "label": "missed",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "zx6-r",
+        "year_start": 2007,
+        "year_end": 2024
+      },
+      "llm_extracted": true,
+      "latency_ms": 1217.8
+    },
+    {
+      "title": "NGK IRIDIUM IX SPARK PLUGS FIT VOLKSWAGEN GOLF GTI 2.0 TFSI MK6 09 -14 - HEAT 8",
+      "label": "correct",
+      "llm_output": {
+        "make": "volkswagen",
+        "model": "golf gti",
+        "year_start": 2009,
+        "year_end": 2014
+      },
+      "llm_extracted": true,
+      "latency_ms": 876.8
+    },
+    {
+      "title": "BRAKE PADS Rear FOR Ford Focus 1.5 TDCi 2014-2020 HIGH QUALITY NEW",
+      "label": "correct",
+      "llm_output": {
+        "make": "ford",
+        "model": "focus",
+        "year_start": 2014,
+        "year_end": 2020
+      },
+      "llm_extracted": true,
+      "latency_ms": 1174.2
+    },
+    {
+      "title": "Black Upper Part Rear Tail Fairing Panel For YAMAHA YZF R6 YZF-R6 RJ11 2006-2007",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf r6",
+        "year_start": 2006,
+        "year_end": 2007
+      },
+      "llm_extracted": true,
+      "latency_ms": 1249.7
+    },
+    {
+      "title": "OEM Yamaha YZF-R6 Oil Change Kit (2006-2020)",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf-r6",
+        "year_start": 2006,
+        "year_end": 2020
+      },
+      "llm_extracted": true,
+      "latency_ms": 1133.6
+    },
+    {
+      "title": "Open Box K & N K&N Air Filter 1999 - 2000 Yamaha R6 R-6 YZF-R6 YA-6099",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "r6",
+        "year_start": 1999,
+        "year_end": 2000
+      },
+      "llm_extracted": true,
+      "latency_ms": 972.5
+    },
+    {
+      "title": "OIL FILTER HOUSING FILTER CAP & GASKET FOR VW 1.6 2.0 TDI 03L115389C, 03L117021C",
+      "label": "justified",
+      "llm_output": {
+        "make": "vw",
+        "model": null,
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 884.3
+    },
+    {
+      "title": "Brake Pads Set fits FORD MUSTANG 5.0 Rear 2010 on 2044152 2111330 Apec Blue New",
+      "label": "correct",
+      "llm_output": {
+        "make": "ford",
+        "model": "mustang",
+        "year_start": 2010,
+        "year_end": null
+      },
+      "llm_extracted": true,
+      "latency_ms": 907.5
+    },
+    {
+      "title": "CB500 F Four Chain and Sprocket Kit DID VX3 X-Ring Honda CB500 F Four 1977",
+      "label": "missed",
+      "llm_output": {
+        "make": "honda",
+        "model": "cb500 f four",
+        "year_start": 1977,
+        "year_end": 1977
+      },
+      "llm_extracted": true,
+      "latency_ms": 1737.8
+    },
+    {
+      "title": "Slip for Yamaha YZF R6 2006-2016 Exhaust System Black Muffler Tips Mid Link Pipe",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf r6",
+        "year_start": 2006,
+        "year_end": 2016
+      },
+      "llm_extracted": true,
+      "latency_ms": 1350.3
+    },
+    {
+      "title": "Celox O-Ring Drive Chain and Sprockets Kit for Yamaha R1 YZF-R1 2004-2008",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "r1",
+        "year_start": 2004,
+        "year_end": 2008
+      },
+      "llm_extracted": true,
+      "latency_ms": 896.1
+    },
+    {
+      "title": "Hiflofiltro Oil Filter Fits Ducati  1103 Panigale V4 Speciale 2018-2019",
+      "label": "correct",
+      "llm_output": {
+        "make": "ducati",
+        "model": "panigale v4 speciale",
+        "year_start": 2018,
+        "year_end": 2019
+      },
+      "llm_extracted": true,
+      "latency_ms": 1000.7
+    },
+    {
+      "title": "Honda CB500F FA EK Japanese X-Ring Chain and JT Sprockets Kit Set 2013 to 2018",
+      "label": "correct",
+      "llm_output": {
+        "make": "honda",
+        "model": "cb500f",
+        "year_start": 2013,
+        "year_end": 2018
+      },
+      "llm_extracted": true,
+      "latency_ms": 1104.2
+    },
+    {
+      "title": "Forged Carbon Fiber Painted Body Fairing Kit for Honda CBR1000RR 2004-2005",
+      "label": "correct",
+      "llm_output": {
+        "make": "honda",
+        "model": "cbr1000rr",
+        "year_start": 2004,
+        "year_end": 2005
+      },
+      "llm_extracted": true,
+      "latency_ms": 1302.7
+    },
+    {
+      "title": "Slip For Honda CBR600RR 2003-04 Exhaust Carbon Muffler Mid Pipe Modified System",
+      "label": "correct",
+      "llm_output": {
+        "make": "honda",
+        "model": "cbr600rr",
+        "year_start": 2003,
+        "year_end": 2004
+      },
+      "llm_extracted": true,
+      "latency_ms": 1206.6
+    },
+    {
+      "title": "Bosch Engine Oil Filter Fits BMW 3 Series (F82) M4 FAST DELIVERY",
+      "label": "justified",
+      "llm_output": {
+        "make": "bmw",
+        "model": "3 series",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 934.3
+    },
+    {
+      "title": "6X IRIDIUM TIP SPARK PLUGS FOR VOLKSWAGEN GOLF IV 2.8 V6 4MOTION 1999-2006",
+      "label": "correct",
+      "llm_output": {
+        "make": "volkswagen",
+        "model": "golf iv",
+        "year_start": 1999,
+        "year_end": 2006
+      },
+      "llm_extracted": true,
+      "latency_ms": 792.1
+    },
+    {
+      "title": "For Ford Focus MK3 1.6 TDCi ECOnetic Comline Pollen Cabin Interior Air Filter",
+      "label": "justified",
+      "llm_output": {
+        "make": "ford",
+        "model": "focus",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 1041.2
+    },
+    {
+      "title": "K&N Replacement Air Filter Ford Mustang 4.0i (2006 > 2010)",
+      "label": "correct",
+      "llm_output": {
+        "make": "ford",
+        "model": "mustang",
+        "year_start": 2006,
+        "year_end": 2010
+      },
+      "llm_extracted": true,
+      "latency_ms": 846.4
+    },
+    {
+      "title": "ABS Bodywork For 2013 2014 2015 2019 2026 Honda CBR600RR Fairings Full Body Kits",
+      "label": "correct",
+      "llm_output": {
+        "make": "honda",
+        "model": "cbr600rr",
+        "year_start": 2013,
+        "year_end": 2019
+      },
+      "llm_extracted": true,
+      "latency_ms": 1026.4
+    },
+    {
+      "title": "Brembo SP Sintered Rear Brake Pads fits Yamaha MT-07 2014>",
+      "label": "incorrect",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "mt-07",
+        "year_start": 2014,
+        "year_end": null
+      },
+      "llm_extracted": true,
+      "latency_ms": 886.4
+    },
+    {
+      "title": "Yoshimura R77-INS Exhaust Silencer DB Baffle Kawasaki Z650 Ninja 2017-2023 #G6",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "z650",
+        "year_start": 2017,
+        "year_end": 2023
+      },
+      "llm_extracted": true,
+      "latency_ms": 1335.2
+    },
+    {
+      "title": "EBC Sintered Brake Pads To Fit Yamaha MT07 (inc. SP, Tracer) 2014-2026 Full Set",
+      "label": "incorrect",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "mt07",
+        "year_start": 2014,
+        "year_end": 2026
+      },
+      "llm_extracted": true,
+      "latency_ms": 930.8
+    },
+    {
+      "title": "Lextek Carbon Fibre SP11C 200mm Exhaust System for Suzuki GSXR 600/750 (11-24)",
+      "label": "missed",
+      "llm_output": {
+        "make": "suzuki",
+        "model": "gsxr 600/750",
+        "year_start": 2011,
+        "year_end": 2024
+      },
+      "llm_extracted": true,
+      "latency_ms": 1132.7
+    },
+    {
+      "title": " Genuine Honda OEM Authentic Oil Filter & Seal Cartridge 10 Pack 15410-MFJ-D02",
+      "label": "justified",
+      "llm_output": {
+        "make": "honda",
+        "model": null,
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 737.3
+    },
+    {
+      "title": "Brake Discs Brake Pads Front Rear for Audi A3 8P Seat Altea Leon VW Golf 5 6",
+      "label": "justified",
+      "llm_output": {
+        "make": "audi",
+        "model": "a3",
+        "year_start": 2003,
+        "year_end": 2013
+      },
+      "llm_extracted": true,
+      "latency_ms": 815.9
+    },
+    {
+      "title": "Kawasaki EX650 Ninja 650R -USA 10 DID X Ring Chain Kit 15/45t 520/114",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "ninja 650r",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 906.8
+    },
+    {
+      "title": "Front & Rear EBC Brake Pads for Kawasaki Ninja ZX6R 636 2003 2004 2005 2006",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "ninja zx6r 636",
+        "year_start": 2003,
+        "year_end": 2006
+      },
+      "llm_extracted": true,
+      "latency_ms": 964.1
+    },
+    {
+      "title": "EBC HH Rear Brake Pads Yamaha YZF1000 R1 2015 2016 2017 2018 2019 2020 2021 2022",
+      "label": "incorrect",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf1000 r1",
+        "year_start": 2015,
+        "year_end": 2022
+      },
+      "llm_extracted": true,
+      "latency_ms": 762.1
+    },
+    {
+      "title": "2003-2026 Honda CBR600RR Genuine OEM Engine Oil Filter ",
+      "label": "correct",
+      "llm_output": {
+        "make": "honda",
+        "model": "cbr600rr",
+        "year_start": 2003,
+        "year_end": 2026
+      },
+      "llm_extracted": true,
+      "latency_ms": 1354.9
+    },
+    {
+      "title": "Kawasaki ZX-6R ZX600 G1-G2,J1-J3 Ninja JT X-RING CHAIN AND  SPROCKET KIT",
+      "label": "justified",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "zx-6r",
+        "year_start": 2001,
+        "year_end": 2003
+      },
+      "llm_extracted": true,
+      "latency_ms": 1093.1
+    },
+    {
+      "title": "For Ford Focus MK2 and C-MAX Rear Brake Discs and Pads Petrol Diesel 04-11 280mm",
+      "label": "correct",
+      "llm_output": {
+        "make": "ford",
+        "model": "focus",
+        "year_start": 2004,
+        "year_end": 2011
+      },
+      "llm_extracted": true,
+      "latency_ms": 810.4
+    },
+    {
+      "title": "EBC FA214-2HH Sintered Brake Pads for Triumph Bonneville 800 T100 02-04",
+      "label": "correct",
+      "llm_output": {
+        "make": "triumph",
+        "model": "bonneville",
+        "year_start": 2002,
+        "year_end": 2004
+      },
+      "llm_extracted": true,
+      "latency_ms": 878.0
+    },
+    {
+      "title": "OEM Honda CBR600 rr, Pillion Seat Cover, Fairing, Fits 2007-12 P.N. 08F74MFJ830",
+      "label": "missed",
+      "llm_output": {
+        "make": "honda",
+        "model": "cbr600",
+        "year_start": 2007,
+        "year_end": 2012
+      },
+      "llm_extracted": true,
+      "latency_ms": 834.3
+    },
+    {
+      "title": "For Suzuki GSXR600 Gixxer 2001-2003 Chrome Fairing Bolt Kit Stainless Bodywork",
+      "label": "correct",
+      "llm_output": {
+        "make": "suzuki",
+        "model": "gsxr600",
+        "year_start": 2001,
+        "year_end": 2003
+      },
+      "llm_extracted": true,
+      "latency_ms": 1151.8
+    },
+    {
+      "title": "Front Rear Carbon fiber Brake Pads For 2005- 2013 2014 YAMAHA YZF-R6 Brake Pads",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf-r6",
+        "year_start": 2005,
+        "year_end": 2014
+      },
+      "llm_extracted": true,
+      "latency_ms": 1204.2
+    },
+    {
+      "title": "4x Iridium Upgrade Spark Plugs Fits BMW 3 Series (E90) 318",
+      "label": "justified",
+      "llm_output": {
+        "make": "bmw",
+        "model": "3 series",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 1012.9
+    },
+    {
+      "title": "For Kawasaki Ninja ZX6R 2024 2025 Short Brake Clutch Levers ZX-6R ZX636 Handles",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "ninja zx6r",
+        "year_start": 2024,
+        "year_end": 2025
+      },
+      "llm_extracted": true,
+      "latency_ms": 982.9
+    },
+    {
+      "title": "New Oil Filter Yamaha YZF-R1 Motorcycle 98 99 00 01 02 03 04 05 06",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf-r1",
+        "year_start": 1998,
+        "year_end": 2006
+      },
+      "llm_extracted": true,
+      "latency_ms": 875.0
+    },
+    {
+      "title": "DID JT X-Ring Gold Chain & Sprocket Kit for Kawasaki EX650 F Ninja 2017-2022",
+      "label": "missed",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "ex650 f ninja",
+        "year_start": 2017,
+        "year_end": 2022
+      },
+      "llm_extracted": true,
+      "latency_ms": 735.8
+    },
+    {
+      "title": "Lextek Slip-on Stainless Steel 300mm Exhaust for Kawasaki Z900 17-19",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "z900",
+        "year_start": 2017,
+        "year_end": 2019
+      },
+      "llm_extracted": true,
+      "latency_ms": 908.1
+    },
+    {
+      "title": "EBC Sintered FRONT and REAR Brake Pads Fits SUZUKI SV650 / SV650S (2003 to 2015)",
+      "label": "correct",
+      "llm_output": {
+        "make": "suzuki",
+        "model": "sv650",
+        "year_start": 2003,
+        "year_end": 2015
+      },
+      "llm_extracted": true,
+      "latency_ms": 952.9
+    },
+    {
+      "title": "2003 YAMAHA YZF R1 5PW  Right Hand Lower Fairing (see listing)",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf r1",
+        "year_start": 2003,
+        "year_end": 2003
+      },
+      "llm_extracted": true,
+      "latency_ms": 954.4
+    },
+    {
+      "title": "EBC Front EPFA757HHx2 EPFA Extreme Pro Sintered Brake Pads BMW S 1000 RR 21-24",
+      "label": "correct",
+      "llm_output": {
+        "make": "bmw",
+        "model": "s 1000 rr",
+        "year_start": 2021,
+        "year_end": 2024
+      },
+      "llm_extracted": true,
+      "latency_ms": 1235.6
+    },
+    {
+      "title": "Front Brake Pads for Yamaha R6 YZFR6 YZF-R6 1999 2000 2001 2002 Front Brake Pads",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "r6",
+        "year_start": 1999,
+        "year_end": 2002
+      },
+      "llm_extracted": true,
+      "latency_ms": 1274.2
+    },
+    {
+      "title": "BMC Air Filter fits BMW 3 Series G20 2.0L 4Cyl B48 B20 B",
+      "label": "justified",
+      "llm_output": {
+        "make": "bmw",
+        "model": "3 series",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 972.2
+    },
+    {
+      "title": "YZF R6 Rear Brake Pads for Yamaha YZFR6 YZF-R6 2003-2013 11 2012 5VX-W0046-00-00",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf r6",
+        "year_start": 2003,
+        "year_end": 2013
+      },
+      "llm_extracted": true,
+      "latency_ms": 917.5
+    },
+    {
+      "title": "Brake Pads Rear For Ducati 1200 S Monster 2014-2018",
+      "label": "correct",
+      "llm_output": {
+        "make": "ducati",
+        "model": "monster",
+        "year_start": 2014,
+        "year_end": 2018
+      },
+      "llm_extracted": true,
+      "latency_ms": 1115.8
+    },
+    {
+      "title": "For Kawasaki Z650 Ninja 650 Versys 650 Full Exhaust System Header Pipe Muffler",
+      "label": "justified",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "z650",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 1038.3
+    },
+    {
+      "title": "OIL FILTER HOUSING + COOLER & SEAL FOR BMW 3 5 6 7 SERIES 3.0 DIESEL ENGINE N57",
+      "label": "justified",
+      "llm_output": {
+        "make": "bmw",
+        "model": "3 5 6 7 series",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 1083.8
+    },
+    {
+      "title": "GSXR 750 Oil and Filter Kit Motul 5100 10w40 4L For Suzuki GSXR 750 1985",
+      "label": "missed",
+      "llm_output": {
+        "make": "suzuki",
+        "model": "gsxr 750",
+        "year_start": 1985,
+        "year_end": 1985
+      },
+      "llm_extracted": true,
+      "latency_ms": 1011.1
+    },
+    {
+      "title": "Gloss Black ABS Fairing Kit w/Tank Cover For Kawasaki Ninja ZX6R 2024 2025 ZX636",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "ninja zx6r",
+        "year_start": 2024,
+        "year_end": 2025
+      },
+      "llm_extracted": true,
+      "latency_ms": 1124.1
+    },
+    {
+      "title": "Caltric Front & Rear Brake Pads for Yamaha R6S YZF-R6S 600 2006-2009",
+      "label": "incorrect",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "r6s",
+        "year_start": 2006,
+        "year_end": 2009
+      },
+      "llm_extracted": true,
+      "latency_ms": 1421.4
+    },
+    {
+      "title": "SBS Dual Carbon Front Brake Pads Ducati Panigale V4R 2019-2023",
+      "label": "correct",
+      "llm_output": {
+        "make": "ducati",
+        "model": "panigale v4r",
+        "year_start": 2019,
+        "year_end": 2023
+      },
+      "llm_extracted": true,
+      "latency_ms": 807.9
+    },
+    {
+      "title": "Ducati Monster 1000 S2R / S4R  OEM Original Exhaust Ducati Monster Exhaust stock",
+      "label": "justified",
+      "llm_output": {
+        "make": "ducati",
+        "model": "monster",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 753.9
+    },
+    {
+      "title": "Kawasaki Z900 2021 Motul 5000 10W40 and Oil Filter",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "z900",
+        "year_start": 2021,
+        "year_end": 2021
+      },
+      "llm_extracted": true,
+      "latency_ms": 929.7
+    },
+    {
+      "title": "DID VX Pro-Street X-Ring 525 Chain/Sprocket Kit (16/45) 2006-2014 Yamaha YZF-R6",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf-r6",
+        "year_start": 2006,
+        "year_end": 2014
+      },
+      "llm_extracted": true,
+      "latency_ms": 1645.3
+    },
+    {
+      "title": "HONDA CBR600RR 05-06 UNDERSEAT 200mm ROUND STAINLESS SILENCER EXHAUST KIT  ",
+      "label": "correct",
+      "llm_output": {
+        "make": "honda",
+        "model": "cbr600rr",
+        "year_start": 2005,
+        "year_end": 2006
+      },
+      "llm_extracted": true,
+      "latency_ms": 1141.2
+    },
+    {
+      "title": "Brembo SR Full Set Road/ Track Brake Pads to fit DUCATI Panigale V4 / V4S 2019>",
+      "label": "correct",
+      "llm_output": {
+        "make": "ducati",
+        "model": "panigale v4",
+        "year_start": 2019,
+        "year_end": 2019
+      },
+      "llm_extracted": true,
+      "latency_ms": 950.0
+    },
+    {
+      "title": "Exhaust for Kawasaki Z900 2020-2025 GRmoto Carbon",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "z900",
+        "year_start": 2020,
+        "year_end": 2025
+      },
+      "llm_extracted": true,
+      "latency_ms": 808.6
+    },
+    {
+      "title": "GPR Exhaust - Yamaha XSR 700 Or MT07",
+      "label": "justified",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "xsr 700",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 964.0
+    },
+    {
+      "title": "Galfer Sintered HH Front Brake Pads BMW S1000RR 2015-2016",
+      "label": "correct",
+      "llm_output": {
+        "make": "bmw",
+        "model": "s1000rr",
+        "year_start": 2015,
+        "year_end": 2016
+      },
+      "llm_extracted": true,
+      "latency_ms": 982.5
+    },
+    {
+      "title": "A-Premium Iridium Platinum Spark Plugs Compatible with Ford Escape, Mustang,... ",
+      "label": "justified",
+      "llm_output": {
+        "make": "ford",
+        "model": "escape",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 753.2
+    },
+    {
+      "title": "Yamaha YZF R6 YZFR6 600 2019 BN6 K&N RACE Bike Air Filter",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf r6",
+        "year_start": 2019,
+        "year_end": 2019
+      },
+      "llm_extracted": true,
+      "latency_ms": 963.8
+    },
+    {
+      "title": "Yamaha YZF R6 R6S R7 R9 Oil Change Kit Motul 7100 Synthetic w/ OEM Oil Filter",
+      "label": "justified",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf r6",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 950.2
+    },
+    {
+      "title": "Triumph Street Triple 675 2011-2012 [K&N Black Replacement Oil Filter] KN-204",
+      "label": "correct",
+      "llm_output": {
+        "make": "triumph",
+        "model": "street triple",
+        "year_start": 2011,
+        "year_end": 2012
+      },
+      "llm_extracted": true,
+      "latency_ms": 864.6
+    },
+    {
+      "title": "Oil and Filter For Yamaha MT-09 850 Street Rally 2014-2016 Motul 10W40 Hiflo",
+      "label": "incorrect",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "mt-09",
+        "year_start": 2014,
+        "year_end": 2016
+      },
+      "llm_extracted": true,
+      "latency_ms": 998.7
+    },
+    {
+      "title": "Brembo SA Sintered Front Road Brake Pads to fit DUCATI Monster 900 2000-2001",
+      "label": "missed",
+      "llm_output": {
+        "make": "ducati",
+        "model": "monster 900",
+        "year_start": 2000,
+        "year_end": 2001
+      },
+      "llm_extracted": true,
+      "latency_ms": 882.3
+    },
+    {
+      "title": "EBC Front Brake Pads Ducati 996 Monster S4R 2003 2004 2005 2006 HH Sinter",
+      "label": "correct",
+      "llm_output": {
+        "make": "ducati",
+        "model": "monster s4r",
+        "year_start": 2003,
+        "year_end": 2006
+      },
+      "llm_extracted": true,
+      "latency_ms": 921.3
+    },
+    {
+      "title": "Ducati Monster Exhaust Pipe Cover LH - 46014101A (h10)",
+      "label": "justified",
+      "llm_output": {
+        "make": "ducati",
+        "model": "monster",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 951.1
+    },
+    {
+      "title": "Brake Pads Set fits AUDI A4 B6, B7 1.8 Front 00 to 09 3BD698151A 4B0698151J New",
+      "label": "correct",
+      "llm_output": {
+        "make": "audi",
+        "model": "a4",
+        "year_start": 2000,
+        "year_end": 2009
+      },
+      "llm_extracted": true,
+      "latency_ms": 928.6
+    },
+    {
+      "title": "Bonneville T100, exhaust  silencers",
+      "label": "justified",
+      "llm_output": {
+        "make": null,
+        "model": null,
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 742.2
+    },
+    {
+      "title": "8\u00d7 Motorcraft DG511 Ignition Coils & Spark Plugs SP546 For F150 F-250 5.4L 6.8L",
+      "label": "justified",
+      "llm_output": {
+        "make": "ford",
+        "model": "f150",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 786.5
+    },
+    {
+      "title": "Honda CBR1000 RR Fireblade 17-19 Scorpion Exhaust Serket Stainless RHA175SEO",
+      "label": "correct",
+      "llm_output": {
+        "make": "honda",
+        "model": "cbr1000 rr fireblade",
+        "year_start": 2017,
+        "year_end": 2019
+      },
+      "llm_extracted": true,
+      "latency_ms": 927.9
+    },
+    {
+      "title": "Exhaust Tips Carbon Muffler Mid Pipe Black For Ducati Monster 821 1200 2014-2017",
+      "label": "correct",
+      "llm_output": {
+        "make": "ducati",
+        "model": "monster",
+        "year_start": 2014,
+        "year_end": 2017
+      },
+      "llm_extracted": true,
+      "latency_ms": 873.4
+    },
+    {
+      "title": "Black Complete Fairing Bolt Screws Kit For Kawasaki Ninja ZX6R 7R ZX9R ZX12R EOA",
+      "label": "justified",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "ninja",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 873.8
+    },
+    {
+      "title": "Hiflofiltro Racing Oil Filter to fit Suzuki GSX-R 750 R SP R 1994",
+      "label": "missed",
+      "llm_output": {
+        "make": "suzuki",
+        "model": "gsx-r 750 r sp r",
+        "year_start": 1994,
+        "year_end": 1994
+      },
+      "llm_extracted": true,
+      "latency_ms": 1108.7
+    },
+    {
+      "title": "Sintered front brake pads for Kawasaki ZX6R 600 R 09-16",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "zx6r",
+        "year_start": 2009,
+        "year_end": 2016
+      },
+      "llm_extracted": true,
+      "latency_ms": 909.1
+    },
+    {
+      "title": "S1000 RR Chain and Sprocket Kit DID 525 VX3 X-Ring Bmw S1000 RR 2014",
+      "label": "correct",
+      "llm_output": {
+        "make": "bmw",
+        "model": "s1000 rr",
+        "year_start": 2014,
+        "year_end": 2014
+      },
+      "llm_extracted": true,
+      "latency_ms": 998.7
+    },
+    {
+      "title": "Honda CBR 1000 RR Fireblade 2004-2016 Sintered SBS Front Sinter Brake Pads 809HS",
+      "label": "correct",
+      "llm_output": {
+        "make": "honda",
+        "model": "cbr 1000 rr fireblade",
+        "year_start": 2004,
+        "year_end": 2016
+      },
+      "llm_extracted": true,
+      "latency_ms": 3446.0
+    },
+    {
+      "title": "NICHE Brake Pad Set for Yamaha YZF R1S R6 R1M 2CR-25806-00 Front Rear Organic",
+      "label": "incorrect",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf r1s",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 879.1
+    },
+    {
+      "title": "Air Filter Cleaner Element For 2006 2007 YAMAHA YZF-R6 YZF-R6R  2C0-14450-01-00",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf-r6",
+        "year_start": 2006,
+        "year_end": 2007
+      },
+      "llm_extracted": true,
+      "latency_ms": 846.7
+    },
+    {
+      "title": "FOR FORD FOCUS ST MK2 2.5 OIL FILTER MOTOR ENGINE OIL SERVICE KIT NEW",
+      "label": "justified",
+      "llm_output": {
+        "make": "ford",
+        "model": "focus st mk2",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 909.6
+    },
+    {
+      "title": "ABS Blue Fairing Kit for Kawasaki Ninja 650R ER-6F 2006-2008 Injection Bodywork",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "ninja 650r",
+        "year_start": 2006,
+        "year_end": 2008
+      },
+      "llm_extracted": true,
+      "latency_ms": 940.0
+    },
+    {
+      "title": "CB500F CBR500R 2016-2019 Exhaust Silencer Kit 400mm Round Stainless 400SR",
+      "label": "justified",
+      "llm_output": {
+        "make": "honda",
+        "model": "cb500f",
+        "year_start": 2016,
+        "year_end": 2019
+      },
+      "llm_extracted": true,
+      "latency_ms": 1047.6
+    },
+    {
+      "title": "Front Rear Brake Pads Kit for Ford Mustang 2010 2011 2012 2013 2014 V6",
+      "label": "correct",
+      "llm_output": {
+        "make": "ford",
+        "model": "mustang",
+        "year_start": 2010,
+        "year_end": 2014
+      },
+      "llm_extracted": true,
+      "latency_ms": 1072.6
+    },
+    {
+      "title": "Exhaust Termignoni Ducati Panigale V4 2019 2 Slip-On Silencer Titanium Black",
+      "label": "correct",
+      "llm_output": {
+        "make": "ducati",
+        "model": "panigale v4",
+        "year_start": 2019,
+        "year_end": 2019
+      },
+      "llm_extracted": true,
+      "latency_ms": 1040.8
+    },
+    {
+      "title": "Oil Filter KTM 390 Duke 2021",
+      "label": "correct",
+      "llm_output": {
+        "make": "ktm",
+        "model": "390 duke",
+        "year_start": 2021,
+        "year_end": 2021
+      },
+      "llm_extracted": true,
+      "latency_ms": 909.5
+    },
+    {
+      "title": "530 JT Sprockets and Drive Chain Kit for Yamaha YZF R6 2003-2005",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf r6",
+        "year_start": 2003,
+        "year_end": 2005
+      },
+      "llm_extracted": true,
+      "latency_ms": 1261.6
+    },
+    {
+      "title": "Kawasaki Ninja 650 K KRT SE 2017-2019 [Brembo LA Sintered Front Brake Pads]",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "ninja 650 k krt se",
+        "year_start": 2017,
+        "year_end": 2019
+      },
+      "llm_extracted": true,
+      "latency_ms": 978.4
+    },
+    {
+      "title": "GOLD X-Ring Chain & and Sprocket Set Kit FITS YAMAHA YZF-R6 2006-2020",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf-r6",
+        "year_start": 2006,
+        "year_end": 2020
+      },
+      "llm_extracted": true,
+      "latency_ms": 1066.9
+    },
+    {
+      "title": "Oil Filter Air Filter & Spark Plugs Service Kit for Suzuki GSXR600 K6 K7",
+      "label": "justified",
+      "llm_output": {
+        "make": "suzuki",
+        "model": "gsxr600",
+        "year_start": 2006,
+        "year_end": 2007
+      },
+      "llm_extracted": true,
+      "latency_ms": 1059.7
+    },
+    {
+      "title": "DID ZVMX Gold JT Racelite 520 Pitch Chain Sprocket Kit for Kawasaki ZX10R 04-05",
+      "label": "missed",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "zx10r",
+        "year_start": 2004,
+        "year_end": 2005
+      },
+      "llm_extracted": true,
+      "latency_ms": 929.2
+    },
+    {
+      "title": "Kawasaki ZX-10R 2011-2015 GP-S1 slip-on GP exhaust (Stainless/Titanium)",
+      "label": "missed",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "zx-10r",
+        "year_start": 2011,
+        "year_end": 2015
+      },
+      "llm_extracted": true,
+      "latency_ms": 1041.0
+    },
+    {
+      "title": "Front Brake Pads for Yamaha R6S YZF-R6S 2001 2002 2003 2004 2005 2006 2007-2009",
+      "label": "incorrect",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "r6s",
+        "year_start": 2001,
+        "year_end": 2009
+      },
+      "llm_extracted": true,
+      "latency_ms": 1104.2
+    },
+    {
+      "title": "DID Gold X-ring Chain and Sprocket Kit Kawasaki ZX6R G1-G2 J1-J3 (1998 -2002)",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "zx6r",
+        "year_start": 1998,
+        "year_end": 2002
+      },
+      "llm_extracted": true,
+      "latency_ms": 844.4
+    },
+    {
+      "title": "Yamaha R1 5VY Exhaust  system YZF-R1 2004 to 2006 YZF 1000 used",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "r1",
+        "year_start": 2004,
+        "year_end": 2006
+      },
+      "llm_extracted": true,
+      "latency_ms": 1063.6
+    },
+    {
+      "title": "Gold O-Ring Drive Chain & Sprockets Kit for Kawasaki ZX600 Ninja ZX6R 1998-2002",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "zx6r",
+        "year_start": 1998,
+        "year_end": 2002
+      },
+      "llm_extracted": true,
+      "latency_ms": 1539.0
+    },
+    {
+      "title": "Scorpion Exhausts Ford Mustang 2.3T Non GPF Model Only Non-resonated cat-back sy",
+      "label": "justified",
+      "llm_output": {
+        "make": "ford",
+        "model": "mustang",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 850.1
+    },
+    {
+      "title": "2005-2014 Ford Mustang GT S197 Pair Over Axle Pipes Exhaust 2855",
+      "label": "correct",
+      "llm_output": {
+        "make": "ford",
+        "model": "mustang",
+        "year_start": 2005,
+        "year_end": 2014
+      },
+      "llm_extracted": true,
+      "latency_ms": 1386.1
+    },
+    {
+      "title": "KTM Duke 390 2013-2023 [Front Dual Carbon Brake Pads] [SBS DC Series]",
+      "label": "correct",
+      "llm_output": {
+        "make": "ktm",
+        "model": "duke 390",
+        "year_start": 2013,
+        "year_end": 2023
+      },
+      "llm_extracted": true,
+      "latency_ms": 923.0
+    },
+    {
+      "title": "Kawasaki EX 650 J Ninja (2017-2018) Hiflo Premium Motorcycle Oil Filter HF303",
+      "label": "missed",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "ex 650 j ninja",
+        "year_start": 2017,
+        "year_end": 2018
+      },
+      "llm_extracted": true,
+      "latency_ms": 1196.9
+    },
+    {
+      "title": "K&N Oil Filter Ducati Monster 1200 S 2014-2021 KN-153",
+      "label": "correct",
+      "llm_output": {
+        "make": "ducati",
+        "model": "monster 1200 s",
+        "year_start": 2014,
+        "year_end": 2021
+      },
+      "llm_extracted": true,
+      "latency_ms": 957.7
+    },
+    {
+      "title": "HiFlo Oil Filter 1pc HF303RC Fits Kawasaki Z 900 ABS 2017-2025",
+      "label": "missed",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "z 900 abs",
+        "year_start": 2017,
+        "year_end": 2025
+      },
+      "llm_extracted": true,
+      "latency_ms": 993.1
+    },
+    {
+      "title": "Lextek Stainless Steel OP1 Matt S/Steel Exhaust System 350mm for Yamaha YZF R6 (",
+      "label": "justified",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf r6",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 808.2
+    },
+    {
+      "title": "Yamaha YZF-R6 06-2023 Vortex 520 Chain and Sprocket Kit 15-45 Tooth CK6233",
+      "label": "missed",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf-r6",
+        "year_start": 2006,
+        "year_end": 2023
+      },
+      "llm_extracted": true,
+      "latency_ms": 1223.3
+    },
+    {
+      "title": "GSXR750 Oil and RC Filter Kit Motul 5000 10w40 4L Suzuki GSXR750 2006",
+      "label": "correct",
+      "llm_output": {
+        "make": "suzuki",
+        "model": "gsxr750",
+        "year_start": 2006,
+        "year_end": 2006
+      },
+      "llm_extracted": true,
+      "latency_ms": 1393.0
+    },
+    {
+      "title": "4 NOS GENUINE CHAMPION BN-12Y SPARK PLUGS FORD Mustang Granada MERCURY Capri",
+      "label": "justified",
+      "llm_output": {
+        "make": "ford",
+        "model": "mustang",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 713.8
+    },
+    {
+      "title": "Front Rear Brake Pads For Kawasaki ZX600 Ninja ZX6R ZX-6R 1998-2002 2001 2000 99",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "zx6r",
+        "year_start": 1998,
+        "year_end": 2002
+      },
+      "llm_extracted": true,
+      "latency_ms": 1055.0
+    },
+    {
+      "title": "Brembo LA Full Front Set Road Brake Pads fits Yamaha MT-09 2014>",
+      "label": "incorrect",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "mt-09",
+        "year_start": 2014,
+        "year_end": null
+      },
+      "llm_extracted": true,
+      "latency_ms": 1157.5
+    },
+    {
+      "title": "BRAKE FOR AUDI A3 A4 A6 ALLROAD TT PADS REAR",
+      "label": "justified",
+      "llm_output": {
+        "make": "audi",
+        "model": "a3",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 841.8
+    },
+    {
+      "title": "EBC FA496HH Sintered Brake Pads for Suzuki SV 650 N 16-",
+      "label": "justified",
+      "llm_output": {
+        "make": "suzuki",
+        "model": "sv 650 n",
+        "year_start": 2016,
+        "year_end": null
+      },
+      "llm_extracted": true,
+      "latency_ms": 1017.2
+    },
+    {
+      "title": "Brake Pads Set Front for Audi A4 B5 B6 B7 Seat Exeo 3R2 3R5 VW Passat 8E0615115B",
+      "label": "justified",
+      "llm_output": {
+        "make": "audi",
+        "model": "a4",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 1145.9
+    },
+    {
+      "title": "US SELL ABS Glossy Black Fairing kit Paint Bodywork for YAMAHA YZF R6 2008-2016",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf r6",
+        "year_start": 2008,
+        "year_end": 2016
+      },
+      "llm_extracted": true,
+      "latency_ms": 793.0
+    },
+    {
+      "title": "For 2011-2014 Ford Mustang - Front Ceramic Brake Pads",
+      "label": "correct",
+      "llm_output": {
+        "make": "ford",
+        "model": "mustang",
+        "year_start": 2011,
+        "year_end": 2014
+      },
+      "llm_extracted": true,
+      "latency_ms": 1034.7
+    },
+    {
+      "title": "Service Set Original Oil Filter Strainers Motul 300V 15W50 For: KTM Duke RC 390",
+      "label": "justified",
+      "llm_output": {
+        "make": "ktm",
+        "model": "duke rc 390",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 963.3
+    },
+    {
+      "title": "Genuine Bosch F026407298 Oil Filter Element Fits Ford Kuga Mk3 Focus Transit New",
+      "label": "justified",
+      "llm_output": {
+        "make": "ford",
+        "model": "kuga",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 840.6
+    },
+    {
+      "title": "Brake Pads Set fits FORD MUSTANG 5.0 Front 2014 on MF8F Blue Print 2044140 New",
+      "label": "correct",
+      "llm_output": {
+        "make": "ford",
+        "model": "mustang",
+        "year_start": 2014,
+        "year_end": null
+      },
+      "llm_extracted": true,
+      "latency_ms": 847.8
+    },
+    {
+      "title": "MT09 MT-09 900 Tracer 9 GT Motul 5000 10w40 5L Oil Filter Kit Yamaha MT09 2023",
+      "label": "incorrect",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "mt09",
+        "year_start": 2023,
+        "year_end": 2023
+      },
+      "llm_extracted": true,
+      "latency_ms": 899.1
+    },
+    {
+      "title": "4pc Front Ceramic Brake Pads for 2015 2016 2017 2018 2019 2020-2022 Ford Mustang",
+      "label": "correct",
+      "llm_output": {
+        "make": "ford",
+        "model": "mustang",
+        "year_start": 2015,
+        "year_end": 2022
+      },
+      "llm_extracted": true,
+      "latency_ms": 1011.5
+    },
+    {
+      "title": "YZF600 YZF-R6 Oil and Filter Kit Motul 5000 10w40 4L Yamaha 2005 Inc Washer",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf-r6",
+        "year_start": 2005,
+        "year_end": 2005
+      },
+      "llm_extracted": true,
+      "latency_ms": 838.6
+    },
+    {
+      "title": "Rear Brake Pads for Yamaha R6 YZFR6 YZF-R6 50Th Anniversary 2006 2012",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "r6",
+        "year_start": 2006,
+        "year_end": 2012
+      },
+      "llm_extracted": true,
+      "latency_ms": 1035.7
+    },
+    {
+      "title": "MICRON Carbon Bolt on exhaust, 3 bolt, Fits early GSXR SRAD, KAWASAKI ZX6R, sa03",
+      "label": "justified",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "zx6r",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 850.6
+    },
+    {
+      "title": "FK Injection Red Blue Plastic Fairing Fit lor Honda 2013-2025 CBR 600RR m023",
+      "label": "incorrect",
+      "llm_output": {
+        "make": "honda",
+        "model": "cbr 600rr",
+        "year_start": 2013,
+        "year_end": 2025
+      },
+      "llm_extracted": true,
+      "latency_ms": 1139.0
+    },
+    {
+      "title": "Ninja 650 2023 - 2024 Exhaust System Oval Silencer End Can Muffler 300BT",
+      "label": "justified",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "ninja 650",
+        "year_start": 2023,
+        "year_end": 2024
+      },
+      "llm_extracted": true,
+      "latency_ms": 1250.3
+    },
+    {
+      "title": "K&N Performance Oil Filter For Yamaha MT-09 2022",
+      "label": "incorrect",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "mt-09",
+        "year_start": 2022,
+        "year_end": 2022
+      },
+      "llm_extracted": true,
+      "latency_ms": 1061.3
+    },
+    {
+      "title": "Honda CBR600RR 2003-2004 Delkevic Slip On 8\" Round Stainless Exhaust Muffler Kit",
+      "label": "correct",
+      "llm_output": {
+        "make": "honda",
+        "model": "cbr600rr",
+        "year_start": 2003,
+        "year_end": 2004
+      },
+      "llm_extracted": true,
+      "latency_ms": 968.4
+    },
+    {
+      "title": "Matte Black Fairing Kit For Kawasaki Ninja ZX6R 2019-2023 ZX636 ABS Bodywork",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "ninja zx6r",
+        "year_start": 2019,
+        "year_end": 2023
+      },
+      "llm_extracted": true,
+      "latency_ms": 1234.1
+    },
+    {
+      "title": "RK Chain And Sprocket Kit - Quick Acceleration - Fits Gold - Yamaha YZF-R6",
+      "label": "justified",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf-r6",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 922.9
+    },
+    {
+      "title": "Black O-Ring Drive Chain & Sprocket Kit for Yamaha R6 YZF-R6 2006-2016",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf-r6",
+        "year_start": 2006,
+        "year_end": 2016
+      },
+      "llm_extracted": true,
+      "latency_ms": 1187.7
+    },
+    {
+      "title": "Exhaust Muffler Hpcorse Hydroform Steel Triumph Street Triple 2007 > 2012",
+      "label": "correct",
+      "llm_output": {
+        "make": "triumph",
+        "model": "street triple",
+        "year_start": 2007,
+        "year_end": 2012
+      },
+      "llm_extracted": true,
+      "latency_ms": 945.9
+    },
+    {
+      "title": "Red 2015-2024 Yamaha R1 YZF-R1 RK ZXW 520 15/41 QA Chain and Sprockets Kit",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "r1",
+        "year_start": 2015,
+        "year_end": 2024
+      },
+      "llm_extracted": true,
+      "latency_ms": 727.6
+    },
+    {
+      "title": "2016 Yamaha R1 \"S\" RK ZXW 520 Gold 16/41 OEM Geared Chain and Sprockets Kit",
+      "label": "missed",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "r1",
+        "year_start": 2016,
+        "year_end": 2016
+      },
+      "llm_extracted": true,
+      "latency_ms": 853.1
+    },
+    {
+      "title": "Front Rear Brake Pads for Kawasaki ZX6R ZX600 ZX9R ZX6R zx-6r ZX636 ZRX1200",
+      "label": "justified",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "zx6r",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 892.3
+    },
+    {
+      "title": "Glossy Black Fairing Kit For Kawasaki Ninja 650 2020-2025 EX650 ABS Injection",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "ninja 650",
+        "year_start": 2020,
+        "year_end": 2025
+      },
+      "llm_extracted": true,
+      "latency_ms": 955.3
+    },
+    {
+      "title": "6x Spark Plugs Fits BMW F23 F30 F80 F31 3.0 340i M240i B58B30A 5555412420",
+      "label": "justified",
+      "llm_output": {
+        "make": "bmw",
+        "model": "3 series",
+        "year_start": 2012,
+        "year_end": 2019
+      },
+      "llm_extracted": true,
+      "latency_ms": 915.0
+    },
+    {
+      "title": "For Yamaha YZF R1 2002 2003 YZF R6 1999 2000 2001 02 Front Rear Brake Discs Pads",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf r1",
+        "year_start": 2002,
+        "year_end": 2003
+      },
+      "llm_extracted": true,
+      "latency_ms": 1017.1
+    },
+    {
+      "title": "EBC Sintered FRONT Disc Brake Pads (2 sets) Fits HONDA CBR600RR (2017 to 2025)",
+      "label": "correct",
+      "llm_output": {
+        "make": "honda",
+        "model": "cbr600rr",
+        "year_start": 2017,
+        "year_end": 2025
+      },
+      "llm_extracted": true,
+      "latency_ms": 773.3
+    },
+    {
+      "title": "2020 TOYOTA COROLLA AIR BOX FILTER ASSEMBLY 1.8 HYBRID 2ZR-FXE MF0141410750",
+      "label": "correct",
+      "llm_output": {
+        "make": "toyota",
+        "model": "corolla",
+        "year_start": 2020,
+        "year_end": 2020
+      },
+      "llm_extracted": true,
+      "latency_ms": 1193.2
+    },
+    {
+      "title": "4x NGK CR10EK 2360 Standard Spark Plugs For YAMAHA YZF-R6 06-->",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf-r6",
+        "year_start": 2006,
+        "year_end": null
+      },
+      "llm_extracted": true,
+      "latency_ms": 840.4
+    },
+    {
+      "title": "For Ford Mustang 2010-2014 3.7L 4.6L 5.0L Air Filter MRA4897 (AR3Z-9601B)",
+      "label": "correct",
+      "llm_output": {
+        "make": "ford",
+        "model": "mustang",
+        "year_start": 2010,
+        "year_end": 2014
+      },
+      "llm_extracted": true,
+      "latency_ms": 850.1
+    },
+    {
+      "title": "FA63HH Suzuki GSXR 600 1997 to 2003 EBC Sintered REAR Disc Brake Pads",
+      "label": "missed",
+      "llm_output": {
+        "make": "suzuki",
+        "model": "gsxr 600",
+        "year_start": 1997,
+        "year_end": 2003
+      },
+      "llm_extracted": true,
+      "latency_ms": 1010.5
+    },
+    {
+      "title": "4 X GENUINE AUDI VW SKODA SPARK PLUGS 03C905601B LONGLIFE 1.4 TSI GOLF POLO A1",
+      "label": "justified",
+      "llm_output": {
+        "make": "audi",
+        "model": "golf",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 6804.9
+    },
+    {
+      "title": "Fit For Kawasaki Ninja 650 EX650 ER6F 2012 13 14 15 16 ABS Unpainted Fairing Kit",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "ninja 650",
+        "year_start": 2012,
+        "year_end": 2016
+      },
+      "llm_extracted": true,
+      "latency_ms": 1319.3
+    },
+    {
+      "title": "SBS 839HS Street Sinter Brake Pads *2 Pairs* Yamaha YZF R1 2007-2014 MT-01 VMAX",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf r1",
+        "year_start": 2007,
+        "year_end": 2014
+      },
+      "llm_extracted": true,
+      "latency_ms": 980.3
+    },
+    {
+      "title": "MT07 Complete Exhaust Sytem Header GP Can FZ07 Tracer 2014 - 2024 XSR 700",
+      "label": "justified",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "mt07",
+        "year_start": 2014,
+        "year_end": 2024
+      },
+      "llm_extracted": true,
+      "latency_ms": 1455.0
+    },
+    {
+      "title": "Front Brake Pads Kit for YAMAHA YZF R1 2015-2022 R6 2006-2022 FAZER 1000 FZ8",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf r1",
+        "year_start": 2015,
+        "year_end": 2022
+      },
+      "llm_extracted": true,
+      "latency_ms": 1128.1
+    },
+    {
+      "title": "Kawasaki ZX1000E (ZX-10R) 2008-2010 Renthal & DID ZVMX Chain & Sprocket Kit",
+      "label": "missed",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "zx-10r",
+        "year_start": 2008,
+        "year_end": 2010
+      },
+      "llm_extracted": true,
+      "latency_ms": 1399.4
+    },
+    {
+      "title": "13NEW GENUINE YAMAHA YZFR1 YZFR6 YZF R1 R6 SBK OEM OIL FILTER 5GH-13440-60-00",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 6285.6
+    },
+    {
+      "title": "13-17 HONDA CBR600RR EXHAUST HEADER HEAD PIPE PIPES MANIFOLD HEADER HEAT SENSOR",
+      "label": "correct",
+      "llm_output": {
+        "make": "honda",
+        "model": "cbr600rr",
+        "year_start": 2013,
+        "year_end": 2017
+      },
+      "llm_extracted": true,
+      "latency_ms": 929.7
+    },
+    {
+      "title": "Lextek Exhaust System S/Steel 350mm Exhaust for Suzuki GSXR 600/750 11-",
+      "label": "justified",
+      "llm_output": {
+        "make": "suzuki",
+        "model": "gsxr",
+        "year_start": 2011,
+        "year_end": 2011
+      },
+      "llm_extracted": true,
+      "latency_ms": 1682.4
+    },
+    {
+      "title": "Oil Filter Suzuki GSX-R600 K6K7K8K9L0 2006-2010",
+      "label": "correct",
+      "llm_output": {
+        "make": "suzuki",
+        "model": "gsx-r600",
+        "year_start": 2006,
+        "year_end": 2010
+      },
+      "llm_extracted": true,
+      "latency_ms": 1106.7
+    },
+    {
+      "title": "YAMAHA YZF R1 2003 EXHAUST TAIL PIPE ",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf r1",
+        "year_start": 2003,
+        "year_end": 2003
+      },
+      "llm_extracted": true,
+      "latency_ms": 1009.4
+    },
+    {
+      "title": "VW GOLF MK5 2.0 FSI TURBO & GTI NGK IRIDIUM SPARK PLUGS SET",
+      "label": "justified",
+      "llm_output": {
+        "make": "vw",
+        "model": "golf",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 986.5
+    },
+    {
+      "title": "GSXR750 Motul 5000 10w40 4L Oil Filter Kit For Suzuki GSXR750 2013",
+      "label": "correct",
+      "llm_output": {
+        "make": "suzuki",
+        "model": "gsxr750",
+        "year_start": 2013,
+        "year_end": 2013
+      },
+      "llm_extracted": true,
+      "latency_ms": 1194.1
+    },
+    {
+      "title": "EBC Sintered FRONT Disc Brake Pads (2 Sets) Fits HONDA CBR600RR (2005 to 2016)",
+      "label": "correct",
+      "llm_output": {
+        "make": "honda",
+        "model": "cbr600rr",
+        "year_start": 2005,
+        "year_end": 2016
+      },
+      "llm_extracted": true,
+      "latency_ms": 1061.1
+    },
+    {
+      "title": "3 Pack Oil Filter for Honda CBR600F4 CBR600F 599 CBR600RR CBR600RA 1999 2000-14",
+      "label": "incorrect",
+      "llm_output": {
+        "make": "honda",
+        "model": "cbr600",
+        "year_start": 1999,
+        "year_end": 2014
+      },
+      "llm_extracted": true,
+      "latency_ms": 947.3
+    },
+    {
+      "title": "Oil Filter Honda GL1800 Goldwing 2001-2010 CBR600F4I #HF204",
+      "label": "correct",
+      "llm_output": {
+        "make": "honda",
+        "model": "gl1800 goldwing",
+        "year_start": 2001,
+        "year_end": 2010
+      },
+      "llm_extracted": true,
+      "latency_ms": 960.2
+    },
+    {
+      "title": "Brembo SA Full Front Set Road Brake Pads fits Ducati Panigale V4 / V4S 2019>",
+      "label": "correct",
+      "llm_output": {
+        "make": "ducati",
+        "model": "panigale v4",
+        "year_start": 2019,
+        "year_end": 2019
+      },
+      "llm_extracted": true,
+      "latency_ms": 964.8
+    },
+    {
+      "title": "Hiflo Race Oil Filter HF204RC Motorcycle Filter For Honda CB500 F 2021-2023",
+      "label": "correct",
+      "llm_output": {
+        "make": "honda",
+        "model": "cb500 f",
+        "year_start": 2021,
+        "year_end": 2023
+      },
+      "llm_extracted": true,
+      "latency_ms": 1268.8
+    },
+    {
+      "title": "Front+Rear Brake Pads for Kawasaki ZX6R F/E[13-22] Ninja 636 ABS KRT [2016-2022]",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "zx6r",
+        "year_start": 2013,
+        "year_end": 2022
+      },
+      "llm_extracted": true,
+      "latency_ms": 914.5
+    },
+    {
+      "title": "Exhaust for Ducati MONSTER 695 2006-2008 GRmoto Titanium",
+      "label": "correct",
+      "llm_output": {
+        "make": "ducati",
+        "model": "monster",
+        "year_start": 2006,
+        "year_end": 2008
+      },
+      "llm_extracted": true,
+      "latency_ms": 975.1
+    },
+    {
+      "title": "1999-2020 Yamaha YZF R6 R-6 R6S NGK Spark Plugs CR10Ek 4 Pack of plugs",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf r6",
+        "year_start": 1999,
+        "year_end": 2020
+      },
+      "llm_extracted": true,
+      "latency_ms": 1084.9
+    },
+    {
+      "title": "OEM NEW Ford Genuine Motorcraft 8 Spark Plugs SP589 5.0L Coyote / 7.3L Godzilla",
+      "label": "justified",
+      "llm_output": {
+        "make": "ford",
+        "model": "coyote",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 863.1
+    },
+    {
+      "title": "19-25 KAWASAKI NINJA ZX6R K&N AIRBOX AIR INTAKE FILTER D9",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "ninja zx6r",
+        "year_start": 2019,
+        "year_end": 2025
+      },
+      "llm_extracted": true,
+      "latency_ms": 1059.0
+    },
+    {
+      "title": "Lextek Slip-on Stainless Steel 240mm Exhaust for Suzuki SV650 03-15",
+      "label": "correct",
+      "llm_output": {
+        "make": "suzuki",
+        "model": "sv650",
+        "year_start": 2003,
+        "year_end": 2015
+      },
+      "llm_extracted": true,
+      "latency_ms": 829.8
+    },
+    {
+      "title": "CB500 F Four Chain and Sprocket Kit JT 530 X1R X-Ring Honda CB500 F Four 1976",
+      "label": "missed",
+      "llm_output": {
+        "make": "honda",
+        "model": "cb500 f four",
+        "year_start": 1976,
+        "year_end": 1976
+      },
+      "llm_extracted": true,
+      "latency_ms": 1113.8
+    },
+    {
+      "title": "EX650 Ninja 650 ABS Silent Front Chain & Sprocket Kit DID VX3 Gold Kawasaki 2024",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "ninja 650",
+        "year_start": 2024,
+        "year_end": 2024
+      },
+      "llm_extracted": true,
+      "latency_ms": 2443.7
+    },
+    {
+      "title": "DID JT X-Ring Chain and Sprocket Kit for Triumph 675 Street Triple / R 07-12",
+      "label": "correct",
+      "llm_output": {
+        "make": "triumph",
+        "model": "675 street triple",
+        "year_start": 2007,
+        "year_end": 2012
+      },
+      "llm_extracted": true,
+      "latency_ms": 848.5
+    },
+    {
+      "title": "EBC Sintered Brake Pads To Fit Ducati Panigale V4 inc. S, SP 2018-2024 Full Set",
+      "label": "correct",
+      "llm_output": {
+        "make": "ducati",
+        "model": "panigale v4",
+        "year_start": 2018,
+        "year_end": 2024
+      },
+      "llm_extracted": true,
+      "latency_ms": 1564.8
+    },
+    {
+      "title": "Brake Pads Rear For Triumph Bonneville Speedmaster 1200cc LC 2018-2021",
+      "label": "correct",
+      "llm_output": {
+        "make": "triumph",
+        "model": "bonneville speedmaster",
+        "year_start": 2018,
+        "year_end": 2021
+      },
+      "llm_extracted": true,
+      "latency_ms": 1130.9
+    },
+    {
+      "title": "Suzuki GSXR600 1997-2000 large headed stainless steel fairing bolts kit",
+      "label": "correct",
+      "llm_output": {
+        "make": "suzuki",
+        "model": "gsxr600",
+        "year_start": 1997,
+        "year_end": 2000
+      },
+      "llm_extracted": true,
+      "latency_ms": 930.9
+    },
+    {
+      "title": "Exhaust Leovince LV ONE EVO INOX approved HONDA CB 500 F 2019 > 2024 14314E",
+      "label": "missed",
+      "llm_output": {
+        "make": "honda",
+        "model": "cb 500 f",
+        "year_start": 2019,
+        "year_end": 2024
+      },
+      "llm_extracted": true,
+      "latency_ms": 912.8
+    },
+    {
+      "title": "\u267b\ufe0f Honda Cbr1000rr Rr-8 2008 - 2012 Front Right Side Infill Fairing \u267b\ufe0f",
+      "label": "correct",
+      "llm_output": {
+        "make": "honda",
+        "model": "cbr1000rr",
+        "year_start": 2008,
+        "year_end": 2012
+      },
+      "llm_extracted": true,
+      "latency_ms": 1052.5
+    },
+    {
+      "title": "Omnicraft Air Filter for TOYOTA AURIS 1.6 Petrol 2007-2012 2133093",
+      "label": "missed",
+      "llm_output": {
+        "make": "toyota",
+        "model": "auris",
+        "year_start": 2007,
+        "year_end": 2012
+      },
+      "llm_extracted": true,
+      "latency_ms": 1173.4
+    },
+    {
+      "title": "EBC Front EPFA630HH EPFA Brake Pads Harley Davidson Sportster S RH 1250 21-24",
+      "label": "missed",
+      "llm_output": {
+        "make": "harley davidson",
+        "model": "sportster",
+        "year_start": 2021,
+        "year_end": 2024
+      },
+      "llm_extracted": true,
+      "latency_ms": 1001.0
+    },
+    {
+      "title": "AFAM Recommended Black Chain and Sprocket Kit fits Suzuki SV650 Scrambler 17-19",
+      "label": "correct",
+      "llm_output": {
+        "make": "suzuki",
+        "model": "sv650 scrambler",
+        "year_start": 2017,
+        "year_end": 2019
+      },
+      "llm_extracted": true,
+      "latency_ms": 965.5
+    },
+    {
+      "title": "EBC SRK Complete Clutch Kit SRK101 for 2007-2012 Kawasaki Ninja ZX-6R",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "ninja zx-6r",
+        "year_start": 2007,
+        "year_end": 2012
+      },
+      "llm_extracted": true,
+      "latency_ms": 1144.9
+    },
+    {
+      "title": "Ducati Monster 750 i.e Dark 2002 [Front EBC HH-Series Sintered Brake Pads]",
+      "label": "correct",
+      "llm_output": {
+        "make": "ducati",
+        "model": "monster 750 i.e dark",
+        "year_start": 2002,
+        "year_end": 2002
+      },
+      "llm_extracted": true,
+      "latency_ms": 1028.9
+    },
+    {
+      "title": "Red Drive Chain And Sprocket Kit for Yamaha R6 YZF-R6 2003 2004 2005",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf-r6",
+        "year_start": 2003,
+        "year_end": 2005
+      },
+      "llm_extracted": true,
+      "latency_ms": 1082.7
+    },
+    {
+      "title": "Newfren BT1 Front Organic Brake Pads for Yamaha MT-09 900 Tracer (850cc) 2015-18",
+      "label": "incorrect",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "mt-09",
+        "year_start": 2015,
+        "year_end": 2018
+      },
+      "llm_extracted": true,
+      "latency_ms": 872.6
+    },
+    {
+      "title": "Front Rear Brake Pads for Yamaha R6S YZFR6S YZF-R6S 2006 2007 2008 2009",
+      "label": "incorrect",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "r6s",
+        "year_start": 2006,
+        "year_end": 2009
+      },
+      "llm_extracted": true,
+      "latency_ms": 1159.0
+    },
+    {
+      "title": "Goldfren S33 Brake Pads Front For Ktm 250 Duke 2015-2019",
+      "label": "correct",
+      "llm_output": {
+        "make": "ktm",
+        "model": "250 duke",
+        "year_start": 2015,
+        "year_end": 2019
+      },
+      "llm_extracted": true,
+      "latency_ms": 938.5
+    },
+    {
+      "title": "Newfren R01 Front Brake Pad Set BMW S1000RR (pinza Nissin) 2021-2023",
+      "label": "correct",
+      "llm_output": {
+        "make": "bmw",
+        "model": "s1000rr",
+        "year_start": 2021,
+        "year_end": 2023
+      },
+      "llm_extracted": true,
+      "latency_ms": 873.9
+    },
+    {
+      "title": "SBS RST Sintered Front Brake Pads Yamaha MT-09 SP 2018-2023",
+      "label": "incorrect",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "mt-09 sp",
+        "year_start": 2018,
+        "year_end": 2023
+      },
+      "llm_extracted": true,
+      "latency_ms": 1629.6
+    },
+    {
+      "title": "Racing Oil Filter Kawasaki ZX600 P7FP8F (ZX6-R Ninja) 2007-08",
+      "label": "missed",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "zx6-r ninja",
+        "year_start": 2007,
+        "year_end": 2008
+      },
+      "llm_extracted": true,
+      "latency_ms": 805.8
+    },
+    {
+      "title": "BREMBO Brake Pad Set Rear With Piston Clip Fits BMW 3 Series Z1 Z3 Wiesmann MF3",
+      "label": "justified",
+      "llm_output": {
+        "make": "bmw",
+        "model": "3 series",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 1070.7
+    },
+    {
+      "title": "Exhaust for Yamaha YZF-R1 2004-2006 GRmoto Carbon",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf-r1",
+        "year_start": 2004,
+        "year_end": 2006
+      },
+      "llm_extracted": true,
+      "latency_ms": 977.9
+    },
+    {
+      "title": "EBC FA229 & FA231 Organic Brake Pads for Suzuki SV 650 S 03-12",
+      "label": "missed",
+      "llm_output": {
+        "make": "suzuki",
+        "model": "sv 650 s",
+        "year_start": 2003,
+        "year_end": 2012
+      },
+      "llm_extracted": true,
+      "latency_ms": 1155.5
+    },
+    {
+      "title": "Aluminium exhaust hanger plain polished  Kawasaki ZX6R 1998-2006, ZX9R 1998-2003",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "zx6r",
+        "year_start": 1998,
+        "year_end": 2006
+      },
+      "llm_extracted": true,
+      "latency_ms": 957.0
+    },
+    {
+      "title": "Ford Mustang GT 15-17 Exhaust w/ Dual Mufflers 4\" Tips V8 5.0L Thick Walled Tips",
+      "label": "correct",
+      "llm_output": {
+        "make": "ford",
+        "model": "mustang",
+        "year_start": 2015,
+        "year_end": 2017
+      },
+      "llm_extracted": true,
+      "latency_ms": 917.6
+    },
+    {
+      "title": "Brake Pads Set fits TOYOTA COROLLA E15 1.4D Front 06 to 14 1ND-TV 0446502160 New",
+      "label": "correct",
+      "llm_output": {
+        "make": "toyota",
+        "model": "corolla",
+        "year_start": 2006,
+        "year_end": 2014
+      },
+      "llm_extracted": true,
+      "latency_ms": 980.7
+    },
+    {
+      "title": "MSM Fit for Kawasaki Ninja 650R 2006 2007 2008 Fairing Kit Black Plastics c002",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "ninja 650r",
+        "year_start": 2006,
+        "year_end": 2008
+      },
+      "llm_extracted": true,
+      "latency_ms": 953.9
+    },
+    {
+      "title": "FERODO RACING BRAKE PAD SET DISC BRAKE FRONT AUDI A4 A4 ALLROAD A5 A6 A6 ALLROA",
+      "label": "justified",
+      "llm_output": {
+        "make": "audi",
+        "model": "a4",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 966.5
+    },
+    {
+      "title": "Air Filter For Yamaha YZF R6 (5EB1) 1999",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf r6",
+        "year_start": 1999,
+        "year_end": 1999
+      },
+      "llm_extracted": true,
+      "latency_ms": 872.7
+    },
+    {
+      "title": "Fairing Kit+Tank Cover For Kawasaki Ninja 650 2020-2026 EX650 Injection Bodywork",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "ninja 650",
+        "year_start": 2020,
+        "year_end": 2026
+      },
+      "llm_extracted": true,
+      "latency_ms": 1403.1
+    },
+    {
+      "title": "Racing Oil Filter Kawasaki ZX636 A1P (ZX6-R Ninja) 2002",
+      "label": "missed",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "zx636",
+        "year_start": 2002,
+        "year_end": 2002
+      },
+      "llm_extracted": true,
+      "latency_ms": 937.8
+    },
+    {
+      "title": "For 18-20 Ford Mustang 5.0L S.Steel 4\"OD Muffler Tip Axle Back Exhaust System",
+      "label": "correct",
+      "llm_output": {
+        "make": "ford",
+        "model": "mustang",
+        "year_start": 2018,
+        "year_end": 2020
+      },
+      "llm_extracted": true,
+      "latency_ms": 850.5
+    },
+    {
+      "title": "Kawasaki ZZR600 Ninja ZX6R ZX6RR Oil Change Kit NGK Spark Plugs & Oil Filter",
+      "label": "justified",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "zzr600",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 889.8
+    },
+    {
+      "title": "For Honda CBR600RR F5 2005-2024 Exhaust System Front Link Pipe Slip On Mufflers",
+      "label": "correct",
+      "llm_output": {
+        "make": "honda",
+        "model": "cbr600rr",
+        "year_start": 2005,
+        "year_end": 2024
+      },
+      "llm_extracted": true,
+      "latency_ms": 847.7
+    },
+    {
+      "title": "SUZUKI GSXR 600 750 SRAD 1996-2000 ORIGINAL RIGHT LOWER FAIRING PANEL",
+      "label": "missed",
+      "llm_output": {
+        "make": "suzuki",
+        "model": "gsxr",
+        "year_start": 1996,
+        "year_end": 2000
+      },
+      "llm_extracted": true,
+      "latency_ms": 853.2
+    },
+    {
+      "title": "Hiflofiltro Oil Filter Fits Ducati  1103 Panigale V4 SP 2021",
+      "label": "correct",
+      "llm_output": {
+        "make": "ducati",
+        "model": "panigale v4 sp",
+        "year_start": 2021,
+        "year_end": 2021
+      },
+      "llm_extracted": true,
+      "latency_ms": 976.7
+    },
+    {
+      "title": "GENUINE OEM 00-01 YAMAHA R1 ENGINE TIMING CHAIN OIL PUMP COVER 5JJ-15416-00-00",
+      "label": "incorrect",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "r1",
+        "year_start": 2000,
+        "year_end": 2001
+      },
+      "llm_extracted": true,
+      "latency_ms": 1050.8
+    },
+    {
+      "title": "Hiflo HF153RC Racing Oil Filter for Ducati Monster 600 95-01",
+      "label": "missed",
+      "llm_output": {
+        "make": "ducati",
+        "model": "monster",
+        "year_start": 1995,
+        "year_end": 2001
+      },
+      "llm_extracted": true,
+      "latency_ms": 1784.0
+    },
+    {
+      "title": "SV650 Chain and Sprocket Kit DID 520 VX3 X-Ring Gold Suzuki SV650 2024",
+      "label": "correct",
+      "llm_output": {
+        "make": "suzuki",
+        "model": "sv650",
+        "year_start": 2024,
+        "year_end": 2024
+      },
+      "llm_extracted": true,
+      "latency_ms": 1187.9
+    },
+    {
+      "title": "JT Racelite DID Sprocket kit Kawasaki ZX10R 11-15 JTA478.39 1516.17 520ZVMX112",
+      "label": "missed",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "zx10r",
+        "year_start": 2011,
+        "year_end": 2015
+      },
+      "llm_extracted": true,
+      "latency_ms": 964.6
+    },
+    {
+      "title": "SBS Street Sinter Front Rear Brake Pads Triumph Speed Triple 1200 RS 2021-2023",
+      "label": "correct",
+      "llm_output": {
+        "make": "triumph",
+        "model": "speed triple",
+        "year_start": 2021,
+        "year_end": 2023
+      },
+      "llm_extracted": true,
+      "latency_ms": 897.3
+    },
+    {
+      "title": "ABS Fairing Kit for Yamaha YZF600 R6 03-05 R6S 06-09 Bodywork Fairings Candy Red",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf600 r6",
+        "year_start": 2003,
+        "year_end": 2009
+      },
+      "llm_extracted": true,
+      "latency_ms": 951.0
+    },
+    {
+      "title": "SBS RST Front Brake Pads BMW S1000RR 2009 10 11 12 2013 2014 2015 2016 2017 2018",
+      "label": "correct",
+      "llm_output": {
+        "make": "bmw",
+        "model": "s1000rr",
+        "year_start": 2009,
+        "year_end": 2018
+      },
+      "llm_extracted": true,
+      "latency_ms": 826.7
+    },
+    {
+      "title": "2004-2006 YAMAHA YZF R1 OEM EXHAUST HEADER PIPES MANIFOLD ",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf r1",
+        "year_start": 2004,
+        "year_end": 2006
+      },
+      "llm_extracted": true,
+      "latency_ms": 1048.5
+    },
+    {
+      "title": "EX650 Ninja Chain and Sprocket Kit DID VX3 X-Ring Gold Kawasaki EX650 Ninja 2020",
+      "label": "missed",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "ex650 ninja",
+        "year_start": 2020,
+        "year_end": 2020
+      },
+      "llm_extracted": true,
+      "latency_ms": 943.7
+    },
+    {
+      "title": "Brake Pads Rear For Triumph Bonneville T120 Black 1200cc LC 2016-2021",
+      "label": "correct",
+      "llm_output": {
+        "make": "triumph",
+        "model": "bonneville t120",
+        "year_start": 2016,
+        "year_end": 2021
+      },
+      "llm_extracted": true,
+      "latency_ms": 917.3
+    },
+    {
+      "title": "EBC Sintered Rear Brake Pads FA214/2 Triumph BONNEVILLE T100 865 2010 - 2016",
+      "label": "correct",
+      "llm_output": {
+        "make": "triumph",
+        "model": "bonneville t100",
+        "year_start": 2010,
+        "year_end": 2016
+      },
+      "llm_extracted": true,
+      "latency_ms": 1092.5
+    },
+    {
+      "title": "4x Iridium Upgrade Spark Plugs Fits BMW 3 Series (E90) 320 Petrol (2005-2007)",
+      "label": "missed",
+      "llm_output": {
+        "make": "bmw",
+        "model": "3 series",
+        "year_start": 2005,
+        "year_end": 2007
+      },
+      "llm_extracted": true,
+      "latency_ms": 900.3
+    },
+    {
+      "title": "Fit For Yamaha YZF-R6 2008-2016 Headlight Front Upper Fairing Stay Bracket New",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf-r6",
+        "year_start": 2008,
+        "year_end": 2016
+      },
+      "llm_extracted": true,
+      "latency_ms": 992.7
+    },
+    {
+      "title": "Brake Pads Set Rear ADT342147 Blue Print 04466YZZE2 0446605010 0446605020 23620",
+      "label": "justified",
+      "llm_output": {
+        "make": null,
+        "model": null,
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 860.1
+    },
+    {
+      "title": "EBC FA140HH Sintered Brake Pads for Kawasaki Z 900 RS 18-",
+      "label": "justified",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "z 900 rs",
+        "year_start": 2018,
+        "year_end": null
+      },
+      "llm_extracted": true,
+      "latency_ms": 857.2
+    },
+    {
+      "title": "Yamaha YZF-R6 / S 03-09 Vortex 520 Chain and Sprocket Kit 15-50 Tooth CK6317",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf-r6",
+        "year_start": 2003,
+        "year_end": 2009
+      },
+      "llm_extracted": true,
+      "latency_ms": 1289.6
+    },
+    {
+      "title": "EMUSA Catback Exhaust System w/ Dual Tips for 99-04 Ford Mustang 3.8L V6",
+      "label": "correct",
+      "llm_output": {
+        "make": "ford",
+        "model": "mustang",
+        "year_start": 1999,
+        "year_end": 2004
+      },
+      "llm_extracted": true,
+      "latency_ms": 852.5
+    },
+    {
+      "title": "DID Gold Race 520 Pitch Chain & Renthal Sprocket Kit Yamaha YZF R6 5EB 1999-2002",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf r6",
+        "year_start": 1999,
+        "year_end": 2002
+      },
+      "llm_extracted": true,
+      "latency_ms": 834.6
+    },
+    {
+      "title": "Exhaust for Suzuki SV650 / SV650 X 2016-2026 GRmoto Muffler Carbon",
+      "label": "correct",
+      "llm_output": {
+        "make": "suzuki",
+        "model": "sv650",
+        "year_start": 2016,
+        "year_end": 2026
+      },
+      "llm_extracted": true,
+      "latency_ms": 1154.8
+    },
+    {
+      "title": "Slip On Mid Exhaust Link Pipe Muffler For Honda CBR500R CB500F CB500X 2017-2025",
+      "label": "correct",
+      "llm_output": {
+        "make": "honda",
+        "model": "cbr500r",
+        "year_start": 2017,
+        "year_end": 2025
+      },
+      "llm_extracted": true,
+      "latency_ms": 1087.8
+    },
+    {
+      "title": "Kawasaki ZX6R/RR 636/600 03-04 AFAM Chain & Sprocket Kit",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "zx6r",
+        "year_start": 2003,
+        "year_end": 2004
+      },
+      "llm_extracted": true,
+      "latency_ms": 939.9
+    },
+    {
+      "title": "REAR BRAKE PAD FITTING KIT SHIMS LUCAS FITS: TOYOTA COROLLA E12 02-07 BPF1741A",
+      "label": "correct",
+      "llm_output": {
+        "make": "toyota",
+        "model": "corolla",
+        "year_start": 2002,
+        "year_end": 2007
+      },
+      "llm_extracted": true,
+      "latency_ms": 842.2
+    },
+    {
+      "title": "(2 Packs) EBC FA380HH Double-H FRONT Sintered Brake Pads - Yamaha R1 R6 YZF FZ1",
+      "label": "justified",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "r1",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 956.7
+    },
+    {
+      "title": "for Honda Rear Brake Rotor Pads CBR 1000 RR SP 2014-2015 CBR 600 RR 2007-2015 14",
+      "label": "missed",
+      "llm_output": {
+        "make": "honda",
+        "model": "cbr",
+        "year_start": 2007,
+        "year_end": 2015
+      },
+      "llm_extracted": true,
+      "latency_ms": 865.5
+    },
+    {
+      "title": "CBR600 RR Silent Front Chain and Sprocket Kit DID VX3 Honda CBR600 RR 2015",
+      "label": "missed",
+      "llm_output": {
+        "make": "honda",
+        "model": "cbr600 rr",
+        "year_start": 2015,
+        "year_end": 2015
+      },
+      "llm_extracted": true,
+      "latency_ms": 1133.7
+    },
+    {
+      "title": "ABS Unpainted Bodywork Body Kit Fairing Kit + Bolts For Yamaha YZF R6 2005 US",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf r6",
+        "year_start": 2005,
+        "year_end": 2005
+      },
+      "llm_extracted": true,
+      "latency_ms": 1272.9
+    },
+    {
+      "title": "Brake Disc Pads Rear For Harley Davidson XLH 1200 Sportster 1993",
+      "label": "missed",
+      "llm_output": {
+        "make": "harley davidson",
+        "model": "xlh 1200 sportster",
+        "year_start": 1993,
+        "year_end": 1993
+      },
+      "llm_extracted": true,
+      "latency_ms": 956.7
+    },
+    {
+      "title": "Suzuki GSXR 600 750 L1-L7 Premium Hiflo Air & Oil Filter Hf138 Hfa3620 2011-2017",
+      "label": "missed",
+      "llm_output": {
+        "make": "suzuki",
+        "model": "gsxr",
+        "year_start": 2011,
+        "year_end": 2017
+      },
+      "llm_extracted": true,
+      "latency_ms": 994.4
+    },
+    {
+      "title": "MS Injection Gray Shark Fairing Fit for Kawasaki Ninja 650 2020-2022-2024 a081",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "ninja 650",
+        "year_start": 2020,
+        "year_end": 2024
+      },
+      "llm_extracted": true,
+      "latency_ms": 941.3
+    },
+    {
+      "title": "FOR FORD MUSTANG 2014 - SET OF FRONT BRAKE PADS OEM QUALITY GR3Z2001A BRAND NEW ",
+      "label": "correct",
+      "llm_output": {
+        "make": "ford",
+        "model": "mustang",
+        "year_start": 2014,
+        "year_end": 2014
+      },
+      "llm_extracted": true,
+      "latency_ms": 1061.0
+    },
+    {
+      "title": "For Honda Front Brake Discs Rotors+Pads CBR 600 RR 2005-2015 CBR1000RR 2004 2005",
+      "label": "correct",
+      "llm_output": {
+        "make": "honda",
+        "model": "cbr",
+        "year_start": 2004,
+        "year_end": 2015
+      },
+      "llm_extracted": true,
+      "latency_ms": 941.5
+    },
+    {
+      "title": "2003-2026 Honda CBR600RR Genuine OEM Engine Oil Filter ",
+      "label": "correct",
+      "llm_output": {
+        "make": "honda",
+        "model": "cbr600rr",
+        "year_start": 2003,
+        "year_end": 2026
+      },
+      "llm_extracted": true,
+      "latency_ms": 865.5
+    },
+    {
+      "title": "Ducati Monster 821 OEM Exhaust silencer 57322351A off new bike.",
+      "label": "justified",
+      "llm_output": {
+        "make": "ducati",
+        "model": "monster 821",
+        "year_start": null,
+        "year_end": null
+      },
+      "llm_extracted": false,
+      "latency_ms": 859.6
+    },
+    {
+      "title": "Kawasaki ZX6R 636 2013 2014 2015 2016 2017 Motul 300V 10W40 and Race Oil Filter",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "zx6r",
+        "year_start": 2013,
+        "year_end": 2017
+      },
+      "llm_extracted": true,
+      "latency_ms": 945.6
+    },
+    {
+      "title": "SBS 841 DC Dual Carbon Brake Pads X2 for Triumph Street Triple 765 RS 17-20",
+      "label": "correct",
+      "llm_output": {
+        "make": "triumph",
+        "model": "street triple",
+        "year_start": 2017,
+        "year_end": 2020
+      },
+      "llm_extracted": true,
+      "latency_ms": 892.4
+    },
+    {
+      "title": "Oil Filter fits FORD FOCUS Mk4 1.5D 2018 on Manual Transmission Bosch JX6Q6744AA",
+      "label": "correct",
+      "llm_output": {
+        "make": "ford",
+        "model": "focus",
+        "year_start": 2018,
+        "year_end": null
+      },
+      "llm_extracted": true,
+      "latency_ms": 852.1
+    },
+    {
+      "title": "EBC Organic FRONT Disc Brake Pads (1 Set) Fits KTM DUKE 390 (2013 to 2025)",
+      "label": "correct",
+      "llm_output": {
+        "make": "ktm",
+        "model": "duke 390",
+        "year_start": 2013,
+        "year_end": 2025
+      },
+      "llm_extracted": true,
+      "latency_ms": 896.4
+    },
+    {
+      "title": "DID Gold XRing Chain and JT Sprockets Kit For Triumph 1050 Speed Triple 05 to 11",
+      "label": "correct",
+      "llm_output": {
+        "make": "triumph",
+        "model": "speed triple",
+        "year_start": 2005,
+        "year_end": 2011
+      },
+      "llm_extracted": true,
+      "latency_ms": 889.0
+    },
+    {
+      "title": "Front Rear Brake Pads Kit for YAMAHA YZF R6 2006-2016",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf r6",
+        "year_start": 2006,
+        "year_end": 2016
+      },
+      "llm_extracted": true,
+      "latency_ms": 895.3
+    },
+    {
+      "title": "96-24 YAMAHA OEM Oil Cleaner Filter 5RU-13440-00-00 R1 R6 FJR1300 Grizzly",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "r1",
+        "year_start": 1996,
+        "year_end": 2024
+      },
+      "llm_extracted": true,
+      "latency_ms": 1004.1
+    },
+    {
+      "title": "Hiflofiltro Oil Filter HF204 Fits YAMAHA MT09 MT-09 TRACER 900  14-23",
+      "label": "incorrect",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "mt09",
+        "year_start": 2014,
+        "year_end": 2023
+      },
+      "llm_extracted": true,
+      "latency_ms": 976.4
+    },
+    {
+      "title": "EBC Sintered Rear Brake Pads FA213 Triumph STREET TRIPLE 675 R 2013 - 2016",
+      "label": "correct",
+      "llm_output": {
+        "make": "triumph",
+        "model": "street triple 675 r",
+        "year_start": 2013,
+        "year_end": 2016
+      },
+      "llm_extracted": true,
+      "latency_ms": 820.1
+    },
+    {
+      "title": "FITS Harley Davidson XLH883C Sportster Custom 2003-2006 Hiflo Oil Filter HF170",
+      "label": "missed",
+      "llm_output": {
+        "make": "harley davidson",
+        "model": "xlh883c sportster custom",
+        "year_start": 2003,
+        "year_end": 2006
+      },
+      "llm_extracted": true,
+      "latency_ms": 925.3
+    },
+    {
+      "title": "Fits Suzuki GSXR600 EBC FA379HH Sintered Front Brake Pads 2004-2010",
+      "label": "correct",
+      "llm_output": {
+        "make": "suzuki",
+        "model": "gsxr600",
+        "year_start": 2004,
+        "year_end": 2010
+      },
+      "llm_extracted": true,
+      "latency_ms": 1125.1
+    },
+    {
+      "title": "MT09 890 MT-09 900 Tracer 9 Motul 5000 10w40 4L Oil Filter Kit Yamaha MT09 2022",
+      "label": "incorrect",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "mt09",
+        "year_start": 2022,
+        "year_end": 2022
+      },
+      "llm_extracted": true,
+      "latency_ms": 841.4
+    },
+    {
+      "title": "Yamaha YZF-R1 / R1 4C8 2007 - Exhaust Downpipes & collector (with Exup Valve)",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf-r1",
+        "year_start": 2007,
+        "year_end": 2007
+      },
+      "llm_extracted": true,
+      "latency_ms": 866.5
+    },
+    {
+      "title": "Service Kit Filters Plugs & Castrol Oil for Suzuki GSXR750 K6 / K7 2006-2007",
+      "label": "correct",
+      "llm_output": {
+        "make": "suzuki",
+        "model": "gsxr750",
+        "year_start": 2006,
+        "year_end": 2007
+      },
+      "llm_extracted": true,
+      "latency_ms": 907.5
+    },
+    {
+      "title": "Front Upper Fairing Stay Bracket Black For Honda CBR600RR 2003-2006 2004 2005",
+      "label": "correct",
+      "llm_output": {
+        "make": "honda",
+        "model": "cbr600rr",
+        "year_start": 2003,
+        "year_end": 2006
+      },
+      "llm_extracted": true,
+      "latency_ms": 796.2
+    },
+    {
+      "title": "Honda CBR1000rr Fireblade 2012-2016 Rear Under Seat Tail Fairing Cover",
+      "label": "correct",
+      "llm_output": {
+        "make": "honda",
+        "model": "cbr1000rr",
+        "year_start": 2012,
+        "year_end": 2016
+      },
+      "llm_extracted": true,
+      "latency_ms": 954.3
+    },
+    {
+      "title": "NEW 2006 2007 YAMAHA YZF-R6 YZFR6 YZF R6 OEM AIR FILTER CLEANER 2C0-14450-01-00",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf-r6",
+        "year_start": 2006,
+        "year_end": 2007
+      },
+      "llm_extracted": true,
+      "latency_ms": 1813.9
+    },
+    {
+      "title": "Black O-Ring Drive Chain & Sprocket Kit for Yamaha R6 YZF-R6 2006-2016",
+      "label": "correct",
+      "llm_output": {
+        "make": "yamaha",
+        "model": "yzf-r6",
+        "year_start": 2006,
+        "year_end": 2016
+      },
+      "llm_extracted": true,
+      "latency_ms": 861.6
+    },
+    {
+      "title": "2007-2019 Header Handmade Exhaust Honda CBR600RR Cbr 600 Pipes 4-2-1",
+      "label": "correct",
+      "llm_output": {
+        "make": "honda",
+        "model": "cbr600rr",
+        "year_start": 2007,
+        "year_end": 2019
+      },
+      "llm_extracted": true,
+      "latency_ms": 927.5
+    },
+    {
+      "title": "2004-2005 Gen1 Zx10r Akrapovic Exhaust Silencer And Link Pipe",
+      "label": "justified",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "zx10r",
+        "year_start": 2004,
+        "year_end": 2005
+      },
+      "llm_extracted": true,
+      "latency_ms": 725.7
+    },
+    {
+      "title": "Kawasaki ZX 6 R Panels Front Cowl Inner Genuine 636 ZX6R 2013 to 2018 ZX636 B202",
+      "label": "correct",
+      "llm_output": {
+        "make": "kawasaki",
+        "model": "zx 6 r",
+        "year_start": 2013,
+        "year_end": 2018
+      },
+      "llm_extracted": true,
+      "latency_ms": 1003.2
+    },
+    {
+      "title": "CV Injection Black Bodywork Kit Fairing Set Fit for Honda 05-06 CBR600RR l032",
+      "label": "correct",
+      "llm_output": {
+        "make": "honda",
+        "model": "cbr600rr",
+        "year_start": 2005,
+        "year_end": 2006
+      },
+      "llm_extracted": true,
+      "latency_ms": 769.5
+    },
+    {
+      "title": "Suzuki SV 650 rear Exhaust silencer 2024 aftermarket",
+      "label": "missed",
+      "llm_output": {
+        "make": "suzuki",
+        "model": "sv 650",
+        "year_start": 2024,
+        "year_end": 2024
+      },
+      "llm_extracted": true,
+      "latency_ms": 955.0
+    },
+    {
+      "title": "Galfer Sintered HH Front Brake Pads Suzuki GSXR600 2011-2017",
+      "label": "correct",
+      "llm_output": {
+        "make": "suzuki",
+        "model": "gsxr600",
+        "year_start": 2011,
+        "year_end": 2017
+      },
+      "llm_extracted": true,
+      "latency_ms": 819.6
+    }
+  ]
+}
