@@ -348,8 +348,11 @@ def _score_bundle(parts: List[Dict], co_occurrences: Dict[str, Dict[str, int]] =
         if pair_count > 0:
             co_strength = total_affinity / pair_count
 
+    # price efficiency
+    price_efficiency = 1.0 / (1.0 + total_price / 100.0)
+
     # combine into final bundle score
-    bundle_score = 0.35 * mean_score + 0.25 * vendor_convenience + 0.2 * co_strength * (1.0 / (1.0 + total_price / 100.0))
+    bundle_score = 0.35 * mean_score + 0.25 * vendor_convenience + 0.2 * co_strength + 0.2 * price_efficiency
 
     return {
         "parts": parts,
@@ -361,6 +364,7 @@ def _score_bundle(parts: List[Dict], co_occurrences: Dict[str, Dict[str, int]] =
         "seller_names": sorted(sellers),
         "vendor_convenience": round(vendor_convenience, 3),
         "co_occurrence_strength": round(co_strength, 2),
+        "price_efficiency": round(price_efficiency, 3),
         "bundle_score": round(bundle_score, 3),
     }
 

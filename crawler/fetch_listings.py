@@ -36,7 +36,7 @@ LOG_FILE = os.path.join(PROJECT_ROOT, "logs/crawler.log")
 
 # example search terms
 SEARCH_TERMS = [
-    # ── Kawasaki ZX-6R (popular sport bike) ──
+    # ── Kawasaki ZX-6R ──
     "Kawasaki ZX6R brake pads",
     "Kawasaki ZX6R chain sprocket kit",
     "Kawasaki ZX6R oil filter",
@@ -45,14 +45,50 @@ SEARCH_TERMS = [
     "Kawasaki ZX6R exhaust",
     "Kawasaki ZX6R clutch",
  
+    # ── Kawasaki ZX-10R ──
+    "Kawasaki ZX10R brake pads",
+    "Kawasaki ZX10R chain sprocket kit",
+    "Kawasaki ZX10R oil filter",
+    "Kawasaki ZX10R fairing",
+    "Kawasaki ZX10R exhaust",
+ 
+    # ── Kawasaki Ninja 650 ──
+    "Kawasaki Ninja 650 brake pads",
+    "Kawasaki Ninja 650 oil filter",
+    "Kawasaki Ninja 650 chain kit",
+    "Kawasaki Ninja 650 exhaust",
+ 
+    # ── Kawasaki Z900 ──
+    "Kawasaki Z900 brake pads",
+    "Kawasaki Z900 oil filter",
+    "Kawasaki Z900 exhaust",
+ 
     # ── Yamaha YZF-R6 ──
-    "Yamaha R6 brake pads",
-    "Yamaha R6 chain sprocket kit",
-    "Yamaha R6 oil filter",
-    "Yamaha R6 air filter",
-    "Yamaha R6 fairing",
-    "Yamaha R6 exhaust",
-    "Yamaha R6 spark plugs",
+    "Yamaha YZF-R6 brake pads",
+    "Yamaha YZF-R6 chain sprocket kit",
+    "Yamaha YZF-R6 oil filter",
+    "Yamaha YZF-R6 air filter",
+    "Yamaha YZF-R6 fairing",
+    "Yamaha YZF-R6 exhaust",
+    "Yamaha YZF-R6 spark plugs",
+ 
+    # ── Yamaha YZF-R1 ──
+    "Yamaha YZF-R1 brake pads",
+    "Yamaha YZF-R1 chain sprocket kit",
+    "Yamaha YZF-R1 oil filter",
+    "Yamaha YZF-R1 exhaust",
+    "Yamaha YZF-R1 fairing",
+ 
+    # ── Yamaha MT-07 ──
+    "Yamaha MT-07 brake pads",
+    "Yamaha MT-07 oil filter",
+    "Yamaha MT-07 exhaust",
+    "Yamaha MT-07 chain kit",
+ 
+    # ── Yamaha MT-09 ──
+    "Yamaha MT-09 brake pads",
+    "Yamaha MT-09 oil filter",
+    "Yamaha MT-09 exhaust",
  
     # ── Honda CBR600RR ──
     "Honda CBR600RR brake pads",
@@ -61,17 +97,107 @@ SEARCH_TERMS = [
     "Honda CBR600RR fairing",
     "Honda CBR600RR exhaust",
  
-    # ── Yamaha R1 ──
-    "Yamaha R1 brake pads",
-    "Yamaha R1 chain sprocket kit",
-    "Yamaha R1 oil filter",
-    "Yamaha R1 exhaust",
+    # ── Honda CBR1000RR ──
+    "Honda CBR1000RR brake pads",
+    "Honda CBR1000RR chain sprocket kit",
+    "Honda CBR1000RR oil filter",
+    "Honda CBR1000RR exhaust",
+    "Honda CBR1000RR fairing",
  
-    # ── Ford Mustang (car example) ──
+    # ── Honda CB500F ──
+    "Honda CB500F brake pads",
+    "Honda CB500F oil filter",
+    "Honda CB500F exhaust",
+    "Honda CB500F chain kit",
+ 
+    # ── Suzuki GSX-R600 ──
+    "Suzuki GSXR600 brake pads",
+    "Suzuki GSXR600 chain sprocket kit",
+    "Suzuki GSXR600 oil filter",
+    "Suzuki GSXR600 fairing",
+    "Suzuki GSXR600 exhaust",
+ 
+    # ── Suzuki GSX-R750 ──
+    "Suzuki GSXR750 brake pads",
+    "Suzuki GSXR750 oil filter",
+    "Suzuki GSXR750 exhaust",
+ 
+    # ── Suzuki SV650 ──
+    "Suzuki SV650 brake pads",
+    "Suzuki SV650 oil filter",
+    "Suzuki SV650 chain kit",
+    "Suzuki SV650 exhaust",
+ 
+    # ── Ducati Panigale V4 ──
+    "Ducati Panigale V4 brake pads",
+    "Ducati Panigale V4 oil filter",
+    "Ducati Panigale V4 exhaust",
+    "Ducati Panigale V4 chain kit",
+ 
+    # ── Ducati Monster ──
+    "Ducati Monster brake pads",
+    "Ducati Monster oil filter",
+    "Ducati Monster exhaust",
+ 
+    # ── Triumph Street Triple ──
+    "Triumph Street Triple brake pads",
+    "Triumph Street Triple oil filter",
+    "Triumph Street Triple exhaust",
+    "Triumph Street Triple chain kit",
+ 
+    # ── Triumph Bonneville ──
+    "Triumph Bonneville brake pads",
+    "Triumph Bonneville oil filter",
+    "Triumph Bonneville exhaust",
+ 
+    # ── KTM Duke 390 ──
+    "KTM Duke 390 brake pads",
+    "KTM Duke 390 oil filter",
+    "KTM Duke 390 exhaust",
+    "KTM Duke 390 chain kit",
+ 
+    # ── BMW S1000RR ──
+    "BMW S1000RR brake pads",
+    "BMW S1000RR oil filter",
+    "BMW S1000RR exhaust",
+    "BMW S1000RR chain kit",
+ 
+    # ── Harley Davidson Sportster ──
+    "Harley Davidson Sportster brake pads",
+    "Harley Davidson Sportster oil filter",
+    "Harley Davidson Sportster exhaust",
+ 
+    # ── Ford Mustang ──
     "Ford Mustang brake pads",
     "Ford Mustang air filter",
     "Ford Mustang exhaust",
     "Ford Mustang spark plugs",
+ 
+    # ── Ford Focus ──
+    "Ford Focus brake pads",
+    "Ford Focus air filter",
+    "Ford Focus oil filter",
+ 
+    # ── BMW 3 Series ──
+    "BMW 3 Series brake pads",
+    "BMW 3 Series oil filter",
+    "BMW 3 Series air filter",
+    "BMW 3 Series spark plugs",
+ 
+    # ── Toyota Corolla ──
+    "Toyota Corolla brake pads",
+    "Toyota Corolla oil filter",
+    "Toyota Corolla air filter",
+ 
+    # ── Audi A4 ──
+    "Audi A4 brake pads",
+    "Audi A4 oil filter",
+    "Audi A4 air filter",
+ 
+    # ── Volkswagen Golf ──
+    "Volkswagen Golf brake pads",
+    "Volkswagen Golf oil filter",
+    "Volkswagen Golf spark plugs",
 ]
 
 # Set behaviour of API and Crawler
@@ -146,7 +272,8 @@ def get_access_token():
 def fetch_page(keyword: str, offset: int, token: str):
     headers = {
         "Authorization": f"Bearer {token}",
-        "Content-Type": "application/json"
+        "Content-Type": "application/json",
+        "X-EBAY-C-MARKETPLACE-ID": "EBAY_GB"
     }
     params = {
         "q": keyword,

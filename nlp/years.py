@@ -61,7 +61,7 @@ def extract_year_ranges(text: str) -> List[Tuple[int, int]]:
     for start, end in ranges:
         if start > end:
             start, end = end, start
-        if 1950 <= start <= 2050 and 1950 <= end <= 2050:
+        if 1931 <= start <= 2030 and 1931 <= end <= 2030:
             cleaned.append((start, end))
 
     # remove duplicate ranges
