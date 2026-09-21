@@ -24,8 +24,8 @@ index = build_index_from_registry(registry)
 
 # 1) Configure the crawler with eBay Devloper Program details.
 
-CLIENT_ID = "***REMOVED***"
-CLIENT_SECRET = "***REMOVED***"
+CLIENT_ID = os.environ["EBAY_CLIENT_ID"]
+CLIENT_SECRET = os.environ["EBAY_CLIENT_SECRET"]
 
 API_URL = "https://api.ebay.com/buy/browse/v1/item_summary/search"
 OAUTH_URL = "https://api.ebay.com/identity/v1/oauth2/token"
